@@ -10,7 +10,6 @@ I have no idea of what I'm doing, so feel free to correct me. I'm using the
 program [Aegisub](http://www.aegisub.org) for the first time, which produces
 ``.ass`` files. I wonder how will I upload these to youtube later…
 
-In fact, if you know how to make the editor work with macosx shortcuts (command
-instead of cltr/alt) please let me know, I have set up the timings from the
-audio but transcribing it seems impossible to do efficiently without hotkeys,
-and none seem to work.
+BTW: Under Macosx you have to use case sensitive bindings for the hotkeys,
+where case sensitive applies to the letter: Ctrl-r will bind to the control
+key, Ctrl-R will instead bind to both the control and command key.
