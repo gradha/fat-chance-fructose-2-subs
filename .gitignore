@@ -1,0 +1,5 @@
+# Global patterns
+*.swp
+.DS_Store
+
+# Full paths.
