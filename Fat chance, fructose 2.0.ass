@@ -7,9 +7,9 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 23
-Active Line: 33
-Video Zoom Percent: 0.25
+Scroll Position: 134
+Active Line: 150
+Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
 YCbCr Matrix: TV.601
@@ -64,113 +64,113 @@ Dialogue: 0,0:04:32.93,0:04:41.70,Default,,0,0,0,,Thank you Bobby and thank all 
 Dialogue: 0,0:04:41.70,0:04:47.90,Default,,0,0,0,,you know having done this 4 years ago and it really did change my life and hopefully changed a few peoples' lifes
 Dialogue: 0,0:04:47.90,0:04:51.03,Default,,0,0,0,,in the audience and certainly around the world
 Dialogue: 0,0:04:51.03,0:04:57.83,Default,,0,0,0,,I still get emails from that video today, ah, you know, people who've seen it for the first time
-Dialogue: 0,0:04:59.23,0:05:05.46,Default,,0,0,0,,that video we are gonna refer back to it in some, at some extent tonight
-Dialogue: 0,0:05:05.50,0:05:10.16,Default,,0,0,0,,
-Dialogue: 0,0:05:10.16,0:05:13.46,Default,,0,0,0,,
-Dialogue: 0,0:05:13.46,0:05:19.93,Default,,0,0,0,,
-Dialogue: 0,0:05:19.90,0:05:24.60,Default,,0,0,0,,
-Dialogue: 0,0:05:24.66,0:05:34.36,Default,,0,0,0,,
-Dialogue: 0,0:05:34.36,0:05:40.06,Default,,0,0,0,,
-Dialogue: 0,0:05:40.06,0:05:44.93,Default,,0,0,0,,
-Dialogue: 0,0:05:44.93,0:05:47.30,Default,,0,0,0,,
-Dialogue: 0,0:05:48.16,0:05:51.26,Default,,0,0,0,,
-Dialogue: 0,0:05:51.26,0:05:54.86,Default,,0,0,0,,
-Dialogue: 0,0:05:54.86,0:06:00.80,Default,,0,0,0,,
-Dialogue: 0,0:06:00.80,0:06:04.90,Default,,0,0,0,,
-Dialogue: 0,0:06:05.96,0:06:07.13,Default,,0,0,0,,
-Dialogue: 0,0:06:07.13,0:06:12.66,Default,,0,0,0,,
-Dialogue: 0,0:06:12.66,0:06:18.96,Default,,0,0,0,,
-Dialogue: 0,0:06:18.96,0:06:23.20,Default,,0,0,0,,
-Dialogue: 0,0:06:23.20,0:06:26.76,Default,,0,0,0,,
-Dialogue: 0,0:06:26.76,0:06:29.80,Default,,0,0,0,,
-Dialogue: 0,0:06:29.80,0:06:33.50,Default,,0,0,0,,
-Dialogue: 0,0:06:33.50,0:06:36.06,Default,,0,0,0,,
-Dialogue: 0,0:06:36.06,0:06:43.53,Default,,0,0,0,,
-Dialogue: 0,0:06:43.66,0:06:48.80,Default,,0,0,0,,
-Dialogue: 0,0:06:48.80,0:06:52.10,Default,,0,0,0,,
-Dialogue: 0,0:06:52.93,0:06:59.50,Default,,0,0,0,,
-Dialogue: 0,0:06:59.50,0:07:05.23,Default,,0,0,0,,
-Dialogue: 0,0:07:05.23,0:07:09.56,Default,,0,0,0,,
-Dialogue: 0,0:07:09.56,0:07:15.33,Default,,0,0,0,,
-Dialogue: 0,0:07:15.33,0:07:17.80,Default,,0,0,0,,
-Dialogue: 0,0:07:17.80,0:07:24.36,Default,,0,0,0,,
-Dialogue: 0,0:07:24.36,0:07:29.73,Default,,0,0,0,,
-Dialogue: 0,0:07:29.73,0:07:35.30,Default,,0,0,0,,
-Dialogue: 0,0:07:35.30,0:07:39.80,Default,,0,0,0,,
-Dialogue: 0,0:07:40.63,0:07:45.93,Default,,0,0,0,,
-Dialogue: 0,0:07:45.93,0:07:49.26,Default,,0,0,0,,
-Dialogue: 0,0:07:49.26,0:07:54.93,Default,,0,0,0,,
-Dialogue: 0,0:07:54.93,0:07:59.90,Default,,0,0,0,,
-Dialogue: 0,0:07:59.90,0:08:04.70,Default,,0,0,0,,
-Dialogue: 0,0:08:04.70,0:08:07.90,Default,,0,0,0,,
-Dialogue: 0,0:08:07.90,0:08:13.66,Default,,0,0,0,,
-Dialogue: 0,0:08:13.66,0:08:15.00,Default,,0,0,0,,
-Dialogue: 0,0:08:15.00,0:08:18.86,Default,,0,0,0,,
-Dialogue: 0,0:08:18.86,0:08:22.43,Default,,0,0,0,,
-Dialogue: 0,0:08:22.43,0:08:27.40,Default,,0,0,0,,
-Dialogue: 0,0:08:27.40,0:08:32.26,Default,,0,0,0,,
-Dialogue: 0,0:08:32.26,0:08:37.13,Default,,0,0,0,,
-Dialogue: 0,0:08:37.13,0:08:42.46,Default,,0,0,0,,
-Dialogue: 0,0:08:42.46,0:08:46.96,Default,,0,0,0,,
-Dialogue: 0,0:08:46.96,0:08:53.56,Default,,0,0,0,,
-Dialogue: 0,0:08:53.56,0:08:57.03,Default,,0,0,0,,
-Dialogue: 0,0:08:57.03,0:09:00.90,Default,,0,0,0,,
-Dialogue: 0,0:09:00.90,0:09:03.16,Default,,0,0,0,,
-Dialogue: 0,0:09:03.93,0:09:09.06,Default,,0,0,0,,
-Dialogue: 0,0:09:09.06,0:09:16.63,Default,,0,0,0,,
-Dialogue: 0,0:09:16.63,0:09:21.06,Default,,0,0,0,,
-Dialogue: 0,0:09:21.06,0:09:25.23,Default,,0,0,0,,
-Dialogue: 0,0:09:25.23,0:09:28.96,Default,,0,0,0,,
-Dialogue: 0,0:09:28.96,0:09:37.06,Default,,0,0,0,,
-Dialogue: 0,0:09:37.06,0:09:42.63,Default,,0,0,0,,
-Dialogue: 0,0:09:42.63,0:09:50.66,Default,,0,0,0,,
-Dialogue: 0,0:09:50.66,0:10:01.40,Default,,0,0,0,,
-Dialogue: 0,0:10:01.40,0:10:05.43,Default,,0,0,0,,
-Dialogue: 0,0:10:05.43,0:10:12.03,Default,,0,0,0,,
-Dialogue: 0,0:10:12.03,0:10:15.00,Default,,0,0,0,,
-Dialogue: 0,0:10:15.00,0:10:18.63,Default,,0,0,0,,
-Dialogue: 0,0:10:18.63,0:10:24.16,Default,,0,0,0,,
-Dialogue: 0,0:10:24.16,0:10:29.93,Default,,0,0,0,,
-Dialogue: 0,0:10:29.93,0:10:35.70,Default,,0,0,0,,
-Dialogue: 0,0:10:35.70,0:10:39.13,Default,,0,0,0,,
-Dialogue: 0,0:10:39.13,0:10:42.70,Default,,0,0,0,,
-Dialogue: 0,0:10:42.70,0:10:47.80,Default,,0,0,0,,
-Dialogue: 0,0:10:47.80,0:10:54.06,Default,,0,0,0,,
-Dialogue: 0,0:10:54.06,0:11:00.06,Default,,0,0,0,,
-Dialogue: 0,0:11:00.06,0:11:03.40,Default,,0,0,0,,
-Dialogue: 0,0:11:04.76,0:11:08.03,Default,,0,0,0,,
-Dialogue: 0,0:11:08.03,0:11:11.56,Default,,0,0,0,,
-Dialogue: 0,0:11:11.56,0:11:14.30,Default,,0,0,0,,
-Dialogue: 0,0:11:14.30,0:11:16.40,Default,,0,0,0,,
-Dialogue: 0,0:11:16.86,0:11:21.23,Default,,0,0,0,,
-Dialogue: 0,0:11:21.23,0:11:25.93,Default,,0,0,0,,
-Dialogue: 0,0:11:25.93,0:11:29.73,Default,,0,0,0,,
-Dialogue: 0,0:11:29.73,0:11:35.40,Default,,0,0,0,,
-Dialogue: 0,0:11:35.40,0:11:39.86,Default,,0,0,0,,
-Dialogue: 0,0:11:39.86,0:11:43.96,Default,,0,0,0,,
-Dialogue: 0,0:11:43.96,0:11:48.16,Default,,0,0,0,,
-Dialogue: 0,0:11:48.16,0:11:49.86,Default,,0,0,0,,
-Dialogue: 0,0:11:49.86,0:11:58.40,Default,,0,0,0,,
-Dialogue: 0,0:11:58.40,0:12:00.40,Default,,0,0,0,,
-Dialogue: 0,0:12:00.40,0:12:03.40,Default,,0,0,0,,
-Dialogue: 0,0:12:03.40,0:12:08.23,Default,,0,0,0,,
-Dialogue: 0,0:12:08.23,0:12:14.73,Default,,0,0,0,,
-Dialogue: 0,0:12:14.73,0:12:19.23,Default,,0,0,0,,
-Dialogue: 0,0:12:19.23,0:12:22.93,Default,,0,0,0,,
-Dialogue: 0,0:12:22.93,0:12:26.30,Default,,0,0,0,,
-Dialogue: 0,0:12:26.30,0:12:30.40,Default,,0,0,0,,
-Dialogue: 0,0:12:30.40,0:12:36.06,Default,,0,0,0,,
-Dialogue: 0,0:12:36.06,0:12:42.00,Default,,0,0,0,,
-Dialogue: 0,0:12:42.00,0:12:48.36,Default,,0,0,0,,
-Dialogue: 0,0:12:48.36,0:12:54.23,Default,,0,0,0,,
-Dialogue: 0,0:12:54.23,0:12:58.20,Default,,0,0,0,,
-Dialogue: 0,0:12:58.20,0:13:03.23,Default,,0,0,0,,
-Dialogue: 0,0:13:03.23,0:13:11.76,Default,,0,0,0,,
-Dialogue: 0,0:13:11.76,0:13:14.93,Default,,0,0,0,,
-Dialogue: 0,0:13:14.93,0:13:22.10,Default,,0,0,0,,
-Dialogue: 0,0:13:22.10,0:13:27.46,Default,,0,0,0,,
-Dialogue: 0,0:13:27.46,0:13:33.63,Default,,0,0,0,,
-Dialogue: 0,0:13:33.63,0:13:38.60,Default,,0,0,0,,
+Dialogue: 0,0:04:59.23,0:05:05.46,Default,,0,0,0,,that video we are gonna refer back to it in some, to some extent tonight
+Dialogue: 0,0:05:05.50,0:05:10.16,Default,,0,0,0,,'cause I am not gonna redo the biochemestry, there's no point in doing it twice
+Dialogue: 0,0:05:10.16,0:05:13.46,Default,,0,0,0,,what we're gonna talk tonight about is primarily the physiology
+Dialogue: 0,0:05:13.46,0:05:19.93,Default,,0,0,0,,so, in essence, the two videos will end up being complementary on youtube
+Dialogue: 0,0:05:19.90,0:05:24.60,Default,,0,0,0,,and hopefully people who watch it will end up watching both, so keep that in mind
+Dialogue: 0,0:05:24.66,0:05:34.36,Default,,0,0,0,,all right, well, a lot happened in four years, and the data just keeps rolling in, and unfortunately for us all the data is pretty awful
+Dialogue: 0,0:05:34.36,0:05:40.06,Default,,0,0,0,,so you'll see why as we go and I will try to delineate that as we go
+Dialogue: 0,0:05:40.06,0:05:44.93,Default,,0,0,0,,so first of all I have no disclosures, no food industry is putting me up to this
+Dialogue: 0,0:05:44.93,0:05:47.30,Default,,0,0,0,,you be sure of that
+Dialogue: 0,0:05:48.16,0:05:51.26,Default,,0,0,0,,so here's the past, this is 2001
+Dialogue: 0,0:05:51.26,0:05:54.86,Default,,0,0,0,,6 million kids are seriously overwheight, well
+Dialogue: 0,0:05:54.86,0:06:00.80,Default,,0,0,0,,with all of the media attention, with all of the NAH money, with all of the clinical programs
+Dialogue: 0,0:06:00.80,0:06:04.90,Default,,0,0,0,,and with Michelle Obama's vegetable gardens we are now up to 20 million
+Dialogue: 0,0:06:05.96,0:06:07.13,Default,,0,0,0,,here's the present
+Dialogue: 0,0:06:07.13,0:06:12.66,Default,,0,0,0,,currently there are 30 percent more obese people on the planet than undernourished people
+Dialogue: 0,0:06:12.66,0:06:18.96,Default,,0,0,0,,and this has happened only within 15 years because 15 years ago was exactly the opposite
+Dialogue: 0,0:06:18.96,0:06:23.20,Default,,0,0,0,,and it's occurring in countries that still have under nutrition
+Dialogue: 0,0:06:23.20,0:06:26.76,Default,,0,0,0,,so how do you explain that, other than to say
+Dialogue: 0,0:06:26.76,0:06:29.80,Default,,0,0,0,,that can't be behaviour, that's gotta be an exposure
+Dialogue: 0,0:06:29.80,0:06:33.50,Default,,0,0,0,,this looks like any standard pandemic
+Dialogue: 0,0:06:33.50,0:06:36.06,Default,,0,0,0,,influenza, typhoid, etc
+Dialogue: 0,0:06:36.06,0:06:43.53,Default,,0,0,0,,this looks like a microbial phenomenon rather than a behavioral phenomenon, we're gonna go there
+Dialogue: 0,0:06:43.66,0:06:48.80,Default,,0,0,0,,366 million diabetics walking the earth, that's 5 percent of the worlds' population
+Dialogue: 0,0:06:48.80,0:06:52.10,Default,,0,0,0,,and they are chewing through all the health-care resources
+Dialogue: 0,0:06:52.93,0:06:59.50,Default,,0,0,0,,this was just three months ago, diabetics cost the US 24 billion dollars
+Dialogue: 0,0:06:59.50,0:07:05.23,Default,,0,0,0,,now if we could recoup even a fraction of that we wouldn't even need health-care reform
+Dialogue: 0,0:07:05.23,0:07:09.56,Default,,0,0,0,,in fact it's been suggested that we wouldn't even need financial reform
+Dialogue: 0,0:07:09.56,0:07:15.33,Default,,0,0,0,,ok, 41 percent rise in 5 years, this is going up so fast it makes your head spin
+Dialogue: 0,0:07:15.33,0:07:17.80,Default,,0,0,0,,and here's the future if we do nothing
+Dialogue: 0,0:07:17.80,0:07:24.36,Default,,0,0,0,,experts predict 165 million Americans, 42 percent would be obese by the year 2030
+Dialogue: 0,0:07:24.36,0:07:29.73,Default,,0,0,0,,100 million Americans, that'll be 33 percent, will have diabetes by 2050
+Dialogue: 0,0:07:29.73,0:07:35.30,Default,,0,0,0,,but fear not, because it won't really matter because Medicare will be broke by 2026
+Dialogue: 0,0:07:35.30,0:07:39.80,Default,,0,0,0,,so, as the Soup Nazi once said: "No health-care for you"
+Dialogue: 0,0:07:40.63,0:07:45.93,Default,,0,0,0,,well, the fact of the matter is, I'm gonna be 69 in 2026 and I want my fricking Medicare
+Dialogue: 0,0:07:45.93,0:07:49.26,Default,,0,0,0,,and… so should you all
+Dialogue: 0,0:07:49.26,0:07:54.93,Default,,0,0,0,,the point is, we have to do something different, and you know the old adage, right?
+Dialogue: 0,0:07:54.93,0:07:59.90,Default,,0,0,0,,the definition of insanity is doing the same thing over and over again and expecting a different result
+Dialogue: 0,0:07:59.90,0:08:04.70,Default,,0,0,0,,well I'm here to tell you for the last 30 years we've done the same thing over and over and over again
+Dialogue: 0,0:08:04.70,0:08:07.90,Default,,0,0,0,,and there has been no change in the result
+Dialogue: 0,0:08:07.90,0:08:13.66,Default,,0,0,0,,so we have to rethink this, we have to reframe the argument and that's what we are gonna try to do tonight
+Dialogue: 0,0:08:13.66,0:08:15.00,Default,,0,0,0,,and I'm'a doit right now
+Dialogue: 0,0:08:15.00,0:08:18.86,Default,,0,0,0,,so here's the way people view this issue
+Dialogue: 0,0:08:18.86,0:08:22.43,Default,,0,0,0,,this is a Venn diagram of all the adults in America
+Dialogue: 0,0:08:22.43,0:08:27.40,Default,,0,0,0,,30 percent obese over here, and 70 percent normal weight over here
+Dialogue: 0,0:08:27.40,0:08:32.26,Default,,0,0,0,,and everybody assumes that the problem is this group over here because
+Dialogue: 0,0:08:32.26,0:08:37.13,Default,,0,0,0,,80 percent of the obese population is sick in some fashion
+Dialogue: 0,0:08:37.13,0:08:42.46,Default,,0,0,0,,with type-2 diabetes, lipid problems, hypertension, cardiovascular disease, cancer, dementia,
+Dialogue: 0,0:08:42.46,0:08:46.96,Default,,0,0,0,,none alcoholic fatty liver disease, polysistical ovarian disease, etc, etc
+Dialogue: 0,0:08:46.96,0:08:53.56,Default,,0,0,0,,so, if you do the math on this, that's 80 percent of 30 percent of 240 million, that's 57 million sick
+Dialogue: 0,0:08:53.56,0:08:57.03,Default,,0,0,0,,and it's those 57 million that are bankrupting the country
+Dialogue: 0,0:08:57.03,0:09:00.90,Default,,0,0,0,,and so it's the obese person's fault only
+Dialogue: 0,0:09:00.90,0:09:03.16,Default,,0,0,0,,and that's the way everyone views this
+Dialogue: 0,0:09:03.93,0:09:09.06,Default,,0,0,0,,this is wrong, this is a mistake, this is a disaster actually, because it is not correct
+Dialogue: 0,0:09:09.06,0:09:16.63,Default,,0,0,0,,here's the real story, in fact, 20 percent of the obese population is completely metabolically normal
+Dialogue: 0,0:09:16.63,0:09:21.06,Default,,0,0,0,,they have normal insulin dynamics, they don't get sick,
+Dialogue: 0,0:09:21.06,0:09:25.23,Default,,0,0,0,,they will live a completely normal life, die at a completely normal age,
+Dialogue: 0,0:09:25.23,0:09:28.96,Default,,0,0,0,,cost the taxpayer nothing, they're just fat
+Dialogue: 0,0:09:28.96,0:09:37.06,Default,,0,0,0,,conversely, up to 40 percent of the normal weight population have the exact same metabolic dysfunction
+Dialogue: 0,0:09:37.06,0:09:42.63,Default,,0,0,0,,that the obese do, they are just normal weight, and so they don't even know they are sick, until it's too late
+Dialogue: 0,0:09:42.63,0:09:50.66,Default,,0,0,0,,because, normal weight people get type-2 diabetes, they get hypertension, they get dyslipidemia, they get cardiovascular disease, they get cancer, they get dementia, etc, etc
+Dialogue: 0,0:09:50.66,0:10:01.40,Default,,0,0,0,,and so when you do the math on that, that's another 67 million, so that's actually outclassing the obese, and so the total is 124 million, that's more than half of all of America
+Dialogue: 0,0:10:01.40,0:10:05.43,Default,,0,0,0,,Now, you may remember HIV
+Dialogue: 0,0:10:05.43,0:10:12.03,Default,,0,0,0,,Remember HIV? When did HIV become a public health crisis?
+Dialogue: 0,0:10:12.03,0:10:15.00,Default,,0,0,0,,No, not in the 80s
+Dialogue: 0,0:10:15.00,0:10:18.63,Default,,0,0,0,,In the, in 1991
+Dialogue: 0,0:10:18.63,0:10:24.16,Default,,0,0,0,,1991, 1979 patient zero, so we first learned about the, you know
+Dialogue: 0,0:10:24.16,0:10:29.93,Default,,0,0,0,,the diagnoses, throughout the entire 80s it was all about the gays and the attics (?)
+Dialogue: 0,0:10:29.93,0:10:35.70,Default,,0,0,0,,and it was always, it's their problem, their personal responsibility, their behavior, their fault
+Dialogue: 0,0:10:35.70,0:10:39.13,Default,,0,0,0,,and then something happened in 1991, anybody remember what it was?
+Dialogue: 0,0:10:39.13,0:10:42.70,Default,,0,0,0,,Magic Johnson, Magic Johnson got HIV
+Dialogue: 0,0:10:42.70,0:10:47.80,Default,,0,0,0,,and all of a sudden everyone went "Holly Mother…" you know what
+Dialogue: 0,0:10:47.80,0:10:54.06,Default,,0,0,0,,and everybody realized, you know what? everyone's at risk, and all of a sudden it became a public health crisis
+Dialogue: 0,0:10:54.06,0:11:00.06,Default,,0,0,0,,so when does a personal responsibility issue become a public health crisis? and that's what we're gonna talk about tonight
+Dialogue: 0,0:11:00.06,0:11:03.40,Default,,0,0,0,,because this is a public health crisis
+Dialogue: 0,0:11:04.76,0:11:08.03,Default,,0,0,0,,here's the slide that demonstrates the phenomenon
+Dialogue: 0,0:11:08.03,0:11:11.56,Default,,0,0,0,,so here are two equally weighted adult men
+Dialogue: 0,0:11:11.56,0:11:14.30,Default,,0,0,0,,which one's healthy and which one's sick
+Dialogue: 0,0:11:14.30,0:11:16.40,Default,,0,0,0,,anybody know?
+Dialogue: 0,0:11:16.86,0:11:21.23,Default,,0,0,0,,the one on the bottom is sick, right, he's sick
+Dialogue: 0,0:11:21.23,0:11:25.93,Default,,0,0,0,,why? All that visceral fat, all that fat surrounding the organs
+Dialogue: 0,0:11:25.93,0:11:29.73,Default,,0,0,0,,see this guy over here he's got big love handles, but you know, so what
+Dialogue: 0,0:11:29.73,0:11:35.40,Default,,0,0,0,,in fact, this is perfectly healthy, it's no problem, because subcutaneous fat is actually kinda good for you
+Dialogue: 0,0:11:35.40,0:11:39.86,Default,,0,0,0,,there are actually studies that show more subcutaneous fat, more longevity
+Dialogue: 0,0:11:39.86,0:11:43.96,Default,,0,0,0,,whereas this stuff, this is the bad stuff, this is the poison stuff over here
+Dialogue: 0,0:11:43.96,0:11:48.16,Default,,0,0,0,,so, the fact is, standing on a scale doesn't tell you where your fat is
+Dialogue: 0,0:11:48.16,0:11:49.86,Default,,0,0,0,,what does?
+Dialogue: 0,0:11:49.86,0:11:58.40,Default,,0,0,0,,well your weight ??? is a good start, and then there's some lab tests you can do as well, the bottom line is there are a lot of normal weight people who have this phenomenon called TOFI
+Dialogue: 0,0:11:58.40,0:12:00.40,Default,,0,0,0,,Thin in the outside fat on the inside
+Dialogue: 0,0:12:00.40,0:12:03.40,Default,,0,0,0,,ok? Probably some right here in the audience
+Dialogue: 0,0:12:03.40,0:12:08.23,Default,,0,0,0,,and they get type-2 diabetes, they get dyslipidemia, they get hypertension, etc, etc, you get the picture?
+Dialogue: 0,0:12:08.23,0:12:14.73,Default,,0,0,0,,everyone's at risk, because everyone's exposed, the question is, what it is you're exposed to?
+Dialogue: 0,0:12:14.73,0:12:19.23,Default,,0,0,0,,because obesity is not the problem, it never was
+Dialogue: 0,0:12:19.23,0:12:22.93,Default,,0,0,0,,they want you to think it's the problem, but it ain't the problem
+Dialogue: 0,0:12:22.93,0:12:26.30,Default,,0,0,0,,what is the problem? Metabolic syndrome is the problem
+Dialogue: 0,0:12:26.30,0:12:30.40,Default,,0,0,0,,the cluster of diseases that I've just described you, 'cause that's where all the money goes
+Dialogue: 0,0:12:30.40,0:12:36.06,Default,,0,0,0,,obesity cost almost nothing, metabolic syndrome is 75 percent of all health-care costs today
+Dialogue: 0,0:12:36.06,0:12:42.00,Default,,0,0,0,,and there's the list right there, everyone with me now? Ok, do I have your attention? Ok
+Dialogue: 0,0:12:42.00,0:12:48.36,Default,,0,0,0,,So how does this work? So this actually is a redundancy from the previous Youtube video so I apologize for that
+Dialogue: 0,0:12:48.36,0:12:54.23,Default,,0,0,0,,it has to do with how you view the question of obesity and what does it mean, so
+Dialogue: 0,0:12:54.23,0:12:58.20,Default,,0,0,0,,of course obesity obeys the first law of thermodynamics, and I don't argue that
+Dialogue: 0,0:12:58.20,0:13:03.23,Default,,0,0,0,,the total energy inside a closed system remains constant. It's a law
+Dialogue: 0,0:13:03.23,0:13:11.76,Default,,0,0,0,,ok, if I didn't believe in the first law of thermodynamics you'd have me written out on the rail, I'd be the ultimate heretic and zealot and I would be discredited
+Dialogue: 0,0:13:11.76,0:13:14.93,Default,,0,0,0,,of course I believe in the first law of thermodynamics, it's a law
+Dialogue: 0,0:13:14.93,0:13:22.10,Default,,0,0,0,,the question is, as I've learned from my legal training, who's truth, which interpretation
+Dialogue: 0,0:13:22.10,0:13:27.46,Default,,0,0,0,,you know the Supreme Court always comes down 5-4 on everything, right, right?
+Dialogue: 0,0:13:27.46,0:13:33.63,Default,,0,0,0,,True, ok, because there are two interpretations, I mean, basically that's what the Supreme Court ???, interpreting the law
+Dialogue: 0,0:13:33.63,0:13:38.60,Default,,0,0,0,,the law is the law, but the interpretation is something else, so here are two interpretations
 Dialogue: 0,0:13:38.60,0:13:43.43,Default,,0,0,0,,
 Dialogue: 0,0:13:43.43,0:13:48.63,Default,,0,0,0,,
 Dialogue: 0,0:13:48.63,0:13:51.53,Default,,0,0,0,,
