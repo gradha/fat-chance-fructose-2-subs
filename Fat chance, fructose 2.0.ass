@@ -7,9 +7,11 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 0
-Active Line: 4
-Video Zoom Percent: 1
+Scroll Position: 23
+Active Line: 33
+Video Zoom Percent: 0.25
+PlayResX: 1920
+PlayResY: 1080
 YCbCr Matrix: TV.601
 
 [V4+ Styles]
@@ -23,46 +25,46 @@ Dialogue: 0,0:00:05.14,0:00:12.24,Default,,0,0,0,,Like what you learn? Visit our
 Dialogue: 0,0:01:00.40,0:01:08.48,Default,,0,0,0,,Good evenening every one. Welcome again to our penultimate class in this semesters' course in nutrition
 Dialogue: 0,0:01:08.56,0:01:16.22,Default,,0,0,0,,a reminder that next week we will be talking about vitamins and minerals and vitamin and mineral supplements so please join us for that last class
 Dialogue: 0,0:01:16.48,0:01:22.08,Default,,0,0,0,,Dr Jeffrey Thais will be the professor joining us that evening
-Dialogue: 0,0:01:22.62,0:01:29.80,Default,,0,0,0,,
-Dialogue: 0,0:01:30.10,0:01:36.74,Default,,0,0,0,,
-Dialogue: 0,0:01:36.74,0:01:42.18,Default,,0,0,0,,
-Dialogue: 0,0:01:42.18,0:01:47.36,Default,,0,0,0,,
-Dialogue: 0,0:01:48.08,0:01:55.12,Default,,0,0,0,,
-Dialogue: 0,0:01:55.18,0:02:00.73,Default,,0,0,0,,
-Dialogue: 0,0:02:01.23,0:02:07.33,Default,,0,0,0,,
-Dialogue: 0,0:02:07.33,0:02:18.83,Default,,0,0,0,,
-Dialogue: 0,0:02:18.96,0:02:23.43,Default,,0,0,0,,
-Dialogue: 0,0:02:23.43,0:02:28.63,Default,,0,0,0,,
-Dialogue: 0,0:02:28.63,0:02:32.46,Default,,0,0,0,,
-Dialogue: 0,0:02:32.46,0:02:36.83,Default,,0,0,0,,
-Dialogue: 0,0:02:36.83,0:02:43.20,Default,,0,0,0,,
-Dialogue: 0,0:02:43.20,0:02:46.70,Default,,0,0,0,,
-Dialogue: 0,0:02:46.70,0:02:52.80,Default,,0,0,0,,
-Dialogue: 0,0:02:52.80,0:02:59.90,Default,,0,0,0,,
-Dialogue: 0,0:02:59.90,0:03:04.36,Default,,0,0,0,,
-Dialogue: 0,0:03:04.36,0:03:07.53,Default,,0,0,0,,
-Dialogue: 0,0:03:07.53,0:03:11.73,Default,,0,0,0,,
-Dialogue: 0,0:03:12.96,0:03:15.86,Default,,0,0,0,,
-Dialogue: 0,0:03:16.60,0:03:22.26,Default,,0,0,0,,
-Dialogue: 0,0:03:22.26,0:03:29.63,Default,,0,0,0,,
-Dialogue: 0,0:03:29.63,0:03:32.46,Default,,0,0,0,,
-Dialogue: 0,0:03:32.46,0:03:36.10,Default,,0,0,0,,
-Dialogue: 0,0:03:36.10,0:03:40.00,Default,,0,0,0,,
-Dialogue: 0,0:03:40.56,0:03:44.66,Default,,0,0,0,,
-Dialogue: 0,0:03:46.40,0:03:50.43,Default,,0,0,0,,
-Dialogue: 0,0:03:50.43,0:03:56.46,Default,,0,0,0,,
-Dialogue: 0,0:03:56.46,0:03:59.66,Default,,0,0,0,,
-Dialogue: 0,0:03:59.66,0:04:04.90,Default,,0,0,0,,
-Dialogue: 0,0:04:04.90,0:04:07.90,Default,,0,0,0,,
-Dialogue: 0,0:04:07.90,0:04:12.06,Default,,0,0,0,,
-Dialogue: 0,0:04:12.76,0:04:16.23,Default,,0,0,0,,
-Dialogue: 0,0:04:16.23,0:04:20.76,Default,,0,0,0,,
-Dialogue: 0,0:04:20.76,0:04:25.56,Default,,0,0,0,,
-Dialogue: 0,0:04:32.93,0:04:41.70,Default,,0,0,0,,
-Dialogue: 0,0:04:41.70,0:04:47.90,Default,,0,0,0,,
-Dialogue: 0,0:04:47.90,0:04:51.03,Default,,0,0,0,,
-Dialogue: 0,0:04:51.03,0:04:57.83,Default,,0,0,0,,
-Dialogue: 0,0:04:59.23,0:05:05.46,Default,,0,0,0,,
+Dialogue: 0,0:01:22.62,0:01:29.80,Default,,0,0,0,,tonight we have what I guess for some of you has been the lecture you've been waiting for since the beginning
+Dialogue: 0,0:01:30.10,0:01:36.74,Default,,0,0,0,,Dr Lustig gave a similar lecture in 2009
+Dialogue: 0,0:01:36.74,0:01:42.18,Default,,0,0,0,,little did we know at the time that it would have 3.5 million downloads
+Dialogue: 0,0:01:42.18,0:01:47.36,Default,,0,0,0,,since then ? in this room at a course very similar to this that I also cheared ?
+Dialogue: 0,0:01:48.08,0:01:55.12,Default,,0,0,0,,and it's really... I think changed his life more than anything else but I think the hope is, that… it's also
+Dialogue: 0,0:01:55.18,0:02:00.73,Default,,0,0,0,,changed the field and the topic and the policies and the politics that we are going to talk about tonight
+Dialogue: 0,0:02:01.23,0:02:07.33,Default,,0,0,0,,many of you know Dr. Lustig is an internationally known neuroendicronologist in pediatrics
+Dialogue: 0,0:02:07.33,0:02:18.83,Default,,0,0,0,,he trained for part of his time at UCSF then went back east to do a clinical neuroendicronology and came back to UCSF in 2001
+Dialogue: 0,0:02:18.96,0:02:23.43,Default,,0,0,0,,where he's continued to do his clinical science
+Dialogue: 0,0:02:23.43,0:02:28.63,Default,,0,0,0,,on factors that control appetite, particularly the interaction between
+Dialogue: 0,0:02:28.63,0:02:32.46,Default,,0,0,0,,the hormones of insulin, leptin, grellin,
+Dialogue: 0,0:02:32.46,0:02:36.83,Default,,0,0,0,,and appetite control and metabolic syndrome and obesity
+Dialogue: 0,0:02:36.83,0:02:43.20,Default,,0,0,0,,more recently… in part around the time of the video and certainly in the four years since
+Dialogue: 0,0:02:43.20,0:02:46.70,Default,,0,0,0,,Rob has become an international leader
+Dialogue: 0,0:02:46.70,0:02:52.80,Default,,0,0,0,,in the efforts to improve our nutrition not only in the United States but around the world
+Dialogue: 0,0:02:52.80,0:02:59.90,Default,,0,0,0,,he's focused a larger part by putting a real microscope on the issues of
+Dialogue: 0,0:02:59.90,0:03:04.36,Default,,0,0,0,,fructose and sugar in general and refined foods in general
+Dialogue: 0,0:03:04.36,0:03:07.53,Default,,0,0,0,,the relationship of the dieatary fiber and the many of the other topics
+Dialogue: 0,0:03:07.53,0:03:11.73,Default,,0,0,0,,that we've been talking about over the course of the course
+Dialogue: 0,0:03:12.96,0:03:15.86,Default,,0,0,0,,Rob just returned from Europe
+Dialogue: 0,0:03:16.60,0:03:22.26,Default,,0,0,0,,this morning, in fact arrived here at 5 o'clock this evening
+Dialogue: 0,0:03:22.26,0:03:29.63,Default,,0,0,0,,we think he had dinner, we know he hasn't had sleep, it's 4 o'clock Europe time for him so
+Dialogue: 0,0:03:29.63,0:03:32.46,Default,,0,0,0,,this was really a heroic effort
+Dialogue: 0,0:03:32.46,0:03:36.10,Default,,0,0,0,,our fingers were crossed that all the flights would be on time
+Dialogue: 0,0:03:36.10,0:03:40.00,Default,,0,0,0,,and I'm very pleased more than you can imagine
+Dialogue: 0,0:03:40.56,0:03:44.66,Default,,0,0,0,,that he's here tonight, 'cause I didn't wanna give this lecture as well
+Dialogue: 0,0:03:46.40,0:03:50.43,Default,,0,0,0,,but in addition to his work, Rob recently took a sabbatical
+Dialogue: 0,0:03:50.43,0:03:56.46,Default,,0,0,0,,in order to further this work and spend a large part of that time at his ? school of law
+Dialogue: 0,0:03:56.46,0:03:59.66,Default,,0,0,0,,giving a Master of studies in Law
+Dialogue: 0,0:03:59.66,0:04:04.90,Default,,0,0,0,,and part of his aspiration I think is really to aid his legal training now
+Dialogue: 0,0:04:04.90,0:04:07.90,Default,,0,0,0,,to his science and medical training
+Dialogue: 0,0:04:07.90,0:04:12.06,Default,,0,0,0,,to continue to advocate for good nutrition around the world so
+Dialogue: 0,0:04:12.76,0:04:16.23,Default,,0,0,0,,we're very anxious to hear about his newest thoughts on this topic
+Dialogue: 0,0:04:16.23,0:04:20.76,Default,,0,0,0,,we've entitled the talk the same title as his best selling book
+Dialogue: 0,0:04:20.76,0:04:25.56,Default,,0,0,0,,"Fat Chance" and added the subtitle "Fructose 2.0", Rob
+Dialogue: 0,0:04:32.93,0:04:41.70,Default,,0,0,0,,Thank you Bobby and thank all of you for coming, you know, to some extent this is sort of like dejavu all over again
+Dialogue: 0,0:04:41.70,0:04:47.90,Default,,0,0,0,,you know having done this 4 years ago and it really did change my life and hopefully changed a few peoples' lifes
+Dialogue: 0,0:04:47.90,0:04:51.03,Default,,0,0,0,,in the audience and certainly around the world
+Dialogue: 0,0:04:51.03,0:04:57.83,Default,,0,0,0,,I still get emails from that video today, ah, you know, people who've seen it for the first time
+Dialogue: 0,0:04:59.23,0:05:05.46,Default,,0,0,0,,that video we are gonna refer back to it in some, at some extent tonight
 Dialogue: 0,0:05:05.50,0:05:10.16,Default,,0,0,0,,
 Dialogue: 0,0:05:10.16,0:05:13.46,Default,,0,0,0,,
 Dialogue: 0,0:05:13.46,0:05:19.93,Default,,0,0,0,,
