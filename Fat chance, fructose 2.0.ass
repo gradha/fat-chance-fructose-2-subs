@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 134
-Active Line: 150
+Scroll Position: 272
+Active Line: 288
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -170,145 +170,145 @@ Dialogue: 0,0:13:11.76,0:13:14.93,Default,,0,0,0,,of course I believe in the fir
 Dialogue: 0,0:13:14.93,0:13:22.10,Default,,0,0,0,,the question is, as I've learned from my legal training, who's truth, which interpretation
 Dialogue: 0,0:13:22.10,0:13:27.46,Default,,0,0,0,,you know the Supreme Court always comes down 5-4 on everything, right, right?
 Dialogue: 0,0:13:27.46,0:13:33.63,Default,,0,0,0,,True, ok, because there are two interpretations, I mean, basically that's what the Supreme Court ???, interpreting the law
-Dialogue: 0,0:13:33.63,0:13:38.60,Default,,0,0,0,,the law is the law, but the interpretation is something else, so here are two interpretations
-Dialogue: 0,0:13:38.60,0:13:43.43,Default,,0,0,0,,
-Dialogue: 0,0:13:43.43,0:13:48.63,Default,,0,0,0,,
-Dialogue: 0,0:13:48.63,0:13:51.53,Default,,0,0,0,,
-Dialogue: 0,0:13:51.53,0:13:58.56,Default,,0,0,0,,
-Dialogue: 0,0:13:58.56,0:14:03.80,Default,,0,0,0,,
-Dialogue: 0,0:14:03.80,0:14:07.70,Default,,0,0,0,,
-Dialogue: 0,0:14:07.70,0:14:13.50,Default,,0,0,0,,
-Dialogue: 0,0:14:13.53,0:14:19.46,Default,,0,0,0,,
-Dialogue: 0,0:14:19.46,0:14:24.30,Default,,0,0,0,,
-Dialogue: 0,0:14:24.30,0:14:29.06,Default,,0,0,0,,
-Dialogue: 0,0:14:29.06,0:14:37.36,Default,,0,0,0,,
-Dialogue: 0,0:14:37.36,0:14:41.40,Default,,0,0,0,,
-Dialogue: 0,0:14:41.40,0:14:47.36,Default,,0,0,0,,
-Dialogue: 0,0:14:47.36,0:14:49.63,Default,,0,0,0,,
-Dialogue: 0,0:14:49.63,0:14:54.06,Default,,0,0,0,,
-Dialogue: 0,0:14:54.06,0:15:02.20,Default,,0,0,0,,
-Dialogue: 0,0:15:02.20,0:15:07.56,Default,,0,0,0,,
-Dialogue: 0,0:15:07.56,0:15:11.40,Default,,0,0,0,,
-Dialogue: 0,0:15:11.40,0:15:14.50,Default,,0,0,0,,
-Dialogue: 0,0:15:14.50,0:15:20.10,Default,,0,0,0,,
-Dialogue: 0,0:15:20.10,0:15:25.26,Default,,0,0,0,,
-Dialogue: 0,0:15:25.26,0:15:33.43,Default,,0,0,0,,
-Dialogue: 0,0:15:33.43,0:15:40.03,Default,,0,0,0,,
-Dialogue: 0,0:15:40.03,0:15:45.46,Default,,0,0,0,,
-Dialogue: 0,0:15:45.46,0:15:49.00,Default,,0,0,0,,
-Dialogue: 0,0:15:50.83,0:15:57.40,Default,,0,0,0,,
-Dialogue: 0,0:15:57.40,0:16:03.36,Default,,0,0,0,,
-Dialogue: 0,0:16:03.36,0:16:09.96,Default,,0,0,0,,
-Dialogue: 0,0:16:09.96,0:16:15.16,Default,,0,0,0,,
-Dialogue: 0,0:16:15.70,0:16:25.03,Default,,0,0,0,,
-Dialogue: 0,0:16:25.03,0:16:29.66,Default,,0,0,0,,
-Dialogue: 0,0:16:29.66,0:16:36.30,Default,,0,0,0,,
-Dialogue: 0,0:16:36.30,0:16:42.36,Default,,0,0,0,,
-Dialogue: 0,0:16:42.36,0:16:45.76,Default,,0,0,0,,
-Dialogue: 0,0:16:45.76,0:16:48.66,Default,,0,0,0,,
-Dialogue: 0,0:16:48.66,0:16:52.20,Default,,0,0,0,,
-Dialogue: 0,0:16:52.20,0:16:56.36,Default,,0,0,0,,
-Dialogue: 0,0:16:56.36,0:17:01.96,Default,,0,0,0,,
-Dialogue: 0,0:17:01.96,0:17:06.26,Default,,0,0,0,,
-Dialogue: 0,0:17:06.26,0:17:10.60,Default,,0,0,0,,
-Dialogue: 0,0:17:10.60,0:17:13.00,Default,,0,0,0,,
-Dialogue: 0,0:17:13.00,0:17:18.73,Default,,0,0,0,,
-Dialogue: 0,0:17:18.73,0:17:23.80,Default,,0,0,0,,
-Dialogue: 0,0:17:23.80,0:17:28.10,Default,,0,0,0,,
-Dialogue: 0,0:17:28.10,0:17:32.06,Default,,0,0,0,,
-Dialogue: 0,0:17:32.06,0:17:37.73,Default,,0,0,0,,
-Dialogue: 0,0:17:37.73,0:17:42.56,Default,,0,0,0,,
-Dialogue: 0,0:17:42.56,0:17:45.33,Default,,0,0,0,,
-Dialogue: 0,0:17:45.33,0:17:48.46,Default,,0,0,0,,
-Dialogue: 0,0:17:48.46,0:17:53.56,Default,,0,0,0,,
-Dialogue: 0,0:17:53.56,0:17:57.23,Default,,0,0,0,,
-Dialogue: 0,0:17:57.23,0:18:01.63,Default,,0,0,0,,
-Dialogue: 0,0:18:01.63,0:18:04.40,Default,,0,0,0,,
-Dialogue: 0,0:18:04.40,0:18:08.26,Default,,0,0,0,,
-Dialogue: 0,0:18:08.26,0:18:13.63,Default,,0,0,0,,
-Dialogue: 0,0:18:13.63,0:18:17.30,Default,,0,0,0,,
-Dialogue: 0,0:18:17.30,0:18:22.63,Default,,0,0,0,,
-Dialogue: 0,0:18:22.63,0:18:27.93,Default,,0,0,0,,
-Dialogue: 0,0:18:28.66,0:18:32.93,Default,,0,0,0,,
-Dialogue: 0,0:18:32.93,0:18:35.70,Default,,0,0,0,,
-Dialogue: 0,0:18:35.70,0:18:39.16,Default,,0,0,0,,
-Dialogue: 0,0:18:39.16,0:18:44.26,Default,,0,0,0,,
-Dialogue: 0,0:18:44.26,0:18:48.40,Default,,0,0,0,,
-Dialogue: 0,0:18:48.40,0:18:53.13,Default,,0,0,0,,
-Dialogue: 0,0:18:53.13,0:18:56.63,Default,,0,0,0,,
-Dialogue: 0,0:18:56.63,0:19:02.46,Default,,0,0,0,,
-Dialogue: 0,0:19:02.46,0:19:08.26,Default,,0,0,0,,
-Dialogue: 0,0:19:08.26,0:19:10.53,Default,,0,0,0,,
-Dialogue: 0,0:19:10.53,0:19:19.73,Default,,0,0,0,,
-Dialogue: 0,0:19:19.73,0:19:23.60,Default,,0,0,0,,
-Dialogue: 0,0:19:23.60,0:19:27.16,Default,,0,0,0,,
-Dialogue: 0,0:19:27.16,0:19:35.90,Default,,0,0,0,,
-Dialogue: 0,0:19:35.90,0:19:40.56,Default,,0,0,0,,
-Dialogue: 0,0:19:40.56,0:19:44.66,Default,,0,0,0,,
-Dialogue: 0,0:19:44.66,0:19:50.90,Default,,0,0,0,,
-Dialogue: 0,0:19:50.90,0:19:58.33,Default,,0,0,0,,
-Dialogue: 0,0:19:58.33,0:20:03.33,Default,,0,0,0,,
-Dialogue: 0,0:20:03.33,0:20:06.30,Default,,0,0,0,,
-Dialogue: 0,0:20:06.30,0:20:09.00,Default,,0,0,0,,
-Dialogue: 0,0:20:09.00,0:20:14.26,Default,,0,0,0,,
-Dialogue: 0,0:20:14.26,0:20:18.43,Default,,0,0,0,,
-Dialogue: 0,0:20:18.43,0:20:22.23,Default,,0,0,0,,
-Dialogue: 0,0:20:22.23,0:20:26.66,Default,,0,0,0,,
-Dialogue: 0,0:20:26.66,0:20:33.90,Default,,0,0,0,,
-Dialogue: 0,0:20:33.90,0:20:38.50,Default,,0,0,0,,
-Dialogue: 0,0:20:38.50,0:20:45.86,Default,,0,0,0,,
-Dialogue: 0,0:20:45.86,0:20:52.90,Default,,0,0,0,,
-Dialogue: 0,0:20:52.90,0:20:57.90,Default,,0,0,0,,
-Dialogue: 0,0:20:57.90,0:21:02.23,Default,,0,0,0,,
-Dialogue: 0,0:21:02.23,0:21:07.36,Default,,0,0,0,,
-Dialogue: 0,0:21:07.36,0:21:11.30,Default,,0,0,0,,
-Dialogue: 0,0:21:11.30,0:21:18.60,Default,,0,0,0,,
-Dialogue: 0,0:21:18.60,0:21:22.26,Default,,0,0,0,,
-Dialogue: 0,0:21:22.26,0:21:28.76,Default,,0,0,0,,
-Dialogue: 0,0:21:28.76,0:21:32.83,Default,,0,0,0,,
-Dialogue: 0,0:21:32.83,0:21:37.03,Default,,0,0,0,,
-Dialogue: 0,0:21:37.03,0:21:43.40,Default,,0,0,0,,
-Dialogue: 0,0:21:43.40,0:21:50.96,Default,,0,0,0,,
-Dialogue: 0,0:21:50.96,0:21:56.90,Default,,0,0,0,,
-Dialogue: 0,0:21:56.90,0:22:02.46,Default,,0,0,0,,
-Dialogue: 0,0:22:02.46,0:22:06.56,Default,,0,0,0,,
-Dialogue: 0,0:22:06.56,0:22:11.96,Default,,0,0,0,,
-Dialogue: 0,0:22:11.96,0:22:17.46,Default,,0,0,0,,
-Dialogue: 0,0:22:17.46,0:22:21.00,Default,,0,0,0,,
-Dialogue: 0,0:22:21.00,0:22:26.46,Default,,0,0,0,,
-Dialogue: 0,0:22:26.46,0:22:31.06,Default,,0,0,0,,
-Dialogue: 0,0:22:31.06,0:22:36.76,Default,,0,0,0,,
-Dialogue: 0,0:22:36.76,0:22:42.36,Default,,0,0,0,,
-Dialogue: 0,0:22:42.36,0:22:49.03,Default,,0,0,0,,
-Dialogue: 0,0:22:49.03,0:22:51.63,Default,,0,0,0,,
-Dialogue: 0,0:22:51.63,0:22:57.76,Default,,0,0,0,,
-Dialogue: 0,0:22:57.76,0:23:04.96,Default,,0,0,0,,
-Dialogue: 0,0:23:04.96,0:23:07.20,Default,,0,0,0,,
-Dialogue: 0,0:23:07.96,0:23:10.10,Default,,0,0,0,,
-Dialogue: 0,0:23:10.53,0:23:13.96,Default,,0,0,0,,
-Dialogue: 0,0:23:13.96,0:23:16.76,Default,,0,0,0,,
-Dialogue: 0,0:23:16.76,0:23:22.53,Default,,0,0,0,,
-Dialogue: 0,0:23:22.53,0:23:28.93,Default,,0,0,0,,
-Dialogue: 0,0:23:28.93,0:23:35.10,Default,,0,0,0,,
-Dialogue: 0,0:23:35.10,0:23:40.10,Default,,0,0,0,,
-Dialogue: 0,0:23:40.10,0:23:44.10,Default,,0,0,0,,
-Dialogue: 0,0:23:44.10,0:23:47.20,Default,,0,0,0,,
-Dialogue: 0,0:23:47.20,0:23:49.83,Default,,0,0,0,,
-Dialogue: 0,0:23:49.83,0:23:56.63,Default,,0,0,0,,
-Dialogue: 0,0:23:56.63,0:23:59.73,Default,,0,0,0,,
-Dialogue: 0,0:23:59.73,0:24:04.13,Default,,0,0,0,,
-Dialogue: 0,0:24:04.13,0:24:06.13,Default,,0,0,0,,
-Dialogue: 0,0:24:06.83,0:24:15.33,Default,,0,0,0,,
-Dialogue: 0,0:24:15.33,0:24:22.93,Default,,0,0,0,,
-Dialogue: 0,0:24:22.93,0:24:29.26,Default,,0,0,0,,
-Dialogue: 0,0:24:29.26,0:24:35.33,Default,,0,0,0,,
-Dialogue: 0,0:24:35.33,0:24:38.76,Default,,0,0,0,,
-Dialogue: 0,0:24:38.76,0:24:48.26,Default,,0,0,0,,
-Dialogue: 0,0:24:48.26,0:24:52.50,Default,,0,0,0,,
-Dialogue: 0,0:24:52.50,0:25:00.73,Default,,0,0,0,,
-Dialogue: 0,0:25:00.73,0:25:03.30,Default,,0,0,0,,
-Dialogue: 0,0:25:03.30,0:25:10.60,Default,,0,0,0,,
-Dialogue: 0,0:25:10.60,0:25:14.86,Default,,0,0,0,,
+Dialogue: 0,0:13:33.63,0:13:38.60,Default,,0,0,0,,the law is the law, but the interpretation is something else, so here are the two interpretations
+Dialogue: 0,0:13:38.60,0:13:43.43,Default,,0,0,0,,If you eat it, you better burn it, or you gonna store it
+Dialogue: 0,0:13:43.43,0:13:48.63,Default,,0,0,0,,if that's true, then this is a matter of energy balance
+Dialogue: 0,0:13:48.63,0:13:51.53,Default,,0,0,0,,energy balance, that's what everyone will tell you
+Dialogue: 0,0:13:51.53,0:13:58.56,Default,,0,0,0,,and it's the result of two aberrant behaviors, calories in - gluttony, calories out - sloth
+Dialogue: 0,0:13:58.56,0:14:03.80,Default,,0,0,0,,and that's what everybody assumes, is, if you're obese, well you must eat too much or exercise too little, or both
+Dialogue: 0,0:14:03.80,0:14:07.70,Default,,0,0,0,,and therefore, it's your fault
+Dialogue: 0,0:14:07.70,0:14:13.50,Default,,0,0,0,,and that's what we believe and to this day we still don't have insurance for obesity
+Dialogue: 0,0:14:13.53,0:14:19.46,Default,,0,0,0,,although just today, you know that the AMA finally said "obesity is a disease"
+Dialogue: 0,0:14:19.46,0:14:24.30,Default,,0,0,0,,so it's funny, because actually in 2004 HHS said obesity is a disease
+Dialogue: 0,0:14:24.30,0:14:29.06,Default,,0,0,0,,it took the AMA 9 years to catch up with HHS, figure that out
+Dialogue: 0,0:14:29.06,0:14:37.36,Default,,0,0,0,,so the do… it's based on this dogma, the dogma is, that if you eat more than you burn you'll gain weight, if you eat less than you burn you'll lose weight
+Dialogue: 0,0:14:37.36,0:14:41.40,Default,,0,0,0,,because all calories are the same, a calorie is a calorie
+Dialogue: 0,0:14:41.40,0:14:47.36,Default,,0,0,0,,this is the biggest… pile of you-know-what there is
+Dialogue: 0,0:14:47.36,0:14:49.63,Default,,0,0,0,,this is absolute not true
+Dialogue: 0,0:14:49.63,0:14:54.06,Default,,0,0,0,,but if you believe it then the corollaries of a calorie is a calorie are
+Dialogue: 0,0:14:54.06,0:15:02.20,Default,,0,0,0,,that this is free will, you get to choose what you get to put in your mouth, it's personal responsibility because if you are obese you chose to be
+Dialogue: 0,0:15:02.20,0:15:07.56,Default,,0,0,0,,gluttony and sloth that is your problem and diet and exercise will fix it
+Dialogue: 0,0:15:07.56,0:15:11.40,Default,,0,0,0,,that's what everyone believes from a calorie is a calorie
+Dialogue: 0,0:15:11.40,0:15:14.50,Default,,0,0,0,,and who says that a calorie is a calorie, well?
+Dialogue: 0,0:15:14.50,0:15:20.10,Default,,0,0,0,,the food industry says a calorie is a calorie, and that's 'cause it serves them well, so this is the fiction
+Dialogue: 0,0:15:20.10,0:15:25.26,Default,,0,0,0,,this is Coca-Cola coming together video on Youtube
+Dialogue: 0,0:15:25.26,0:15:33.43,Default,,0,0,0,,released just before the Superbowl, that says: "Beating obesity will take action by all of us based on one simple common sense fact"
+Dialogue: 0,0:15:33.43,0:15:40.03,Default,,0,0,0,,common sense fact, all calories count, no matter where they come from, including Coca-cola and everything else with calories, a calorie is a calorie
+Dialogue: 0,0:15:40.03,0:15:45.46,Default,,0,0,0,,why pick on Coca-cola, why pick on Burger King, why pick on any individual
+Dialogue: 0,0:15:45.46,0:15:49.00,Default,,0,0,0,,because it serves them well, because it diffuses the issue
+Dialogue: 0,0:15:50.83,0:15:57.40,Default,,0,0,0,,so, is that what we've got? We've just gut a caloric bachanalia? Oh, sorry, wait, this is wrong, that's better, ok
+Dialogue: 0,0:15:57.40,0:16:03.36,Default,,0,0,0,,Indeed we are all eating more, I don't argue that, 187 calories per day more for men,
+Dialogue: 0,0:16:03.36,0:16:09.96,Default,,0,0,0,,335 calories per day more for women, 275 calories more per day for teen boys
+Dialogue: 0,0:16:09.96,0:16:15.16,Default,,0,0,0,,than 25 years ago, we are all eating more, I don't argue that, of course we are, question is why
+Dialogue: 0,0:16:15.70,0:16:25.03,Default,,0,0,0,,so you'd say, well this is why, this is the evolution of fast food over here, 1957 we had the original White Castle hamburger, 210 calories right there, 1 ounce
+Dialogue: 0,0:16:25.03,0:16:29.66,Default,,0,0,0,,over here we have today's Bob's Big Boy over here at 618 calories
+Dialogue: 0,0:16:29.66,0:16:36.30,Default,,0,0,0,,and of course in the midst of the obesity epidemic hardies (?) had the temerity to offer us the Thickburger at 1420 calories
+Dialogue: 0,0:16:36.30,0:16:42.36,Default,,0,0,0,,and of course you can go to Carls' Junior and get the 6$ burger, which is 2000 calories, that's the entire caloric allotment for the day
+Dialogue: 0,0:16:42.36,0:16:45.76,Default,,0,0,0,,and people are proud to go doit, right?
+Dialogue: 0,0:16:45.76,0:16:48.66,Default,,0,0,0,,How? Anybody here had a Trenta?
+Dialogue: 0,0:16:48.66,0:16:52.20,Default,,0,0,0,,A Trenta, yes, no? Ok, so that's this guy over here
+Dialogue: 0,0:16:52.20,0:16:56.36,Default,,0,0,0,,so it's not hot coffee, it's a cold coffee drink
+Dialogue: 0,0:16:56.36,0:17:01.96,Default,,0,0,0,,flavored with you-know-what, and it is 916 cc
+Dialogue: 0,0:17:01.96,0:17:06.26,Default,,0,0,0,,well, your stomach is 900cc, it's bigger than your stomach
+Dialogue: 0,0:17:06.26,0:17:10.60,Default,,0,0,0,,so you'd say, well there's your answer, Q.E.D, it's all over right?
+Dialogue: 0,0:17:10.60,0:17:13.00,Default,,0,0,0,,How about this? I love this, it's came in the mail
+Dialogue: 0,0:17:13.00,0:17:18.73,Default,,0,0,0,,"Free chicken sandwich from KFC with the purchase of a 30 ounce drink"
+Dialogue: 0,0:17:18.73,0:17:23.80,Default,,0,0,0,,the food's gotten so cheap we're are giving it away? That's where we are, ok
+Dialogue: 0,0:17:23.80,0:17:28.10,Default,,0,0,0,,Or is it the opposite side of the equation? Is it an activity famine?
+Dialogue: 0,0:17:28.10,0:17:32.06,Default,,0,0,0,,So this is a study that was done looking at physical activity here on the Y axis
+Dialogue: 0,0:17:32.06,0:17:37.73,Default,,0,0,0,,against age, 9-years old to 19-years old, for white girls and black girls
+Dialogue: 0,0:17:37.73,0:17:42.56,Default,,0,0,0,,so you can see that by the time they hit age 15 the black girls are just lying prostrate on the floor
+Dialogue: 0,0:17:42.56,0:17:45.33,Default,,0,0,0,,'cause there's no physical activity whatsoever
+Dialogue: 0,0:17:45.33,0:17:48.46,Default,,0,0,0,,so you say, well there's your answer, that's why everyone's obese
+Dialogue: 0,0:17:48.46,0:17:53.56,Default,,0,0,0,,because they're eating too much and they're exercising too little, gluttony and sloth, diet and exercise
+Dialogue: 0,0:17:53.56,0:17:57.23,Default,,0,0,0,,just like common sense tells you
+Dialogue: 0,0:17:57.23,0:18:01.63,Default,,0,0,0,,well, you know what? I don't believe in common sense, I believe in data
+Dialogue: 0,0:18:01.63,0:18:04.40,Default,,0,0,0,,Ok? And that's why we do research
+Dialogue: 0,0:18:04.40,0:18:08.26,Default,,0,0,0,,because education consists mainly of what we have unlearned
+Dialogue: 0,0:18:08.26,0:18:13.63,Default,,0,0,0,,in fact, if everything that we knew were true, there would be no reason for research, would there?
+Dialogue: 0,0:18:13.63,0:18:17.30,Default,,0,0,0,,I would never have to do any research 'cause everything we knew was already right
+Dialogue: 0,0:18:17.30,0:18:22.63,Default,,0,0,0,,In fact, everything we learned 10 years ago is already wrong, and everything we know today will be wrong 10 years from now
+Dialogue: 0,0:18:22.63,0:18:27.93,Default,,0,0,0,,and that's why you do research, and the fact is the research tells us something very different
+Dialogue: 0,0:18:28.66,0:18:32.93,Default,,0,0,0,,so, is this behavior, is this personal responsibility? what do you think
+Dialogue: 0,0:18:32.93,0:18:35.70,Default,,0,0,0,,there are 6 reasons to doubt this
+Dialogue: 0,0:18:35.70,0:18:39.16,Default,,0,0,0,,Number 1: no child chooses to be obese
+Dialogue: 0,0:18:39.16,0:18:44.26,Default,,0,0,0,,the quality of an obese… life of an obese child is the same as a patient on cancer chemotherapy
+Dialogue: 0,0:18:44.26,0:18:48.40,Default,,0,0,0,,why would anyone choose this, in fact, children are ostracized
+Dialogue: 0,0:18:48.40,0:18:53.13,Default,,0,0,0,,Does, second, does diet work? Now everybody knows somebody who lost weight on a diet
+Dialogue: 0,0:18:53.13,0:18:56.63,Default,,0,0,0,,and then of course they gained it all back, and that's what all the data shows
+Dialogue: 0,0:18:56.63,0:19:02.46,Default,,0,0,0,,and the number of people who can actually maintain their weight loss for any length of time is vanishingly small
+Dialogue: 0,0:19:02.46,0:19:08.26,Default,,0,0,0,,and if it weren't true you wouldn't be sitting here listening to me, because you'd say, well why do I have to listen to him?
+Dialogue: 0,0:19:08.26,0:19:10.53,Default,,0,0,0,,Does exercise work? So, 
+Dialogue: 0,0:19:10.53,0:19:19.73,Default,,0,0,0,,here are studies of exercise and this is the identity line here and you can see when compared with no treatment exercise resulted in very small weight loss across the board
+Dialogue: 0,0:19:19.73,0:19:23.60,Default,,0,0,0,,one BMI point, bigger exercise 1.5 BMI points
+Dialogue: 0,0:19:23.60,0:19:27.16,Default,,0,0,0,,considering, we are all 7 to 8 BMI points more than we should be
+Dialogue: 0,0:19:27.16,0:19:35.90,Default,,0,0,0,,you know, that ain't gonna cut it, because exercise does not cause weight loss. Does not cause weight loss.
+Dialogue: 0,0:19:35.90,0:19:40.56,Default,,0,0,0,,What does exercise do? It causes muscle gain, and that's good
+Dialogue: 0,0:19:40.56,0:19:44.66,Default,,0,0,0,,because muscles have mitochondria, mitochondria burn energy
+Dialogue: 0,0:19:44.66,0:19:50.90,Default,,0,0,0,,so you stay insulin sensitive because you have a place to put your energy instead of in your liver where it causes problems
+Dialogue: 0,0:19:50.90,0:19:58.33,Default,,0,0,0,,so, exercise is the single best thing you can do for yourself, but if you think it's gonna show up on the scale, think again
+Dialogue: 0,0:19:58.33,0:20:03.33,Default,,0,0,0,,So when you stand on the scale, what are you measuring? You're measuring 4 compartments at once
+Dialogue: 0,0:20:03.33,0:20:06.30,Default,,0,0,0,,Bone, more is better
+Dialogue: 0,0:20:06.30,0:20:09.00,Default,,0,0,0,,Muscle, more is better
+Dialogue: 0,0:20:09.00,0:20:14.26,Default,,0,0,0,,Subcutaneous fat, more is better, I just showed you
+Dialogue: 0,0:20:14.26,0:20:18.43,Default,,0,0,0,,and finally visceral fat, more is worse
+Dialogue: 0,0:20:18.43,0:20:22.23,Default,,0,0,0,,Now the visceral fat usually ac compasses about 4 to 6 percent of your total body weight
+Dialogue: 0,0:20:22.23,0:20:26.66,Default,,0,0,0,,so when you stand on the scale, what are you measuring? You don't know, you can't possibly know
+Dialogue: 0,0:20:26.66,0:20:33.90,Default,,0,0,0,,So, we have all these doctors telling their patients, well if you'd only exercise you'd lose weight, and then of course they don't
+Dialogue: 0,0:20:33.90,0:20:38.50,Default,,0,0,0,,because they've built muscle, which is good, but it doesn't show up on the scale
+Dialogue: 0,0:20:38.50,0:20:45.86,Default,,0,0,0,,and then they get depressed, because, oh, I was doing this to lose weight and it didn't work, and so I might as well stop because obviously it doesn't work for me
+Dialogue: 0,0:20:45.86,0:20:52.90,Default,,0,0,0,,this is the single most egregious thing doctors do to their patients today, and as far as I'm concerned, that's almost malpractice
+Dialogue: 0,0:20:52.90,0:20:57.90,Default,,0,0,0,,because the data say otherwise
+Dialogue: 0,0:20:57.90,0:21:02.23,Default,,0,0,0,,Number 3, this isn't just about America
+Dialogue: 0,0:21:02.23,0:21:07.36,Default,,0,0,0,,and it's not just about UK, it's not just about Australia, yes we are the 3 fattest countries
+Dialogue: 0,0:21:07.36,0:21:11.30,Default,,0,0,0,,and we spent the least amount of our GDP on food, that's true
+Dialogue: 0,0:21:11.30,0:21:18.60,Default,,0,0,0,,but it's going on everywhere, every country, every single country on the planet has shown an uptick in obesity
+Dialogue: 0,0:21:18.60,0:21:22.26,Default,,0,0,0,,some have shown an uptick in diabetes and some have shown a downtick
+Dialogue: 0,0:21:22.26,0:21:28.76,Default,,0,0,0,,but for obesity, everybody's going up, doesn't matter where you look, every country has shown an increase
+Dialogue: 0,0:21:28.76,0:21:32.83,Default,,0,0,0,,Number 4, the poor are disproportionately affected
+Dialogue: 0,0:21:32.83,0:21:37.03,Default,,0,0,0,,and they don't have access to choices, they can't even leave their house for fear of crime
+Dialogue: 0,0:21:37.03,0:21:43.40,Default,,0,0,0,,how they'gonna exercise, how they're gonna let their kids out, to go play in the yard, when they might, you know, face a straight bullet
+Dialogue: 0,0:21:43.40,0:21:50.96,Default,,0,0,0,,they don't have a supermarkets, they live in food desserts, so if you don't have a choice, how can you call it personal responsibility?
+Dialogue: 0,0:21:50.96,0:21:56.90,Default,,0,0,0,,You know, this is one of the most egregious, pejorative statements that there is
+Dialogue: 0,0:21:56.90,0:22:02.46,Default,,0,0,0,,Number 5, the prevalence of obesity is going up in the group
+Dialogue: 0,0:22:02.46,0:22:06.56,Default,,0,0,0,,that you can least ascribe personal responsibility to, the toddler
+Dialogue: 0,0:22:06.56,0:22:11.96,Default,,0,0,0,,the 2-5 year old group is going up the fastest, you wanna say that that's personal respons… oh you say
+Dialogue: 0,0:22:11.96,0:22:17.46,Default,,0,0,0,,the personal responsibility of the parent, right, for letting them have the sugar pops and
+Dialogue: 0,0:22:17.46,0:22:21.00,Default,,0,0,0,,and you know, and the sodas, and the fruit juices, and everything else is, parents' fault
+Dialogue: 0,0:22:21.00,0:22:26.46,Default,,0,0,0,,except for one thing, we've been having an epidemic of obese 6 months olds, and they don't diet and exercise
+Dialogue: 0,0:22:26.46,0:22:31.06,Default,,0,0,0,,so any hypothesis you wanna proffer, you have to explain this as well
+Dialogue: 0,0:22:31.06,0:22:36.76,Default,,0,0,0,,and it's even worse than that, because we have obesity in newborns
+Dialogue: 0,0:22:36.76,0:22:42.36,Default,,0,0,0,,newborns, ok? Birth weights gone up by 200 grams all over the world
+Dialogue: 0,0:22:42.36,0:22:49.03,Default,,0,0,0,,all over the world over the last 25 years, and when you look at, when you do dexa scans to figure out what the body composition is
+Dialogue: 0,0:22:49.03,0:22:51.63,Default,,0,0,0,,it's all fat, it's all fat
+Dialogue: 0,0:22:51.63,0:22:57.76,Default,,0,0,0,,so there, these babies are laying down more fat before they're ever born and fat cells wanna get filled
+Dialogue: 0,0:22:57.76,0:23:04.96,Default,,0,0,0,,that's why we have obese 6 months old, because everybody is laying down more fat, so the question is how? Why?
+Dialogue: 0,0:23:04.96,0:23:07.20,Default,,0,0,0,,Why they are laying down more fat today?
+Dialogue: 0,0:23:07.96,0:23:10.10,Default,,0,0,0,,Most clearly, mother's diet
+Dialogue: 0,0:23:10.53,0:23:13.96,Default,,0,0,0,,But you wanna blame the newborn for that problem?
+Dialogue: 0,0:23:13.96,0:23:16.76,Default,,0,0,0,,Is that their problem? Is that their fault?
+Dialogue: 0,0:23:16.76,0:23:22.53,Default,,0,0,0,,So you wanna blame the pregnant mother? Well you know… then, just go backwards like that, so basically blame everybody
+Dialogue: 0,0:23:22.53,0:23:28.93,Default,,0,0,0,,or blame nobody, I blame nobody. Actually I do blame somebody but you're gonna get there by the end
+Dialogue: 0,0:23:28.93,0:23:35.10,Default,,0,0,0,,So we are talking about behavior, right? Behavior, so this is the definition of behavior, this is all from the original video
+Dialogue: 0,0:23:35.10,0:23:40.10,Default,,0,0,0,,A stereotyped motor response to a physiological stimulus, so let's take that apart
+Dialogue: 0,0:23:40.10,0:23:44.10,Default,,0,0,0,,Stereotyped, same every time, so, yes, eating is a behavior
+Dialogue: 0,0:23:44.10,0:23:47.20,Default,,0,0,0,,motor, muscles have to move, a thought is not a behavior
+Dialogue: 0,0:23:47.20,0:23:49.83,Default,,0,0,0,,and finally, physiological, and that's where I come in
+Dialogue: 0,0:23:49.83,0:23:56.63,Default,,0,0,0,,What's the physiology behind the obesity epidemic? Why do you eat too much and exercise too little?
+Dialogue: 0,0:23:56.63,0:23:59.73,Default,,0,0,0,,Because all behaviors have a biochemical basis
+Dialogue: 0,0:23:59.73,0:24:04.13,Default,,0,0,0,,Now sometimes we are smart enough to know what it is and sometimes we are not smart enough to know what it is
+Dialogue: 0,0:24:04.13,0:24:06.13,Default,,0,0,0,,give you an example: schizophrenia
+Dialogue: 0,0:24:06.83,0:24:15.33,Default,,0,0,0,,For a 100 years schizophrenia was behavioral disorder, now we know it's a defect in dopamine neuro transmission, and probably actually a defect in glucose transport across the brain
+Dialogue: 0,0:24:15.33,0:24:22.93,Default,,0,0,0,,Ok? These are biochemical problems, that ultimately manifest themselves as a behavioral disorder, this is no different
+Dialogue: 0,0:24:22.93,0:24:29.26,Default,,0,0,0,,So what are the biochemical underpinnings behind gluttony and sloth? That's the question, and that's what we're gonna try to answer now
+Dialogue: 0,0:24:29.26,0:24:35.33,Default,,0,0,0,,So in order to answer that we have to know some science, and I'm gonna make this very brief and very quick
+Dialogue: 0,0:24:35.33,0:24:38.76,Default,,0,0,0,,We're gonna talk about these two hormones right over here, called leptin and insulin
+Dialogue: 0,0:24:38.76,0:24:48.26,Default,,0,0,0,,so leptin is a hormone that comes from your fat cell, goes to your brain and tells your brain, you have enough energy on board, to engage in normal, expensive metabolic processes
+Dialogue: 0,0:24:48.26,0:24:52.50,Default,,0,0,0,,you can burn energy at a normal rate and feel good doing it
+Dialogue: 0,0:24:52.50,0:25:00.73,Default,,0,0,0,,ok? And tells your brain, you've got enough energy on board, if your leptin goes down, or if your brain doesn't see your leptin, then your brain sees that as starvation
+Dialogue: 0,0:25:00.73,0:25:03.30,Default,,0,0,0,,Everybody got that?
+Dialogue: 0,0:25:03.30,0:25:10.60,Default,,0,0,0,,Insulin is equally interesting, because insulin tells your fat cell one thing, it says, store energy
+Dialogue: 0,0:25:10.60,0:25:14.86,Default,,0,0,0,,and it tells your brain something else, it tells your brain: stop
 Dialogue: 0,0:25:14.86,0:25:21.30,Default,,0,0,0,,
 Dialogue: 0,0:25:21.30,0:25:28.23,Default,,0,0,0,,
 Dialogue: 0,0:25:28.23,0:25:33.00,Default,,0,0,0,,
