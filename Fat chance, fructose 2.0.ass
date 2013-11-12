@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 1027
-Active Line: 1043
+Scroll Position: 1085
+Active Line: 1101
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -471,7 +471,7 @@ Dialogue: 0,0:38:41.68,0:38:44.88,Default,,0,0,0,,here's a perfect example, and 
 Dialogue: 0,0:38:44.88,0:38:46.88,Default,,0,0,0,,well, guess what
 Dialogue: 0,0:38:46.88,0:38:50.13,Default,,0,0,0,,it's not the only one, this is too
 Dialogue: 0,0:38:50.13,0:38:55.28,Default,,0,0,0,,and I'll show you why, so there are the two papers… you know, popular press items
-Dialogue: 0,0:38:55.28,0:39:02.22,Default,,0,0,0,,this was from the New York Times magazine in 2011, is sugar toxic, from Gary Taubes based our work here at USCF
+Dialogue: 0,0:38:55.28,0:39:02.22,Default,,0,0,0,,this was from the New York Times magazine in 2011, is sugar toxic, from Gary Taubes based our work here at UCSF
 Dialogue: 0,0:39:02.22,0:39:07.02,Default,,0,0,0,,and this is a, Comment, that we had Nature, last year, that got quite a bit of heat
 Dialogue: 0,0:39:07.02,0:39:14.97,Default,,0,0,0,,more than light unfortunately, called "The toxic truth about sugar" that I wrote with my colleagues here, Laura Schmidt and Claire Brindis at the Institute for Health Policy Studies
 Dialogue: 0,0:39:14.97,0:39:19.28,Default,,0,0,0,,So, hazardous to your health, and the reason is because
@@ -1063,62 +1063,62 @@ Dialogue: 0,1:20:35.86,1:20:40.97,Default,,0,0,0,,and these are very clearly per
 Dialogue: 0,1:20:40.97,1:20:45.51,Default,,0,0,0,,except they are not, they are public health crises, how about this one down here?
 Dialogue: 0,1:20:45.51,1:20:51.11,Default,,0,0,0,,What do you think about guns? San Francisco so I know what you think about guns, but
 Dialogue: 0,1:20:51.11,1:20:56.40,Default,,0,0,0,,John Howard, the Australian Prime Minister
-Dialogue: 0,1:20:56.40,1:21:04.48,Default,,0,0,0,,
-Dialogue: 0,1:21:04.48,1:21:09.33,Default,,0,0,0,,
-Dialogue: 0,1:21:09.33,1:21:13.46,Default,,0,0,0,,
-Dialogue: 0,1:21:13.46,1:21:20.17,Default,,0,0,0,,
-Dialogue: 0,1:21:20.22,1:21:24.13,Default,,0,0,0,,
-Dialogue: 0,1:21:24.13,1:21:29.64,Default,,0,0,0,,
-Dialogue: 0,1:21:29.64,1:21:32.53,Default,,0,0,0,,
-Dialogue: 0,1:21:32.53,1:21:34.66,Default,,0,0,0,,
-Dialogue: 0,1:21:34.66,1:21:39.68,Default,,0,0,0,,
-Dialogue: 0,1:21:39.68,1:21:43.46,Default,,0,0,0,,
-Dialogue: 0,1:21:43.46,1:21:48.53,Default,,0,0,0,,
-Dialogue: 0,1:21:48.53,1:21:51.82,Default,,0,0,0,,
-Dialogue: 0,1:21:51.82,1:21:56.35,Default,,0,0,0,,
-Dialogue: 0,1:21:56.35,1:22:01.60,Default,,0,0,0,,
-Dialogue: 0,1:22:01.60,1:22:08.00,Default,,0,0,0,,
-Dialogue: 0,1:22:08.00,1:22:13.37,Default,,0,0,0,,
-Dialogue: 0,1:22:13.37,1:22:16.93,Default,,0,0,0,,
-Dialogue: 0,1:22:16.93,1:22:19.42,Default,,0,0,0,,
-Dialogue: 0,1:22:19.42,1:22:23.91,Default,,0,0,0,,
-Dialogue: 0,1:22:23.91,1:22:26.22,Default,,0,0,0,,
-Dialogue: 0,1:22:26.22,1:22:29.82,Default,,0,0,0,,
-Dialogue: 0,1:22:29.82,1:22:35.73,Default,,0,0,0,,
-Dialogue: 0,1:22:35.73,1:22:39.68,Default,,0,0,0,,
-Dialogue: 0,1:22:39.68,1:22:43.15,Default,,0,0,0,,
-Dialogue: 0,1:22:43.15,1:22:47.28,Default,,0,0,0,,
-Dialogue: 0,1:22:47.28,1:22:56.80,Default,,0,0,0,,
-Dialogue: 0,1:22:56.80,1:22:59.86,Default,,0,0,0,,
-Dialogue: 0,1:22:59.86,1:23:03.28,Default,,0,0,0,,
-Dialogue: 0,1:23:03.28,1:23:09.82,Default,,0,0,0,,
-Dialogue: 0,1:23:09.82,1:23:17.20,Default,,0,0,0,,
-Dialogue: 0,1:23:17.20,1:23:21.37,Default,,0,0,0,,
-Dialogue: 0,1:23:21.37,1:23:27.51,Default,,0,0,0,,
-Dialogue: 0,1:23:27.51,1:23:31.06,Default,,0,0,0,,
-Dialogue: 0,1:23:31.06,1:23:36.71,Default,,0,0,0,,
-Dialogue: 0,1:23:36.71,1:23:38.40,Default,,0,0,0,,
-Dialogue: 0,1:23:38.40,1:23:43.46,Default,,0,0,0,,
-Dialogue: 0,1:23:43.46,1:23:46.04,Default,,0,0,0,,
-Dialogue: 0,1:23:46.04,1:23:48.22,Default,,0,0,0,,
-Dialogue: 0,1:23:48.22,1:23:50.57,Default,,0,0,0,,
-Dialogue: 0,1:23:50.57,1:23:53.06,Default,,0,0,0,,
-Dialogue: 0,1:23:53.06,1:23:58.08,Default,,0,0,0,,
-Dialogue: 0,1:23:58.08,1:24:03.02,Default,,0,0,0,,
-Dialogue: 0,1:24:03.02,1:24:07.28,Default,,0,0,0,,
-Dialogue: 0,1:24:07.28,1:24:08.88,Default,,0,0,0,,
-Dialogue: 0,1:24:08.88,1:24:12.84,Default,,0,0,0,,
-Dialogue: 0,1:24:12.84,1:24:18.13,Default,,0,0,0,,
-Dialogue: 0,1:24:18.13,1:24:23.68,Default,,0,0,0,,
-Dialogue: 0,1:24:23.55,1:24:27.95,Default,,0,0,0,,
-Dialogue: 0,1:24:27.95,1:24:32.88,Default,,0,0,0,,
-Dialogue: 0,1:24:32.88,1:24:38.44,Default,,0,0,0,,
-Dialogue: 0,1:24:38.44,1:24:41.91,Default,,0,0,0,,
-Dialogue: 0,1:24:41.91,1:24:46.35,Default,,0,0,0,,
-Dialogue: 0,1:24:46.35,1:24:51.24,Default,,0,0,0,,
-Dialogue: 0,1:24:51.24,1:24:59.55,Default,,0,0,0,,
-Dialogue: 0,1:24:59.55,1:25:04.35,Default,,0,0,0,,
-Dialogue: 0,1:25:04.35,1:25:11.15,Default,,0,0,0,,
-Dialogue: 0,1:25:11.15,1:25:16.62,Default,,0,0,0,,
-Dialogue: 0,1:25:16.62,1:25:19.15,Default,,0,0,0,,
-Dialogue: 0,1:25:19.15,1:25:24.88,Default,,0,0,0,,
+Dialogue: 0,1:20:56.40,1:21:04.48,Default,,0,0,0,,perhaps the most conservative politician in the last 100 years in any country
+Dialogue: 0,1:21:04.48,1:21:09.33,Default,,0,0,0,,banned assault weapons in Australia, back in the late 90s
+Dialogue: 0,1:21:09.33,1:21:13.46,Default,,0,0,0,,and he was on CNN about two months ago, and they asked him: "I mean, how could you do that?"
+Dialogue: 0,1:21:13.46,1:21:20.17,Default,,0,0,0,,"A conservative… you know, politician, how could… libertarian, how could you ban guns", and he said:
+Dialogue: 0,1:21:20.22,1:21:24.13,Default,,0,0,0,,"Look, this is not a democratic issue, this is not an republican issue"
+Dialogue: 0,1:21:24.13,1:21:29.64,Default,,0,0,0,,"This is not a liberal issue, this is not a conservative issue, this is a public safety issue"
+Dialogue: 0,1:21:29.64,1:21:32.53,Default,,0,0,0,,That's exactly right, even he got it,
+Dialogue: 0,1:21:32.53,1:21:34.66,Default,,0,0,0,,even he got it, but we don't get it,
+Dialogue: 0,1:21:34.66,1:21:39.68,Default,,0,0,0,,well this is a public safety issue, because we will have no Medicare
+Dialogue: 0,1:21:39.68,1:21:43.46,Default,,0,0,0,,So the questions I'm gonna leave you with, I've two homework assignments for you
+Dialogue: 0,1:21:43.46,1:21:48.53,Default,,0,0,0,,Can our toxic food environment be changed without governmental or societal intervention?
+Dialogue: 0,1:21:48.53,1:21:51.82,Default,,0,0,0,,Especially when there are potentially addictive substances involved
+Dialogue: 0,1:21:51.82,1:21:56.35,Default,,0,0,0,,Has education worked for any substance of abuse?
+Dialogue: 0,1:21:56.35,1:22:01.60,Default,,0,0,0,,Not one, did Nancy Reagan just said "No work"?
+Dialogue: 0,1:22:01.60,1:22:08.00,Default,,0,0,0,,Does the Surgeon General's warning on a pack of cigarettes stop people from smoking
+Dialogue: 0,1:22:08.00,1:22:13.37,Default,,0,0,0,,No, the thing that stop people from smoking was second hand smoke
+Dialogue: 0,1:22:13.37,1:22:16.93,Default,,0,0,0,,when your smoking affected me
+Dialogue: 0,1:22:16.93,1:22:19.42,Default,,0,0,0,,that's when we started getting legislation
+Dialogue: 0,1:22:19.42,1:22:23.91,Default,,0,0,0,,and then the tobacco documents came out and we realized there was corporate malfeasance involved
+Dialogue: 0,1:22:23.91,1:22:26.22,Default,,0,0,0,,that's when things changed
+Dialogue: 0,1:22:26.22,1:22:29.82,Default,,0,0,0,,but not one lick of education made any difference
+Dialogue: 0,1:22:29.82,1:22:35.73,Default,,0,0,0,,in the amount of tobacco consumed, and Stan Glance ? right here at UCSF showed that very nicely
+Dialogue: 0,1:22:35.73,1:22:39.68,Default,,0,0,0,,Second question: can we afford to wait?
+Dialogue: 0,1:22:39.68,1:22:43.15,Default,,0,0,0,,The food industry will say "we need more research"
+Dialogue: 0,1:22:43.15,1:22:47.28,Default,,0,0,0,,"We need more research", of course they're gonna say we need more research, it's moving the goalposts
+Dialogue: 0,1:22:47.28,1:22:56.80,Default,,0,0,0,,Can we afford to wait, to enact these public health measures, when health-care will be bankrupt due to chronic metabolic disease in just 13 short years?
+Dialogue: 0,1:22:56.80,1:22:59.86,Default,,0,0,0,,That's your homework assignment
+Dialogue: 0,1:22:59.86,1:23:03.28,Default,,0,0,0,,So, this is my second to last slide
+Dialogue: 0,1:23:03.28,1:23:09.82,Default,,0,0,0,,This is a paper that just came out in Lancet, in March
+Dialogue: 0,1:23:09.82,1:23:17.20,Default,,0,0,0,,"Profits and pandemics: prevention of harmful effects of tobacco, alcohol, and ultra-processed food and drink food industries"
+Dialogue: 0,1:23:17.20,1:23:21.37,Default,,0,0,0,,And what it says is, that what we used to practice was called the old medicine
+Dialogue: 0,1:23:21.37,1:23:27.51,Default,,0,0,0,,and we focused on infections as the problem and microbes as the vectors
+Dialogue: 0,1:23:27.51,1:23:31.06,Default,,0,0,0,,and now the new medicine is all about chronic disease
+Dialogue: 0,1:23:31.06,1:23:36.71,Default,,0,0,0,,and the vector has changed, it is now multinational corporations instead
+Dialogue: 0,1:23:36.71,1:23:38.40,Default,,0,0,0,,that's who we're battling
+Dialogue: 0,1:23:38.40,1:23:43.46,Default,,0,0,0,,so for further reading I refer you to a whole bunch of academical articles
+Dialogue: 0,1:23:43.46,1:23:46.04,Default,,0,0,0,,and more academical articles,
+Dialogue: 0,1:23:46.04,1:23:48.22,Default,,0,0,0,,and more academical articles,
+Dialogue: 0,1:23:48.22,1:23:50.57,Default,,0,0,0,,and more academical articles,
+Dialogue: 0,1:23:50.57,1:23:53.06,Default,,0,0,0,,and more academical articles,
+Dialogue: 0,1:23:53.06,1:23:58.08,Default,,0,0,0,,and finally, non academic, if you choose to pick it up
+Dialogue: 0,1:23:58.08,1:24:03.02,Default,,0,0,0,,"Fat chance" which was written for the public, but really to be honest with you, I wrote it for doctors
+Dialogue: 0,1:24:03.02,1:24:07.28,Default,,0,0,0,,my publisher says "You cannot write a book for doctors, we won't publish it", I said "Ok, fine"
+Dialogue: 0,1:24:07.28,1:24:08.88,Default,,0,0,0,,"I'll write it for the public"
+Dialogue: 0,1:24:08.88,1:24:12.84,Default,,0,0,0,,but I really wrote it for doctors because the whole medical profession has to change
+Dialogue: 0,1:24:12.84,1:24:18.13,Default,,0,0,0,,and the problem is they bought the bill of goods that the industry was selling
+Dialogue: 0,1:24:18.13,1:24:23.68,Default,,0,0,0,,and we gotta fix it, because a calorie is not a calorie, it never was and never will be
+Dialogue: 0,1:24:23.55,1:24:27.95,Default,,0,0,0,,so, lastly we have started a non profit
+Dialogue: 0,1:24:27.95,1:24:32.88,Default,,0,0,0,,very specifically to provide medical nutrition and legal analysis
+Dialogue: 0,1:24:32.88,1:24:38.44,Default,,0,0,0,,and consultation to promote personal and public health against Big Food
+Dialogue: 0,1:24:38.44,1:24:41.91,Default,,0,0,0,,called the Institute for Responsible Nutrition, there is our website
+Dialogue: 0,1:24:41.91,1:24:46.35,Default,,0,0,0,,and contact me if you'd like any more information
+Dialogue: 0,1:24:46.35,1:24:51.24,Default,,0,0,0,,So I wanna thank my collaborators, here at UCSF, the Weight Assessment for Teen and Child Health Clinic
+Dialogue: 0,1:24:51.24,1:24:59.55,Default,,0,0,0,,were we do the actual on the ground, you know boots on the ground, changes in people's lives to actually make kids better
+Dialogue: 0,1:24:59.55,1:25:04.35,Default,,0,0,0,,Stanford Prevention Institute, my colleague Sanjay Basu who is an absolute genius
+Dialogue: 0,1:25:04.35,1:25:11.15,Default,,0,0,0,,Touro University, my colleague Jean-Marc Schwarz who is a card carrying fructose biochemist and vetted all the biochemistry on this
+Dialogue: 0,1:25:11.15,1:25:16.62,Default,,0,0,0,,Kathleen Mulligan at the UCSF Clinical Translational Sciences Institute, who is my right hand
+Dialogue: 0,1:25:16.62,1:25:19.15,Default,,0,0,0,,Berkeley Department of Nutritional Sciences,
+Dialogue: 0,1:25:19.15,1:25:24.88,Default,,0,0,0,,and also my colleagues Claire Brindis and Laura Schmidt at the Institute for Health Policy Studies, here at UCSF as well.
