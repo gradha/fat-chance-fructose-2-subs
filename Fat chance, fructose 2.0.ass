@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 571
-Active Line: 587
+Scroll Position: 912
+Active Line: 928
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -608,347 +608,347 @@ Dialogue: 0,0:48:35.24,0:48:37.86,Default,,0,0,0,,but we don't do anything about
 Dialogue: 0,0:48:37.86,0:48:45.60,Default,,0,0,0,,you'd never think about giving your kid a beer, but you don't think twice about giving your kid a coke and they do the same thing
 Dialogue: 0,0:48:45.60,0:48:49.37,Default,,0,0,0,,that's one problem, now there's a second problem
 Dialogue: 0,0:48:49.37,0:48:54.80,Default,,0,0,0,,here are 5 photographs, what do they all have in common?
-Dialogue: 0,0:48:54.80,0:48:58.44,Default,,0,0,0,,
-Dialogue: 0,0:48:58.44,0:49:03.11,Default,,0,0,0,,
-Dialogue: 0,0:49:03.11,0:49:08.66,Default,,0,0,0,,
-Dialogue: 0,0:49:08.66,0:49:13.51,Default,,0,0,0,,
-Dialogue: 0,0:49:13.51,0:49:16.53,Default,,0,0,0,,
-Dialogue: 0,0:49:16.53,0:49:19.68,Default,,0,0,0,,
-Dialogue: 0,0:49:19.68,0:49:24.71,Default,,0,0,0,,
-Dialogue: 0,0:49:24.71,0:49:30.04,Default,,0,0,0,,
-Dialogue: 0,0:49:30.04,0:49:32.17,Default,,0,0,0,,
-Dialogue: 0,0:49:32.17,0:49:36.80,Default,,0,0,0,,
-Dialogue: 0,0:49:36.80,0:49:40.66,Default,,0,0,0,,
-Dialogue: 0,0:49:40.66,0:49:43.64,Default,,0,0,0,,
-Dialogue: 0,0:49:43.64,0:49:49.20,Default,,0,0,0,,
-Dialogue: 0,0:49:49.20,0:49:54.75,Default,,0,0,0,,
-Dialogue: 0,0:49:54.75,0:49:58.66,Default,,0,0,0,,
-Dialogue: 0,0:49:58.66,0:50:01.82,Default,,0,0,0,,
-Dialogue: 0,0:50:01.82,0:50:06.00,Default,,0,0,0,,
-Dialogue: 0,0:50:06.00,0:50:10.08,Default,,0,0,0,,
-Dialogue: 0,0:50:10.08,0:50:16.00,Default,,0,0,0,,
-Dialogue: 0,0:50:16.00,0:50:22.13,Default,,0,0,0,,
-Dialogue: 0,0:50:22.13,0:50:25.55,Default,,0,0,0,,
-Dialogue: 0,0:50:25.55,0:50:29.77,Default,,0,0,0,,
-Dialogue: 0,0:50:29.77,0:50:38.44,Default,,0,0,0,,
-Dialogue: 0,0:50:38.44,0:50:43.91,Default,,0,0,0,,
-Dialogue: 0,0:50:43.91,0:50:50.97,Default,,0,0,0,,
-Dialogue: 0,0:50:50.97,0:50:58.48,Default,,0,0,0,,
-Dialogue: 0,0:50:58.48,0:51:01.91,Default,,0,0,0,,
-Dialogue: 0,0:51:01.91,0:51:09.37,Default,,0,0,0,,
-Dialogue: 0,0:51:09.37,0:51:11.60,Default,,0,0,0,,
-Dialogue: 0,0:51:11.60,0:51:16.00,Default,,0,0,0,,
-Dialogue: 0,0:51:16.00,0:51:19.68,Default,,0,0,0,,
-Dialogue: 0,0:51:19.68,0:51:27.42,Default,,0,0,0,,
-Dialogue: 0,0:51:27.42,0:51:30.80,Default,,0,0,0,,
-Dialogue: 0,0:51:30.80,0:51:34.66,Default,,0,0,0,,
-Dialogue: 0,0:51:34.66,0:51:37.82,Default,,0,0,0,,
-Dialogue: 0,0:51:37.82,0:51:40.57,Default,,0,0,0,,
-Dialogue: 0,0:51:40.57,0:51:44.00,Default,,0,0,0,,
-Dialogue: 0,0:51:44.00,0:51:47.33,Default,,0,0,0,,
-Dialogue: 0,0:51:47.33,0:51:51.82,Default,,0,0,0,,
-Dialogue: 0,0:51:51.82,0:51:55.42,Default,,0,0,0,,
-Dialogue: 0,0:51:55.42,0:51:58.26,Default,,0,0,0,,
-Dialogue: 0,0:51:58.26,0:52:02.17,Default,,0,0,0,,
-Dialogue: 0,0:52:02.17,0:52:07.68,Default,,0,0,0,,
-Dialogue: 0,0:52:07.68,0:52:11.95,Default,,0,0,0,,
-Dialogue: 0,0:52:11.95,0:52:16.75,Default,,0,0,0,,
-Dialogue: 0,0:52:16.75,0:52:21.51,Default,,0,0,0,,
-Dialogue: 0,0:52:21.51,0:52:26.00,Default,,0,0,0,,
-Dialogue: 0,0:52:26.00,0:52:29.24,Default,,0,0,0,,
-Dialogue: 0,0:52:29.24,0:52:31.91,Default,,0,0,0,,
-Dialogue: 0,0:52:31.91,0:52:39.73,Default,,0,0,0,,
-Dialogue: 0,0:52:39.73,0:52:43.64,Default,,0,0,0,,
-Dialogue: 0,0:52:43.64,0:52:46.93,Default,,0,0,0,,
-Dialogue: 0,0:52:46.93,0:52:50.40,Default,,0,0,0,,
-Dialogue: 0,0:52:50.40,0:52:53.20,Default,,0,0,0,,
-Dialogue: 0,0:52:53.20,0:52:56.75,Default,,0,0,0,,
-Dialogue: 0,0:52:56.75,0:53:00.40,Default,,0,0,0,,
-Dialogue: 0,0:53:00.40,0:53:02.35,Default,,0,0,0,,
-Dialogue: 0,0:53:02.35,0:53:07.15,Default,,0,0,0,,
-Dialogue: 0,0:53:07.15,0:53:08.62,Default,,0,0,0,,
-Dialogue: 0,0:53:08.62,0:53:11.02,Default,,0,0,0,,
-Dialogue: 0,0:53:11.02,0:53:14.71,Default,,0,0,0,,
-Dialogue: 0,0:53:14.71,0:53:19.15,Default,,0,0,0,,
-Dialogue: 0,0:53:19.15,0:53:27.68,Default,,0,0,0,,
-Dialogue: 0,0:53:27.68,0:53:31.37,Default,,0,0,0,,
-Dialogue: 0,0:53:31.37,0:53:36.22,Default,,0,0,0,,
-Dialogue: 0,0:53:36.22,0:53:41.46,Default,,0,0,0,,
-Dialogue: 0,0:53:41.46,0:53:43.73,Default,,0,0,0,,
-Dialogue: 0,0:53:43.73,0:53:46.26,Default,,0,0,0,,
-Dialogue: 0,0:53:46.26,0:53:48.62,Default,,0,0,0,,
-Dialogue: 0,0:53:48.62,0:53:50.71,Default,,0,0,0,,
-Dialogue: 0,0:53:50.71,0:53:53.60,Default,,0,0,0,,
-Dialogue: 0,0:53:53.60,0:53:58.57,Default,,0,0,0,,
-Dialogue: 0,0:53:58.57,0:54:05.73,Default,,0,0,0,,
-Dialogue: 0,0:54:05.73,0:54:13.68,Default,,0,0,0,,
-Dialogue: 0,0:54:13.68,0:54:19.42,Default,,0,0,0,,
-Dialogue: 0,0:54:19.42,0:54:22.62,Default,,0,0,0,,
-Dialogue: 0,0:54:22.62,0:54:26.44,Default,,0,0,0,,
-Dialogue: 0,0:54:26.44,0:54:29.42,Default,,0,0,0,,
-Dialogue: 0,0:54:29.42,0:54:34.22,Default,,0,0,0,,
-Dialogue: 0,0:54:34.22,0:54:39.77,Default,,0,0,0,,
-Dialogue: 0,0:54:39.77,0:54:44.31,Default,,0,0,0,,
-Dialogue: 0,0:54:44.31,0:54:50.62,Default,,0,0,0,,
-Dialogue: 0,0:54:50.62,0:54:52.88,Default,,0,0,0,,
-Dialogue: 0,0:54:52.88,0:54:55.77,Default,,0,0,0,,
-Dialogue: 0,0:54:55.77,0:54:59.15,Default,,0,0,0,,
-Dialogue: 0,0:54:59.15,0:55:03.02,Default,,0,0,0,,
-Dialogue: 0,0:55:03.02,0:55:06.75,Default,,0,0,0,,
-Dialogue: 0,0:55:06.75,0:55:10.44,Default,,0,0,0,,
-Dialogue: 0,0:55:10.44,0:55:14.22,Default,,0,0,0,,
-Dialogue: 0,0:55:14.22,0:55:15.60,Default,,0,0,0,,
-Dialogue: 0,0:55:15.60,0:55:18.57,Default,,0,0,0,,
-Dialogue: 0,0:55:18.57,0:55:21.24,Default,,0,0,0,,
-Dialogue: 0,0:55:21.24,0:55:28.17,Default,,0,0,0,,
-Dialogue: 0,0:55:28.17,0:55:30.08,Default,,0,0,0,,
-Dialogue: 0,0:55:30.08,0:55:34.75,Default,,0,0,0,,
-Dialogue: 0,0:55:34.75,0:55:37.91,Default,,0,0,0,,
-Dialogue: 0,0:55:37.91,0:55:41.68,Default,,0,0,0,,
-Dialogue: 0,0:55:41.68,0:55:44.62,Default,,0,0,0,,
-Dialogue: 0,0:55:44.62,0:55:48.26,Default,,0,0,0,,
-Dialogue: 0,0:55:48.26,0:55:51.82,Default,,0,0,0,,
-Dialogue: 0,0:55:51.82,0:55:57.60,Default,,0,0,0,,
-Dialogue: 0,0:55:57.60,0:56:00.71,Default,,0,0,0,,
-Dialogue: 0,0:56:00.71,0:56:04.93,Default,,0,0,0,,
-Dialogue: 0,0:56:04.93,0:56:11.55,Default,,0,0,0,,
-Dialogue: 0,0:56:11.55,0:56:15.77,Default,,0,0,0,,
-Dialogue: 0,0:56:15.77,0:56:21.73,Default,,0,0,0,,
-Dialogue: 0,0:56:21.73,0:56:25.73,Default,,0,0,0,,
-Dialogue: 0,0:56:25.73,0:56:31.68,Default,,0,0,0,,
-Dialogue: 0,0:56:31.68,0:56:36.75,Default,,0,0,0,,
-Dialogue: 0,0:56:36.75,0:56:40.57,Default,,0,0,0,,
-Dialogue: 0,0:56:40.57,0:56:44.84,Default,,0,0,0,,
-Dialogue: 0,0:56:44.84,0:56:47.82,Default,,0,0,0,,
-Dialogue: 0,0:56:47.82,0:56:51.37,Default,,0,0,0,,
-Dialogue: 0,0:56:51.37,0:56:54.80,Default,,0,0,0,,
-Dialogue: 0,0:56:54.80,0:56:59.33,Default,,0,0,0,,
-Dialogue: 0,0:56:59.33,0:57:04.93,Default,,0,0,0,,
-Dialogue: 0,0:57:04.93,0:57:09.60,Default,,0,0,0,,
-Dialogue: 0,0:57:09.60,0:57:12.75,Default,,0,0,0,,
-Dialogue: 0,0:57:12.75,0:57:20.04,Default,,0,0,0,,
-Dialogue: 0,0:57:20.04,0:57:26.62,Default,,0,0,0,,
-Dialogue: 0,0:57:26.62,0:57:33.64,Default,,0,0,0,,
-Dialogue: 0,0:57:33.64,0:57:41.46,Default,,0,0,0,,
-Dialogue: 0,0:57:41.46,0:57:48.97,Default,,0,0,0,,
-Dialogue: 0,0:57:48.97,0:57:51.86,Default,,0,0,0,,
-Dialogue: 0,0:57:51.86,0:58:00.44,Default,,0,0,0,,
-Dialogue: 0,0:58:00.44,0:58:06.00,Default,,0,0,0,,
-Dialogue: 0,0:58:06.00,0:58:07.64,Default,,0,0,0,,
-Dialogue: 0,0:58:07.64,0:58:11.15,Default,,0,0,0,,
-Dialogue: 0,0:58:11.15,0:58:18.97,Default,,0,0,0,,
-Dialogue: 0,0:58:18.97,0:58:22.93,Default,,0,0,0,,
-Dialogue: 0,0:58:22.93,0:58:30.04,Default,,0,0,0,,
-Dialogue: 0,0:58:30.04,0:58:33.24,Default,,0,0,0,,
-Dialogue: 0,0:58:33.24,0:58:36.44,Default,,0,0,0,,
-Dialogue: 0,0:58:36.44,0:58:43.15,Default,,0,0,0,,
-Dialogue: 0,0:58:43.15,0:58:44.97,Default,,0,0,0,,
-Dialogue: 0,0:58:44.97,0:58:48.04,Default,,0,0,0,,
-Dialogue: 0,0:58:48.04,0:58:54.75,Default,,0,0,0,,
-Dialogue: 0,0:58:54.75,0:58:58.80,Default,,0,0,0,,
-Dialogue: 0,0:58:58.80,0:59:05.15,Default,,0,0,0,,
-Dialogue: 0,0:59:05.15,0:59:09.77,Default,,0,0,0,,
-Dialogue: 0,0:59:09.77,0:59:15.55,Default,,0,0,0,,
-Dialogue: 0,0:59:15.55,0:59:21.68,Default,,0,0,0,,
-Dialogue: 0,0:59:21.68,0:59:25.55,Default,,0,0,0,,
-Dialogue: 0,0:59:25.55,0:59:31.15,Default,,0,0,0,,
-Dialogue: 0,0:59:31.15,0:59:34.53,Default,,0,0,0,,
-Dialogue: 0,0:59:34.53,0:59:39.20,Default,,0,0,0,,
-Dialogue: 0,0:59:39.20,0:59:41.73,Default,,0,0,0,,
-Dialogue: 0,0:59:41.73,0:59:46.26,Default,,0,0,0,,
-Dialogue: 0,0:59:46.26,0:59:49.33,Default,,0,0,0,,
-Dialogue: 0,0:59:49.33,0:59:53.42,Default,,0,0,0,,
-Dialogue: 0,0:59:53.42,0:59:58.00,Default,,0,0,0,,
-Dialogue: 0,0:59:58.00,1:00:02.93,Default,,0,0,0,,
-Dialogue: 0,1:00:02.93,1:00:05.64,Default,,0,0,0,,
-Dialogue: 0,1:00:05.64,1:00:09.55,Default,,0,0,0,,
-Dialogue: 0,1:00:09.55,1:00:13.68,Default,,0,0,0,,
-Dialogue: 0,1:00:13.68,1:00:17.15,Default,,0,0,0,,
-Dialogue: 0,1:00:17.15,1:00:21.91,Default,,0,0,0,,
-Dialogue: 0,1:00:21.91,1:00:24.44,Default,,0,0,0,,
-Dialogue: 0,1:00:24.44,1:00:28.88,Default,,0,0,0,,
-Dialogue: 0,1:00:28.88,1:00:32.53,Default,,0,0,0,,
-Dialogue: 0,1:00:32.53,1:00:37.42,Default,,0,0,0,,
-Dialogue: 0,1:00:37.42,1:00:41.91,Default,,0,0,0,,
-Dialogue: 0,1:00:41.91,1:00:48.35,Default,,0,0,0,,
-Dialogue: 0,1:00:48.35,1:00:55.51,Default,,0,0,0,,
-Dialogue: 0,1:00:55.51,1:01:02.66,Default,,0,0,0,,
-Dialogue: 0,1:01:02.66,1:01:10.26,Default,,0,0,0,,
-Dialogue: 0,1:01:10.26,1:01:14.35,Default,,0,0,0,,
-Dialogue: 0,1:01:14.35,1:01:18.80,Default,,0,0,0,,
-Dialogue: 0,1:01:18.80,1:01:23.20,Default,,0,0,0,,
-Dialogue: 0,1:01:23.20,1:01:28.26,Default,,0,0,0,,
-Dialogue: 0,1:01:28.26,1:01:31.60,Default,,0,0,0,,
-Dialogue: 0,1:01:31.60,1:01:37.24,Default,,0,0,0,,
-Dialogue: 0,1:01:37.24,1:01:42.75,Default,,0,0,0,,
-Dialogue: 0,1:01:42.75,1:01:48.53,Default,,0,0,0,,
-Dialogue: 0,1:01:48.53,1:01:55.28,Default,,0,0,0,,
-Dialogue: 0,1:01:55.28,1:02:00.31,Default,,0,0,0,,
-Dialogue: 0,1:02:00.31,1:02:04.13,Default,,0,0,0,,
-Dialogue: 0,1:02:04.13,1:02:08.53,Default,,0,0,0,,
-Dialogue: 0,1:02:08.53,1:02:12.66,Default,,0,0,0,,
-Dialogue: 0,1:02:12.66,1:02:15.02,Default,,0,0,0,,
-Dialogue: 0,1:02:15.02,1:02:19.28,Default,,0,0,0,,
-Dialogue: 0,1:02:19.28,1:02:24.31,Default,,0,0,0,,
-Dialogue: 0,1:02:24.31,1:02:29.64,Default,,0,0,0,,
-Dialogue: 0,1:02:29.64,1:02:35.15,Default,,0,0,0,,
-Dialogue: 0,1:02:35.15,1:02:40.71,Default,,0,0,0,,
-Dialogue: 0,1:02:40.71,1:02:45.28,Default,,0,0,0,,
-Dialogue: 0,1:02:45.28,1:02:49.55,Default,,0,0,0,,
-Dialogue: 0,1:02:49.55,1:02:52.35,Default,,0,0,0,,
-Dialogue: 0,1:02:52.35,1:02:55.55,Default,,0,0,0,,
-Dialogue: 0,1:02:55.55,1:03:00.22,Default,,0,0,0,,
-Dialogue: 0,1:03:00.22,1:03:04.13,Default,,0,0,0,,
-Dialogue: 0,1:03:04.13,1:03:07.46,Default,,0,0,0,,
-Dialogue: 0,1:03:07.46,1:03:10.35,Default,,0,0,0,,
-Dialogue: 0,1:03:10.35,1:03:14.93,Default,,0,0,0,,
-Dialogue: 0,1:03:14.93,1:03:18.40,Default,,0,0,0,,
-Dialogue: 0,1:03:18.40,1:03:24.88,Default,,0,0,0,,
-Dialogue: 0,1:03:24.88,1:03:31.55,Default,,0,0,0,,
-Dialogue: 0,1:03:31.55,1:03:35.95,Default,,0,0,0,,
-Dialogue: 0,1:03:35.95,1:03:38.84,Default,,0,0,0,,
-Dialogue: 0,1:03:38.84,1:03:44.53,Default,,0,0,0,,
-Dialogue: 0,1:03:44.53,1:03:49.02,Default,,0,0,0,,
-Dialogue: 0,1:03:49.02,1:03:54.93,Default,,0,0,0,,
-Dialogue: 0,1:03:54.93,1:03:59.68,Default,,0,0,0,,
-Dialogue: 0,1:03:59.68,1:04:02.57,Default,,0,0,0,,
-Dialogue: 0,1:04:02.57,1:04:07.55,Default,,0,0,0,,
-Dialogue: 0,1:04:07.55,1:04:11.28,Default,,0,0,0,,
-Dialogue: 0,1:04:11.28,1:04:17.06,Default,,0,0,0,,
-Dialogue: 0,1:04:17.06,1:04:21.51,Default,,0,0,0,,
-Dialogue: 0,1:04:21.51,1:04:25.33,Default,,0,0,0,,
-Dialogue: 0,1:04:25.33,1:04:29.55,Default,,0,0,0,,
-Dialogue: 0,1:04:29.55,1:04:35.51,Default,,0,0,0,,
-Dialogue: 0,1:04:35.51,1:04:40.22,Default,,0,0,0,,
-Dialogue: 0,1:04:40.22,1:04:43.60,Default,,0,0,0,,
-Dialogue: 0,1:04:43.60,1:04:46.93,Default,,0,0,0,,
-Dialogue: 0,1:04:46.93,1:04:51.86,Default,,0,0,0,,
-Dialogue: 0,1:04:51.86,1:04:56.71,Default,,0,0,0,,
-Dialogue: 0,1:04:56.71,1:05:00.40,Default,,0,0,0,,
-Dialogue: 0,1:05:00.40,1:05:03.82,Default,,0,0,0,,
-Dialogue: 0,1:05:03.82,1:05:10.04,Default,,0,0,0,,
-Dialogue: 0,1:05:10.04,1:05:15.42,Default,,0,0,0,,
-Dialogue: 0,1:05:15.42,1:05:20.57,Default,,0,0,0,,
-Dialogue: 0,1:05:20.57,1:05:25.82,Default,,0,0,0,,
-Dialogue: 0,1:05:25.82,1:05:29.15,Default,,0,0,0,,
-Dialogue: 0,1:05:29.15,1:05:32.88,Default,,0,0,0,,
-Dialogue: 0,1:05:32.88,1:05:37.77,Default,,0,0,0,,
-Dialogue: 0,1:05:37.77,1:05:42.57,Default,,0,0,0,,
-Dialogue: 0,1:05:42.57,1:05:44.88,Default,,0,0,0,,
-Dialogue: 0,1:05:44.88,1:05:49.02,Default,,0,0,0,,
-Dialogue: 0,1:05:49.02,1:05:51.02,Default,,0,0,0,,
-Dialogue: 0,1:05:51.02,1:05:55.46,Default,,0,0,0,,
-Dialogue: 0,1:05:55.46,1:05:57.73,Default,,0,0,0,,
-Dialogue: 0,1:05:57.73,1:06:02.62,Default,,0,0,0,,
-Dialogue: 0,1:06:02.62,1:06:04.88,Default,,0,0,0,,
-Dialogue: 0,1:06:04.88,1:06:10.66,Default,,0,0,0,,
-Dialogue: 0,1:06:10.66,1:06:15.51,Default,,0,0,0,,
-Dialogue: 0,1:06:15.51,1:06:19.68,Default,,0,0,0,,
-Dialogue: 0,1:06:19.68,1:06:23.24,Default,,0,0,0,,
-Dialogue: 0,1:06:23.24,1:06:28.44,Default,,0,0,0,,
-Dialogue: 0,1:06:28.44,1:06:32.48,Default,,0,0,0,,
-Dialogue: 0,1:06:32.48,1:06:35.77,Default,,0,0,0,,
-Dialogue: 0,1:06:35.77,1:06:39.06,Default,,0,0,0,,
-Dialogue: 0,1:06:39.06,1:06:44.53,Default,,0,0,0,,
-Dialogue: 0,1:06:44.53,1:06:49.51,Default,,0,0,0,,
-Dialogue: 0,1:06:49.51,1:06:53.86,Default,,0,0,0,,
-Dialogue: 0,1:06:53.86,1:06:57.73,Default,,0,0,0,,
-Dialogue: 0,1:06:57.73,1:07:01.37,Default,,0,0,0,,
-Dialogue: 0,1:07:01.37,1:07:06.17,Default,,0,0,0,,
-Dialogue: 0,1:07:06.17,1:07:07.60,Default,,0,0,0,,
-Dialogue: 0,1:07:07.60,1:07:12.31,Default,,0,0,0,,
-Dialogue: 0,1:07:12.31,1:07:17.51,Default,,0,0,0,,
-Dialogue: 0,1:07:17.51,1:07:23.42,Default,,0,0,0,,
-Dialogue: 0,1:07:23.42,1:07:25.42,Default,,0,0,0,,
-Dialogue: 0,1:07:25.42,1:07:30.44,Default,,0,0,0,,
-Dialogue: 0,1:07:30.44,1:07:33.06,Default,,0,0,0,,
-Dialogue: 0,1:07:33.06,1:07:35.82,Default,,0,0,0,,
-Dialogue: 0,1:07:35.77,1:07:38.53,Default,,0,0,0,,
-Dialogue: 0,1:07:38.53,1:07:40.13,Default,,0,0,0,,
-Dialogue: 0,1:07:40.13,1:07:45.28,Default,,0,0,0,,
-Dialogue: 0,1:07:45.28,1:07:48.48,Default,,0,0,0,,
-Dialogue: 0,1:07:48.48,1:07:51.46,Default,,0,0,0,,
-Dialogue: 0,1:07:51.46,1:07:53.33,Default,,0,0,0,,
-Dialogue: 0,1:07:53.33,1:07:56.62,Default,,0,0,0,,
-Dialogue: 0,1:07:56.62,1:07:59.11,Default,,0,0,0,,
-Dialogue: 0,1:07:59.11,1:08:02.40,Default,,0,0,0,,
-Dialogue: 0,1:08:02.40,1:08:04.53,Default,,0,0,0,,
-Dialogue: 0,1:08:04.53,1:08:10.08,Default,,0,0,0,,
-Dialogue: 0,1:08:10.08,1:08:13.51,Default,,0,0,0,,
-Dialogue: 0,1:08:13.51,1:08:17.28,Default,,0,0,0,,
-Dialogue: 0,1:08:17.28,1:08:19.86,Default,,0,0,0,,
-Dialogue: 0,1:08:19.86,1:08:22.08,Default,,0,0,0,,
-Dialogue: 0,1:08:22.08,1:08:25.06,Default,,0,0,0,,
-Dialogue: 0,1:08:25.06,1:08:31.42,Default,,0,0,0,,
-Dialogue: 0,1:08:31.42,1:08:34.97,Default,,0,0,0,,
-Dialogue: 0,1:08:35.06,1:08:39.37,Default,,0,0,0,,
-Dialogue: 0,1:08:39.37,1:08:43.68,Default,,0,0,0,,
-Dialogue: 0,1:08:43.68,1:08:50.88,Default,,0,0,0,,
-Dialogue: 0,1:08:50.88,1:08:55.20,Default,,0,0,0,,
-Dialogue: 0,1:08:55.20,1:08:59.95,Default,,0,0,0,,
-Dialogue: 0,1:08:59.95,1:09:04.44,Default,,0,0,0,,
-Dialogue: 0,1:09:04.44,1:09:06.35,Default,,0,0,0,,
-Dialogue: 0,1:09:06.35,1:09:09.28,Default,,0,0,0,,
-Dialogue: 0,1:09:09.28,1:09:13.95,Default,,0,0,0,,
-Dialogue: 0,1:09:13.95,1:09:17.11,Default,,0,0,0,,
-Dialogue: 0,1:09:17.11,1:09:23.60,Default,,0,0,0,,
-Dialogue: 0,1:09:23.60,1:09:28.93,Default,,0,0,0,,
-Dialogue: 0,1:09:28.93,1:09:30.84,Default,,0,0,0,,
-Dialogue: 0,1:09:30.84,1:09:35.11,Default,,0,0,0,,
-Dialogue: 0,1:09:35.11,1:09:37.77,Default,,0,0,0,,
-Dialogue: 0,1:09:37.77,1:09:42.66,Default,,0,0,0,,
-Dialogue: 0,1:09:42.66,1:09:45.20,Default,,0,0,0,,
-Dialogue: 0,1:09:45.20,1:09:49.06,Default,,0,0,0,,
-Dialogue: 0,1:09:49.06,1:09:52.13,Default,,0,0,0,,
-Dialogue: 0,1:09:52.13,1:09:56.84,Default,,0,0,0,,
-Dialogue: 0,1:09:56.84,1:09:59.73,Default,,0,0,0,,
-Dialogue: 0,1:09:59.73,1:10:04.08,Default,,0,0,0,,
-Dialogue: 0,1:10:04.08,1:10:09.28,Default,,0,0,0,,
-Dialogue: 0,1:10:09.28,1:10:13.55,Default,,0,0,0,,
-Dialogue: 0,1:10:13.55,1:10:19.42,Default,,0,0,0,,
-Dialogue: 0,1:10:19.42,1:10:24.31,Default,,0,0,0,,
-Dialogue: 0,1:10:24.31,1:10:27.91,Default,,0,0,0,,
-Dialogue: 0,1:10:27.91,1:10:30.57,Default,,0,0,0,,
-Dialogue: 0,1:10:30.57,1:10:35.46,Default,,0,0,0,,
-Dialogue: 0,1:10:35.46,1:10:41.51,Default,,0,0,0,,
-Dialogue: 0,1:10:41.51,1:10:43.60,Default,,0,0,0,,
-Dialogue: 0,1:10:43.60,1:10:49.15,Default,,0,0,0,,
-Dialogue: 0,1:10:49.15,1:10:51.37,Default,,0,0,0,,
-Dialogue: 0,1:10:51.37,1:10:53.86,Default,,0,0,0,,
-Dialogue: 0,1:10:53.86,1:10:56.26,Default,,0,0,0,,
-Dialogue: 0,1:10:56.26,1:11:00.66,Default,,0,0,0,,
-Dialogue: 0,1:11:00.66,1:11:03.11,Default,,0,0,0,,
-Dialogue: 0,1:11:03.11,1:11:06.08,Default,,0,0,0,,
-Dialogue: 0,1:11:06.08,1:11:09.95,Default,,0,0,0,,
-Dialogue: 0,1:11:09.95,1:11:12.40,Default,,0,0,0,,
-Dialogue: 0,1:11:12.40,1:11:16.44,Default,,0,0,0,,
-Dialogue: 0,1:11:16.44,1:11:19.55,Default,,0,0,0,,
-Dialogue: 0,1:11:19.55,1:11:24.26,Default,,0,0,0,,
-Dialogue: 0,1:11:24.26,1:11:28.66,Default,,0,0,0,,
-Dialogue: 0,1:11:28.66,1:11:30.57,Default,,0,0,0,,
-Dialogue: 0,1:11:30.57,1:11:35.15,Default,,0,0,0,,
-Dialogue: 0,1:11:35.15,1:11:38.13,Default,,0,0,0,,
-Dialogue: 0,1:11:38.13,1:11:43.51,Default,,0,0,0,,
-Dialogue: 0,1:11:43.51,1:11:46.75,Default,,0,0,0,,
-Dialogue: 0,1:11:46.75,1:11:50.08,Default,,0,0,0,,
-Dialogue: 0,1:11:50.08,1:11:54.13,Default,,0,0,0,,
-Dialogue: 0,1:11:54.13,1:11:57.33,Default,,0,0,0,,
-Dialogue: 0,1:11:57.33,1:11:58.93,Default,,0,0,0,,
-Dialogue: 0,1:11:58.93,1:12:03.37,Default,,0,0,0,,
-Dialogue: 0,1:12:03.37,1:12:06.35,Default,,0,0,0,,
-Dialogue: 0,1:12:06.35,1:12:11.64,Default,,0,0,0,,
-Dialogue: 0,1:12:11.64,1:12:14.75,Default,,0,0,0,,
-Dialogue: 0,1:12:14.75,1:12:17.73,Default,,0,0,0,,
-Dialogue: 0,1:12:17.73,1:12:21.51,Default,,0,0,0,,
-Dialogue: 0,1:12:21.51,1:12:24.62,Default,,0,0,0,,
-Dialogue: 0,1:12:24.62,1:12:28.08,Default,,0,0,0,,
-Dialogue: 0,1:12:28.08,1:12:31.91,Default,,0,0,0,,
-Dialogue: 0,1:12:31.91,1:12:34.08,Default,,0,0,0,,
-Dialogue: 0,1:12:34.08,1:12:38.04,Default,,0,0,0,,
-Dialogue: 0,1:12:38.04,1:12:39.55,Default,,0,0,0,,
-Dialogue: 0,1:12:39.55,1:12:41.73,Default,,0,0,0,,
-Dialogue: 0,1:12:41.73,1:12:45.64,Default,,0,0,0,,
-Dialogue: 0,1:12:45.64,1:12:48.26,Default,,0,0,0,,
+Dialogue: 0,0:48:54.80,0:48:58.44,Default,,0,0,0,,There's one thing they have all…, they're all
+Dialogue: 0,0:48:58.44,0:49:03.11,Default,,0,0,0,,Brown! Good, thank you, they are all brown. This is the browning reaction
+Dialogue: 0,0:49:03.11,0:49:08.66,Default,,0,0,0,,The Maillard reaction, anybody you know what HbA1C is?
+Dialogue: 0,0:49:08.66,0:49:13.51,Default,,0,0,0,,That's the lab test they do for diabetics to see how they blood sugar control is
+Dialogue: 0,0:49:13.51,0:49:16.53,Default,,0,0,0,,that's glucose binding to proteins in the blood
+Dialogue: 0,0:49:16.53,0:49:19.68,Default,,0,0,0,,well, that's what this is, this is the Maillard reaction
+Dialogue: 0,0:49:19.68,0:49:24.71,Default,,0,0,0,,glucose binding to proteins in the actual food
+Dialogue: 0,0:49:24.71,0:49:30.04,Default,,0,0,0,,so the common link is this browning, or Maillard reaction, or non enzymatic glycation
+Dialogue: 0,0:49:30.04,0:49:32.17,Default,,0,0,0,,so here's the deal, you can think of it this way
+Dialogue: 0,0:49:32.17,0:49:36.80,Default,,0,0,0,,you can roast your meat at 375 degrees for an hour
+Dialogue: 0,0:49:36.80,0:49:40.66,Default,,0,0,0,,or you can roast your meat at 98.6 degrees for 75 years
+Dialogue: 0,0:49:40.66,0:49:43.64,Default,,0,0,0,,the answer is the same, ok? We all brown
+Dialogue: 0,0:49:43.64,0:49:49.20,Default,,0,0,0,,it's part of aging, it's normal aging, and everyone does it, the question is how fast do you do it?
+Dialogue: 0,0:49:49.20,0:49:54.75,Default,,0,0,0,,And if you don't believe me, here's just an example, here's newborn rib cartilage nice and white
+Dialogue: 0,0:49:54.75,0:49:58.66,Default,,0,0,0,,and here's 88 year old rib cartilage nice and brown
+Dialogue: 0,0:49:58.66,0:50:01.82,Default,,0,0,0,,and if you had orange juice this morning you are browning faster
+Dialogue: 0,0:50:01.82,0:50:06.00,Default,,0,0,0,,that's the deal, and we know it, we know it's true
+Dialogue: 0,0:50:06.00,0:50:10.08,Default,,0,0,0,,because every time this reaction occurs you release a hydrogen peroxide
+Dialogue: 0,0:50:10.08,0:50:16.00,Default,,0,0,0,,and that hydrogen peroxide does damage inside the cell, unless it's quenched by an antioxidant
+Dialogue: 0,0:50:16.00,0:50:22.13,Default,,0,0,0,,and if you don't take enough antioxidants, you're gonna do damage, and that's what non alcoholic steatohepatisis is
+Dialogue: 0,0:50:22.13,0:50:25.55,Default,,0,0,0,,so here's that reaction, here's the aldehyde of glucose
+Dialogue: 0,0:50:25.55,0:50:29.77,Default,,0,0,0,,and it binds to the amino group of lysine of the hemoglobin molecule
+Dialogue: 0,0:50:29.77,0:50:38.44,Default,,0,0,0,,forms what is known as a shift base, which then… decomposes and develops this mid linkage here
+Dialogue: 0,0:50:38.44,0:50:43.91,Default,,0,0,0,,and bottom line is, it's non enzymatic and happens all the time, the question is how much?
+Dialogue: 0,0:50:43.91,0:50:50.97,Default,,0,0,0,,and this shows that it's very very specific to fructose in terms of a mapped ?
+Dialogue: 0,0:50:50.97,0:50:58.48,Default,,0,0,0,,so this is a animal model of non alcoholic fatty liver disease, called the methionine choline deficient rat
+Dialogue: 0,0:50:58.48,0:51:01.91,Default,,0,0,0,,the MCD rat, not the McDonald's rat, but it might as well be
+Dialogue: 0,0:51:01.91,0:51:09.37,Default,,0,0,0,,because what happens is, when you give the animal sugar or starch with normal amounts of methionine choline
+Dialogue: 0,0:51:09.37,0:51:11.60,Default,,0,0,0,,no problem, the liver can handle it
+Dialogue: 0,0:51:11.60,0:51:16.00,Default,,0,0,0,,but if you're deficient, which happens when you have a bad diet
+Dialogue: 0,0:51:16.00,0:51:19.68,Default,,0,0,0,,then only sugar causes the problem
+Dialogue: 0,0:51:19.68,0:51:27.42,Default,,0,0,0,,starch doesn't, and you can see here in a non alcoholic fatty liver disease clinic
+Dialogue: 0,0:51:27.42,0:51:30.80,Default,,0,0,0,,at Duke University, this is Dr. Manal Abdelmalek's work
+Dialogue: 0,0:51:30.80,0:51:34.66,Default,,0,0,0,,showing that the grade of steatosis or fatty liver is dependent on
+Dialogue: 0,0:51:34.66,0:51:37.82,Default,,0,0,0,,the… how much fructose consumption, whether it's daily or not
+Dialogue: 0,0:51:37.82,0:51:40.57,Default,,0,0,0,,and the stage of fibrosis same thing
+Dialogue: 0,0:51:40.57,0:51:44.00,Default,,0,0,0,,Ok, so two problems:
+Dialogue: 0,0:51:44.00,0:51:47.33,Default,,0,0,0,,fatty liver and cell aging
+Dialogue: 0,0:51:47.33,0:51:51.82,Default,,0,0,0,,so far, so good? All right, so now we are gonna get into the weeds
+Dialogue: 0,0:51:51.82,0:51:55.42,Default,,0,0,0,,so here are the 10 most obese states in the nation
+Dialogue: 0,0:51:55.42,0:51:58.26,Default,,0,0,0,,Anybody surprised? Anybody from any of them?
+Dialogue: 0,0:51:58.26,0:52:02.17,Default,,0,0,0,,I used to live in Memphis, you know what I'm talking about, right?
+Dialogue: 0,0:52:02.17,0:52:07.68,Default,,0,0,0,,North Carolina, you know what I'm talking about, right, …it's those ribs, yeah, I know [laughter]
+Dialogue: 0,0:52:07.68,0:52:11.95,Default,,0,0,0,,10 most obese states, here are the 10 laziest states in the nation
+Dialogue: 0,0:52:11.95,0:52:16.75,Default,,0,0,0,,What's going on over there in Nevada?
+Dialogue: 0,0:52:16.75,0:52:21.51,Default,,0,0,0,,I guess you can only burn so much energy going like this
+Dialogue: 0,0:52:21.51,0:52:26.00,Default,,0,0,0,,Here are the 10 most unhappy states in the nation
+Dialogue: 0,0:52:26.00,0:52:29.24,Default,,0,0,0,,Here's the adult diabetes rate
+Dialogue: 0,0:52:29.24,0:52:31.91,Default,,0,0,0,,Here's the adult heart disease rate
+Dialogue: 0,0:52:31.91,0:52:39.73,Default,,0,0,0,,And finally here is soda per capita soda consumption, now what you see?
+Dialogue: 0,0:52:39.73,0:52:43.64,Default,,0,0,0,,Pretty significant overlap, wouldn't you say? Ya?
+Dialogue: 0,0:52:43.64,0:52:46.93,Default,,0,0,0,,Well now this is correlation, not causation
+Dialogue: 0,0:52:46.93,0:52:50.40,Default,,0,0,0,,and I'm very clear on the difference, we are gonna talk about the difference, ok?
+Dialogue: 0,0:52:50.40,0:52:53.20,Default,,0,0,0,,So the question is which direction does it go?
+Dialogue: 0,0:52:53.20,0:52:56.75,Default,,0,0,0,,Is it that soda causes heart disease and diabetes
+Dialogue: 0,0:52:56.75,0:53:00.40,Default,,0,0,0,,or is it that people with heart disease and diabetes like to drink soda?
+Dialogue: 0,0:53:00.40,0:53:02.35,Default,,0,0,0,,You can't tell
+Dialogue: 0,0:53:02.35,0:53:07.15,Default,,0,0,0,,'cause it's one snapshot in time, you can't tell which way the data went
+Dialogue: 0,0:53:07.15,0:53:08.62,Default,,0,0,0,,True
+Dialogue: 0,0:53:08.62,0:53:11.02,Default,,0,0,0,,Here's what happening world wide
+Dialogue: 0,0:53:11.02,0:53:14.71,Default,,0,0,0,,So this is global consumption of sugar and sugar crops
+Dialogue: 0,0:53:14.71,0:53:19.15,Default,,0,0,0,,here we are at 629 calories availability here in blue
+Dialogue: 0,0:53:19.15,0:53:27.68,Default,,0,0,0,,and here's the rest of the world. Now the American Heart Association says 150 to 200 calories in added sugar per day, right? Here this color, blue
+Dialogue: 0,0:53:27.68,0:53:31.37,Default,,0,0,0,,How many countries are above that? How about all of them?
+Dialogue: 0,0:53:31.37,0:53:36.22,Default,,0,0,0,,In fact that's why diabetes is skyrocketing everywhere
+Dialogue: 0,0:53:36.22,0:53:41.46,Default,,0,0,0,,So here's world sugar consumption tripling over the past 50 years
+Dialogue: 0,0:53:41.46,0:53:43.73,Default,,0,0,0,,Per capita consumption, notice Brazil
+Dialogue: 0,0:53:43.73,0:53:46.26,Default,,0,0,0,,Brazil used to be a poor country
+Dialogue: 0,0:53:46.26,0:53:48.62,Default,,0,0,0,,they were always a sugar exporter
+Dialogue: 0,0:53:48.62,0:53:50.71,Default,,0,0,0,,but they couldn't afford their own sugar
+Dialogue: 0,0:53:50.71,0:53:53.60,Default,,0,0,0,,but now they can because they are a BRIC country, right? They sell
+Dialogue: 0,0:53:53.60,0:53:58.57,Default,,0,0,0,,? jets, and biodiesel, and you know like… world cup… you know, all that stuff
+Dialogue: 0,0:53:58.57,0:54:05.73,Default,,0,0,0,,and the fact is that Brazil now has the highest increase in rate of prevalence of type 2 diabetes in the world
+Dialogue: 0,0:54:05.73,0:54:13.68,Default,,0,0,0,,doesn't have the highest prevalence, that's reserved for Saudi Arabia, Kuwait, United Arab Emirates, Qatar and Malasia
+Dialogue: 0,0:54:13.68,0:54:19.42,Default,,0,0,0,,Why them? Why do they have the highest diabetes rates in the world?
+Dialogue: 0,0:54:19.42,0:54:22.62,Default,,0,0,0,,No alcohol, no alcohol
+Dialogue: 0,0:54:22.62,0:54:26.44,Default,,0,0,0,,But they got soft drinks like they are going out of style, why? 'Cause it's hot,
+Dialogue: 0,0:54:26.44,0:54:29.42,Default,,0,0,0,,and the watter supply is a question mark,
+Dialogue: 0,0:54:29.42,0:54:34.22,Default,,0,0,0,,and NO ALCOHOL! This is their reward
+Dialogue: 0,0:54:34.22,0:54:39.77,Default,,0,0,0,,Now the difference is, alcohol, for lack of a better word, is self limiting
+Dialogue: 0,0:54:39.77,0:54:44.31,Default,,0,0,0,,because you end up under the table
+Dialogue: 0,0:54:44.31,0:54:50.62,Default,,0,0,0,,but soft drinks? You can drink them all they, right? And they do
+Dialogue: 0,0:54:50.62,0:54:52.88,Default,,0,0,0,,And that's why they have diabetes, now
+Dialogue: 0,0:54:52.88,0:54:55.77,Default,,0,0,0,,how do I know that the sugar ¡cause the diabetes?
+Dialogue: 0,0:54:55.77,0:54:59.15,Default,,0,0,0,,Because correlation is not causation but we have causation too
+Dialogue: 0,0:54:59.15,0:55:03.02,Default,,0,0,0,,and this is our work, just came out 3 months ago, very proud of it
+Dialogue: 0,0:55:03.02,0:55:06.75,Default,,0,0,0,,Sanjay Basu, one of my colleagues at Standford Prevention Institute,
+Dialogue: 0,0:55:06.75,0:55:10.44,Default,,0,0,0,,took 4 databases and melded them together
+Dialogue: 0,0:55:10.44,0:55:14.22,Default,,0,0,0,,we took the Food and Agriculture Organization or FAO statistics database
+Dialogue: 0,0:55:14.22,0:55:15.60,Default,,0,0,0,,from the World Health Organization
+Dialogue: 0,0:55:15.60,0:55:18.57,Default,,0,0,0,,which for the whole decade, 2000 to 2010
+Dialogue: 0,0:55:18.57,0:55:21.24,Default,,0,0,0,,which has food supply as total calories
+Dialogue: 0,0:55:21.24,0:55:28.17,Default,,0,0,0,,foods excluding wine, oils, roots, tubers, pulses, nuts and vegetables, meat, cereals, and sugar, sugar crops and sweeteners
+Dialogue: 0,0:55:28.17,0:55:30.08,Default,,0,0,0,,as separate items
+Dialogue: 0,0:55:30.08,0:55:34.75,Default,,0,0,0,,we then linked that to the International Diabetes Federation statistics database
+Dialogue: 0,0:55:34.75,0:55:37.91,Default,,0,0,0,,for diabetes prevalence worldwide, for the decade
+Dialogue: 0,0:55:37.91,0:55:41.68,Default,,0,0,0,,and then we linked that to the World Bank ?? Income database to control for
+Dialogue: 0,0:55:41.68,0:55:44.62,Default,,0,0,0,,GDP, urbanization and aging
+Dialogue: 0,0:55:44.62,0:55:48.26,Default,,0,0,0,,and then we linked that to a physical activity database, to control for physical inactivity
+Dialogue: 0,0:55:48.26,0:55:51.82,Default,,0,0,0,,and we asked the question: what about the world's diet
+Dialogue: 0,0:55:51.82,0:55:57.60,Default,,0,0,0,,predicts diabetes prevalence change over time worldwide?
+Dialogue: 0,0:55:57.60,0:56:00.71,Default,,0,0,0,,That was our question, everybody with me? Ok
+Dialogue: 0,0:56:00.71,0:56:04.93,Default,,0,0,0,,So here's what we did, 204 countries, we had complete data for 154,
+Dialogue: 0,0:56:04.93,0:56:11.55,Default,,0,0,0,,the 50 that we did not use were no different from the 154 by a very fancy set of statistics
+Dialogue: 0,0:56:11.55,0:56:15.77,Default,,0,0,0,,we did a lot of statistics, this is called an econometric analysis
+Dialogue: 0,0:56:15.77,0:56:21.73,Default,,0,0,0,,now a standard, percent vs percent, would be called an ecological analysis
+Dialogue: 0,0:56:21.73,0:56:25.73,Default,,0,0,0,,this is not an ecological analysis, this is an econometrical analysis
+Dialogue: 0,0:56:25.73,0:56:31.68,Default,,0,0,0,,this actually won 2 economists Nobel Prizes for being able to predict stock market crashes
+Dialogue: 0,0:56:31.68,0:56:36.75,Default,,0,0,0,,ok, based on what's happening before, to predict what happens after
+Dialogue: 0,0:56:36.75,0:56:40.57,Default,,0,0,0,,ok? Cause there is causation inference in this
+Dialogue: 0,0:56:40.57,0:56:44.84,Default,,0,0,0,,Generalized estimating equations with a conservative fixed effects approach, called the Hausman test,
+Dialogue: 0,0:56:44.84,0:56:47.82,Default,,0,0,0,,a hazard model to control for selection bias called the Heckman test, 
+Dialogue: 0,0:56:47.82,0:56:51.37,Default,,0,0,0,,this is the important one, since we had the whole decade
+Dialogue: 0,0:56:51.37,0:56:54.80,Default,,0,0,0,,we didn't have a snapshot, we had the movie
+Dialogue: 0,0:56:54.80,0:56:59.33,Default,,0,0,0,,and you can learn a whole lot more from a movie, than you can from a snapshot, can't you
+Dialogue: 0,0:56:59.33,0:57:04.93,Default,,0,0,0,,that's called the Granger causality test, because we can determine what came first
+Dialogue: 0,0:57:04.93,0:57:09.60,Default,,0,0,0,,'cause you can't infer causation if something didn't come first, right?
+Dialogue: 0,0:57:09.60,0:57:12.75,Default,,0,0,0,,Proximate cause, you need proximate cause
+Dialogue: 0,0:57:12.75,0:57:20.04,Default,,0,0,0,,and period effects to control for secular trends, so we did all of this really really neat statistical analysis and Sanjay Basu is an absolute genius
+Dialogue: 0,0:57:20.04,0:57:26.62,Default,,0,0,0,,and what we did was a control for GDP, obesity, urbanization aging and physical activity
+Dialogue: 0,0:57:26.62,0:57:33.64,Default,,0,0,0,,so the question was, is it the obesity or is it something specific in the food supply? That was the question
+Dialogue: 0,0:57:33.64,0:57:41.46,Default,,0,0,0,,So, during the decade diabetes prevalence rose from 5.5 to 7 percent world wide, not good
+Dialogue: 0,0:57:41.46,0:57:48.97,Default,,0,0,0,,and here's the effects model: sugar, sugar plus controls plus period, bottom line, remember that diamond that can't cross the identity line?
+Dialogue: 0,0:57:48.97,0:57:51.86,Default,,0,0,0,,well, it doesn't, it's very significant
+Dialogue: 0,0:57:51.86,0:58:00.44,Default,,0,0,0,,in fact, for every 100 calories you increase your diabetes prevalence worldwide by 0.8 percent
+Dialogue: 0,0:58:00.44,0:58:06.00,Default,,0,0,0,,and here's the adjusted associated when you took all the factors into account between sugar availability
+Dialogue: 0,0:58:06.00,0:58:07.64,Default,,0,0,0,,and diabetes prevalence
+Dialogue: 0,0:58:07.64,0:58:11.15,Default,,0,0,0,,here's what you need to take home, this is the take home slide
+Dialogue: 0,0:58:11.15,0:58:18.97,Default,,0,0,0,,only changes in sugar availability predicted those changes in diabetes prevalence worldwide, only
+Dialogue: 0,0:58:18.97,0:58:22.93,Default,,0,0,0,,if you consumed a 150 calories extra per day,
+Dialogue: 0,0:58:22.93,0:58:30.04,Default,,0,0,0,,in total calories, diabetes prevalence only went up by 0.1 percent, pffft, nothing
+Dialogue: 0,0:58:30.04,0:58:33.24,Default,,0,0,0,,but if those 150 calories happen to be a can of soda
+Dialogue: 0,0:58:33.24,0:58:36.44,Default,,0,0,0,,diabetes prevalence went up eleven fold
+Dialogue: 0,0:58:36.44,0:58:43.15,Default,,0,0,0,,1.1 percent, and we are not consuming one can of soda per day, we are consuming two and a half
+Dialogue: 0,0:58:43.15,0:58:44.97,Default,,0,0,0,,so that's 2.4 percent
+Dialogue: 0,0:58:44.97,0:58:48.04,Default,,0,0,0,,given that American diabetes rates are 8.3 percent
+Dialogue: 0,0:58:48.04,0:58:54.75,Default,,0,0,0,,that means that 26 percent of all diabetes in America today is due to sugar and sugar alone
+Dialogue: 0,0:58:54.75,0:58:58.80,Default,,0,0,0,,not due to obesity, not due to total calories, sugar and sugar alone
+Dialogue: 0,0:58:58.80,0:59:05.15,Default,,0,0,0,,You wanna do something? You want something actionable? You want something that's gonna change how much money we spend
+Dialogue: 0,0:59:05.15,0:59:09.77,Default,,0,0,0,,so we can salvage Medicare? Here it is,
+Dialogue: 0,0:59:09.77,0:59:15.55,Default,,0,0,0,,and of course our government is doing absolutely nothing, ok?
+Dialogue: 0,0:59:15.55,0:59:21.68,Default,,0,0,0,,Our data show that 25 percent of diabetes worldwide is explained by sugar
+Dialogue: 0,0:59:21.68,0:59:25.55,Default,,0,0,0,,and more importantly, this is causation
+Dialogue: 0,0:59:25.55,0:59:31.15,Default,,0,0,0,,because these data meet what's known as the Bradford Hill, the Austin Bradford Hill criteria
+Dialogue: 0,0:59:31.15,0:59:34.53,Default,,0,0,0,,for what we call causal medical inference
+Dialogue: 0,0:59:34.53,0:59:39.20,Default,,0,0,0,,now, what does that mean, it means that
+Dialogue: 0,0:59:39.20,0:59:41.73,Default,,0,0,0,,you can show dose effect
+Dialogue: 0,0:59:41.73,0:59:46.26,Default,,0,0,0,,you can show duration effect, of sugar on diabetes,
+Dialogue: 0,0:59:46.26,0:59:49.33,Default,,0,0,0,,and you can show most importantly directionality
+Dialogue: 0,0:59:49.33,0:59:53.42,Default,,0,0,0,,that is, those countries where sugar went up showed an increase in diabetes rates
+Dialogue: 0,0:59:53.42,0:59:58.00,Default,,0,0,0,,those countries, the few of them, where sugar went down showed decreased diabetes rates
+Dialogue: 0,0:59:58.00,1:00:02.93,Default,,0,0,0,,and precedence, 3 year time differential
+Dialogue: 0,1:00:02.93,1:00:05.64,Default,,0,0,0,,so every country when their sugar went up
+Dialogue: 0,1:00:05.64,1:00:09.55,Default,,0,0,0,,3 years later you saw the change in diabetes, in either direction
+Dialogue: 0,1:00:09.55,1:00:13.68,Default,,0,0,0,,that's causal medical inference, now
+Dialogue: 0,1:00:13.68,1:00:17.15,Default,,0,0,0,,it's not scientific proof, so there are different kinds of proofs
+Dialogue: 0,1:00:17.15,1:00:21.91,Default,,0,0,0,,there is anecdotal data, which of course is absolute garbage and you can't do anything with that
+Dialogue: 0,1:00:21.91,1:00:24.44,Default,,0,0,0,,because an N of 1 means nothing
+Dialogue: 0,1:00:24.44,1:00:28.88,Default,,0,0,0,,then there's correlation, but correlation suffers from this directionality question
+Dialogue: 0,1:00:28.88,1:00:32.53,Default,,0,0,0,,which came first, 'cause it's a snapshot and you can't tell,
+Dialogue: 0,1:00:32.53,1:00:37.42,Default,,0,0,0,,then there's this thing called causal medical inference, we're gonna talk about that right now
+Dialogue: 0,1:00:37.42,1:00:41.91,Default,,0,0,0,,and then there's this thing called scientific proof that everybody keeps harping on
+Dialogue: 0,1:00:41.91,1:00:48.35,Default,,0,0,0,,so, in medicine today, what percentage of what we know
+Dialogue: 0,1:00:48.35,1:00:55.51,Default,,0,0,0,,is scientifically based, evidence based, scientific proof, randomized control trials?
+Dialogue: 0,1:00:55.51,1:01:02.66,Default,,0,0,0,,That's the standard. How much of what we know, what percent of what we know today, is due to scientific proof, what do you think?
+Dialogue: 0,1:01:02.66,1:01:10.26,Default,,0,0,0,,Wanna give me a percentage? 10, 10? 10 percent of what we know is due to randomized controlled trials
+Dialogue: 0,1:01:10.26,1:01:14.35,Default,,0,0,0,,that means 90 percent of what we know is causal medical inference
+Dialogue: 0,1:01:14.35,1:01:18.80,Default,,0,0,0,,so here's the question, what level of proof do you need?
+Dialogue: 0,1:01:18.80,1:01:23.20,Default,,0,0,0,,You tell me. Who here believes in global warming?
+Dialogue: 0,1:01:23.20,1:01:28.26,Default,,0,0,0,,Why? Got any proof?
+Dialogue: 0,1:01:28.26,1:01:31.60,Default,,0,0,0,,Causal inference
+Dialogue: 0,1:01:31.60,1:01:37.24,Default,,0,0,0,,Can you randomize a controlled trial and show me that that's what's going on? No
+Dialogue: 0,1:01:37.24,1:01:42.75,Default,,0,0,0,,Who here believes that football trauma causes Alzheimers?
+Dialogue: 0,1:01:42.75,1:01:48.53,Default,,0,0,0,,How come? You got proof?
+Dialogue: 0,1:01:48.53,1:01:55.28,Default,,0,0,0,,Causal inference. Who here believes that tobacco causes lung cancer?
+Dialogue: 0,1:01:55.28,1:02:00.31,Default,,0,0,0,,How come? You got proof?
+Dialogue: 0,1:02:00.31,1:02:04.13,Default,,0,0,0,,Who's done the randomized controlled trial where you take naive people
+Dialogue: 0,1:02:04.13,1:02:08.53,Default,,0,0,0,,and expose them to cigarette smoke for the next 50 years and see what their lung cancer rates are?
+Dialogue: 0,1:02:08.53,1:02:12.66,Default,,0,0,0,,Number 1, it would be too expensive, number 2, it would be damn unethical, wouldn't it?
+Dialogue: 0,1:02:12.66,1:02:15.02,Default,,0,0,0,,In fact most of these studies would be damn unethical
+Dialogue: 0,1:02:15.02,1:02:19.28,Default,,0,0,0,,You ever think we are gonna get the actual scientific studies, the scientific proof
+Dialogue: 0,1:02:19.28,1:02:24.31,Default,,0,0,0,,for sugar causing diabetes? Number 1, nobody's got a zero baseline,
+Dialogue: 0,1:02:24.31,1:02:29.64,Default,,0,0,0,,nobody's naive, number 2, this is something that happens over 40, 50, 60 years
+Dialogue: 0,1:02:29.64,1:02:35.15,Default,,0,0,0,,how are you going to keep people on the same diet for that long
+Dialogue: 0,1:02:35.15,1:02:40.71,Default,,0,0,0,,and how are you gonna figure out what they actually ate when we can't even figure it out after one day
+Dialogue: 0,1:02:40.71,1:02:45.28,Default,,0,0,0,,Ok? And don't you think that would be a little unethical? To do that to people?
+Dialogue: 0,1:02:45.28,1:02:49.55,Default,,0,0,0,,You'll never get these data, but of course, the food industry says:
+Dialogue: 0,1:02:49.55,1:02:52.35,Default,,0,0,0,,"Well, we don't have the data, we need more research"
+Dialogue: 0,1:02:52.35,1:02:55.55,Default,,0,0,0,,We always need more research, of course we need more research,
+Dialogue: 0,1:02:55.55,1:03:00.22,Default,,0,0,0,,the question is, do we have enough proof to act?
+Dialogue: 0,1:03:00.22,1:03:04.13,Default,,0,0,0,,Them saying "we need more proof" is them moving the goalposts
+Dialogue: 0,1:03:04.13,1:03:07.46,Default,,0,0,0,,because we'll never get enough proof for them
+Dialogue: 0,1:03:07.46,1:03:10.35,Default,,0,0,0,,the question is, what do you think? Do you think we have enough?
+Dialogue: 0,1:03:10.35,1:03:14.93,Default,,0,0,0,,We have causal medical inference for sugar and diabetes, do we have enough?
+Dialogue: 0,1:03:14.93,1:03:18.40,Default,,0,0,0,,It's for you to decide, ok?
+Dialogue: 0,1:03:18.40,1:03:24.88,Default,,0,0,0,,Ok, addictive, the last piece of this
+Dialogue: 0,1:03:24.88,1:03:31.55,Default,,0,0,0,,Bingeing on high-calorie foods may be as addictive as cocaine or nicotine, and could cause compulsive eating and obesity according to a study, ok
+Dialogue: 0,1:03:31.55,1:03:35.95,Default,,0,0,0,,So here are all these books that came out on obesity, and addiction, and reward,
+Dialogue: 0,1:03:35.95,1:03:38.84,Default,,0,0,0,,you know, they are all popular books, ok?
+Dialogue: 0,1:03:38.84,1:03:44.53,Default,,0,0,0,,based on no data, but what do you think? You think that science could catch up to this?
+Dialogue: 0,1:03:44.53,1:03:49.02,Default,,0,0,0,,So here's neuroimaging studies, PET scanning,
+Dialogue: 0,1:03:49.02,1:03:54.93,Default,,0,0,0,,of dopamine receptors, dopamine is the feel-good neurotransmitter, the pleasure neurotransmitter in the reward center here
+Dialogue: 0,1:03:54.93,1:03:59.68,Default,,0,0,0,,so here's a control brain with nice hot dopamine receptors, which is good
+Dialogue: 0,1:03:59.68,1:04:02.57,Default,,0,0,0,,and here's a cocaine brain where they've been damped down
+Dialogue: 0,1:04:02.57,1:04:07.55,Default,,0,0,0,,This is the neuroanatomic equivalent of the phenomenon of tolerance
+Dialogue: 0,1:04:07.55,1:04:11.28,Default,,0,0,0,,Ok? Because dopamine down regulates its own receptor, so
+Dialogue: 0,1:04:11.28,1:04:17.06,Default,,0,0,0,,once this happens you need more substrate to get the same effect, that's called tolerance
+Dialogue: 0,1:04:17.06,1:04:21.51,Default,,0,0,0,,Ok? And then of course when you withdraw it, now you get withdrawal and you get symptoms, everybody with me?
+Dialogue: 0,1:04:21.51,1:04:25.33,Default,,0,0,0,,Well here's a control brain, and here's an obese brain, what do you see?
+Dialogue: 0,1:04:25.33,1:04:29.55,Default,,0,0,0,,Same thing, not quite as bad, but same concept
+Dialogue: 0,1:04:29.55,1:04:35.51,Default,,0,0,0,,So here's the reward system, here's the ventral tegmental area here, where the dopamine neurons live
+Dialogue: 0,1:04:35.51,1:04:40.22,Default,,0,0,0,,and here's the nucleus accumben, where the dopamine information gets received
+Dialogue: 0,1:04:40.22,1:04:43.60,Default,,0,0,0,,and so how fast this gets transduced
+Dialogue: 0,1:04:43.60,1:04:46.93,Default,,0,0,0,,has everything to do with what level of reward you achieve
+Dialogue: 0,1:04:46.93,1:04:51.86,Default,,0,0,0,,with any given stimulus, whether be power or gambling, or shopping or
+Dialogue: 0,1:04:51.86,1:04:56.71,Default,,0,0,0,,cocaine or alcohol, or for that matter, sugar
+Dialogue: 0,1:04:56.71,1:05:00.40,Default,,0,0,0,,and this just shows what happens, so here's that dopamine neuron
+Dialogue: 0,1:05:00.40,1:05:03.82,Default,,0,0,0,,and you see it's going blip, blip, blip, right?
+Dialogue: 0,1:05:03.82,1:05:10.04,Default,,0,0,0,,So you add nicotine, blip blip blip blip blip blip, you get more reward, that's basically what we are talking about, that's why people start smoking
+Dialogue: 0,1:05:10.04,1:05:15.42,Default,,0,0,0,,and then of course the dopamine receptors go down and they can't stop smoking, that's addiction
+Dialogue: 0,1:05:15.42,1:05:20.57,Default,,0,0,0,,If an food readout… a food intake is a readout of reward
+Dialogue: 0,1:05:20.57,1:05:25.82,Default,,0,0,0,,'cause here's injecting morphine into the reward center
+Dialogue: 0,1:05:25.82,1:05:29.15,Default,,0,0,0,,and you can see that as the morphine goes up the food intake goes up
+Dialogue: 0,1:05:29.15,1:05:32.88,Default,,0,0,0,,because food intake is a readout of reward
+Dialogue: 0,1:05:32.88,1:05:37.77,Default,,0,0,0,,and you can see that all the reward centers are all linked together
+Dialogue: 0,1:05:37.77,1:05:42.57,Default,,0,0,0,,into the nucleus accumbens, including the hypothalamus, which is the starvation area,
+Dialogue: 0,1:05:42.57,1:05:44.88,Default,,0,0,0,,the amygdala, which is the fear area,
+Dialogue: 0,1:05:44.88,1:05:49.02,Default,,0,0,0,,and of course the reward area, so hunger, reward and stress
+Dialogue: 0,1:05:49.02,1:05:51.02,Default,,0,0,0,,all reasons to eat
+Dialogue: 0,1:05:51.02,1:05:55.46,Default,,0,0,0,,and they all conspire against us all at the same time
+Dialogue: 0,1:05:55.46,1:05:57.73,Default,,0,0,0,,so when we see a patient in our clinic
+Dialogue: 0,1:05:57.73,1:06:02.62,Default,,0,0,0,,that's the question we ask ourselves, is this patient obese because they are hungry?
+Dialogue: 0,1:06:02.62,1:06:04.88,Default,,0,0,0,,and I know what to do about that
+Dialogue: 0,1:06:04.88,1:06:10.66,Default,,0,0,0,,or is this patient obese because of the reward system, it's defective?
+Dialogue: 0,1:06:10.66,1:06:15.51,Default,,0,0,0,,and they are addicted? That's a lot harder to deal with, but we know how to do that too
+Dialogue: 0,1:06:15.51,1:06:19.68,Default,,0,0,0,,Or is this person eating because of stress?
+Dialogue: 0,1:06:19.68,1:06:23.24,Default,,0,0,0,,Which is enormous problem, especially in America
+Dialogue: 0,1:06:23.24,1:06:28.44,Default,,0,0,0,,And that one is really a hard one, because it's not the stress, it's the response to stress
+Dialogue: 0,1:06:28.44,1:06:32.48,Default,,0,0,0,,So if you think you are stressed, you are stressed, whether you are or not
+Dialogue: 0,1:06:32.48,1:06:35.77,Default,,0,0,0,,and most kids today are stressed like never before
+Dialogue: 0,1:06:35.77,1:06:39.06,Default,,0,0,0,,and you know what stresses them the most?
+Dialogue: 0,1:06:39.06,1:06:44.53,Default,,0,0,0,,Facebook
+Dialogue: 0,1:06:44.53,1:06:49.51,Default,,0,0,0,,And this is going on in every animal, see us humans right there, big dopamines there
+Dialogue: 0,1:06:49.51,1:06:53.86,Default,,0,0,0,,receptors here, when obese, dopamine receptors go down
+Dialogue: 0,1:06:53.86,1:06:57.73,Default,,0,0,0,,here are Bonnet macaques, same thing, and here are rats, same thing
+Dialogue: 0,1:06:57.73,1:07:01.37,Default,,0,0,0,,bottom line, obesity means downregulation of dopamine receptors, which means
+Dialogue: 0,1:07:01.37,1:07:06.17,Default,,0,0,0,,you need more food to get the same level of reword, or you might as well crawl in a hole and die
+Dialogue: 0,1:07:06.17,1:07:07.60,Default,,0,0,0,,ok, that's what it's all about
+Dialogue: 0,1:07:07.60,1:07:12.31,Default,,0,0,0,,So these people are eating because their brain says they have to
+Dialogue: 0,1:07:12.31,1:07:17.51,Default,,0,0,0,,So, the question is, is fast food addictive? What do you think?
+Dialogue: 0,1:07:17.51,1:07:23.42,Default,,0,0,0,,Yes? No? Ok, so we actually looked at that question
+Dialogue: 0,1:07:23.42,1:07:25.42,Default,,0,0,0,,So everybody familiar with this book?
+Dialogue: 0,1:07:25.42,1:07:30.44,Default,,0,0,0,,Michael Moss put this out, "Salt, sugar, fat, how the giants hooked us", right?
+Dialogue: 0,1:07:30.44,1:07:33.06,Default,,0,0,0,,This is wrong, this is a mistake
+Dialogue: 0,1:07:33.06,1:07:35.82,Default,,0,0,0,,'Cause there is one thing not on the list
+Dialogue: 0,1:07:35.77,1:07:38.53,Default,,0,0,0,,What's missing?
+Dialogue: 0,1:07:38.53,1:07:40.13,Default,,0,0,0,,Caffeine
+Dialogue: 0,1:07:40.13,1:07:45.28,Default,,0,0,0,,Now we've got fast food! Ok, salt, sugar, fat and caffeine, right?
+Dialogue: 0,1:07:45.28,1:07:48.48,Default,,0,0,0,,So the question is, of these four which are addictive?
+Dialogue: 0,1:07:48.48,1:07:51.46,Default,,0,0,0,,Let's talk about salt. Is salt addictive?
+Dialogue: 0,1:07:51.46,1:07:53.33,Default,,0,0,0,,No, it's not addictive
+Dialogue: 0,1:07:53.33,1:07:56.62,Default,,0,0,0,,In humans the threshold is physiologically fixed
+Dialogue: 0,1:07:56.62,1:07:59.11,Default,,0,0,0,,higher levels are attributable to preference
+Dialogue: 0,1:07:59.11,1:08:02.40,Default,,0,0,0,,but you can alter that preference, lot's of people do
+Dialogue: 0,1:08:02.40,1:08:04.53,Default,,0,0,0,,specially when they have to go low salt for some reason
+Dialogue: 0,1:08:04.53,1:08:10.08,Default,,0,0,0,,and we know because we take care of a disease in endocrinology called "salt-losing congenital adrenal hyperplasia"
+Dialogue: 0,1:08:10.08,1:08:13.51,Default,,0,0,0,,were their kidneys are losing salt non stop
+Dialogue: 0,1:08:13.51,1:08:17.28,Default,,0,0,0,,but when we give them the salt retaining hormone that works in the kidney called aldosterone
+Dialogue: 0,1:08:17.28,1:08:19.86,Default,,0,0,0,,their salt intake goes way down
+Dialogue: 0,1:08:19.86,1:08:22.08,Default,,0,0,0,,and if they were addicted that wouldn't happen
+Dialogue: 0,1:08:22.08,1:08:25.06,Default,,0,0,0,,so when we fix their physiology their
+Dialogue: 0,1:08:25.06,1:08:31.42,Default,,0,0,0,,preference gets a lot better. So salt? Not addictive.
+Dialogue: 0,1:08:31.42,1:08:34.97,Default,,0,0,0,,Now let's take fat. Is fat addictive? What do you think?
+Dialogue: 0,1:08:35.06,1:08:39.37,Default,,0,0,0,,Nope, rodents binge but show no signs of dependence, and humans
+Dialogue: 0,1:08:39.37,1:08:43.68,Default,,0,0,0,,they always bing on high fat high carb or high sugar
+Dialogue: 0,1:08:43.68,1:08:50.88,Default,,0,0,0,,items, like pizza and icecream, you don't binge on high fat per se, otherwise the Atkins diet would have everybody addicted and they'll tell you
+Dialogue: 0,1:08:50.88,1:08:55.20,Default,,0,0,0,,you know they are losing weight, how could they lose weight if they are all addicted?
+Dialogue: 0,1:08:55.20,1:08:59.95,Default,,0,0,0,,Energy density actually has a stronger association with obesity and metabolic syndrome than fat does
+Dialogue: 0,1:08:59.95,1:09:04.44,Default,,0,0,0,,so, fat? Not addictive
+Dialogue: 0,1:09:04.44,1:09:06.35,Default,,0,0,0,,So we are left with these two
+Dialogue: 0,1:09:06.35,1:09:09.28,Default,,0,0,0,,Caffeine? Oh man, caffeine is addictive
+Dialogue: 0,1:09:09.28,1:09:13.95,Default,,0,0,0,,and if you take my Starbucks from me I'll kill you
+Dialogue: 0,1:09:13.95,1:09:17.11,Default,,0,0,0,,model drug of dependence, gateway drug in fact
+Dialogue: 0,1:09:17.11,1:09:23.60,Default,,0,0,0,,dependence show in children, adolescence, adults, 30 percent who consume it meet the DSM criteria for dependence
+Dialogue: 0,1:09:23.60,1:09:28.93,Default,,0,0,0,,and physiological addiction is well established with the headache, and the test performance, and everything else
+Dialogue: 0,1:09:28.93,1:09:30.84,Default,,0,0,0,,Mega addictive, ok?
+Dialogue: 0,1:09:30.84,1:09:35.11,Default,,0,0,0,,But d'you see anybody going out and regulating Starbucks or Pits or anything like that?
+Dialogue: 0,1:09:35.11,1:09:37.77,Default,,0,0,0,,Why? Because it's not toxic
+Dialogue: 0,1:09:37.77,1:09:42.66,Default,,0,0,0,,It's addictive, but not toxic, unless you mix it with alcohol and then you got something called four loco
+Dialogue: 0,1:09:42.66,1:09:45.20,Default,,0,0,0,,and that we are banning, everybody got it?
+Dialogue: 0,1:09:45.20,1:09:49.06,Default,,0,0,0,,So when it's toxic and addictive we ban it or we regulate it
+Dialogue: 0,1:09:49.06,1:09:52.13,Default,,0,0,0,,And so, caffeine and alcohol together that's a bad deal
+Dialogue: 0,1:09:52.13,1:09:56.84,Default,,0,0,0,,but caffeine alone? Keep your hands of my Starbucks, ok
+Dialogue: 0,1:09:56.84,1:09:59.73,Default,,0,0,0,,So caffeine? Yes, addictive
+Dialogue: 0,1:09:59.73,1:10:04.08,Default,,0,0,0,,Ok, that leaves this one. Sugar, is sugar addictive? What do you think?
+Dialogue: 0,1:10:04.08,1:10:09.28,Default,,0,0,0,,You know, we've known this for a long time, because, anybody know what this is?
+Dialogue: 0,1:10:09.28,1:10:13.55,Default,,0,0,0,,It's called "sweeties", "sweeties"
+Dialogue: 0,1:10:13.55,1:10:19.42,Default,,0,0,0,,This is a super concentrated sucrose, sugar solution, that you dip the pacifier in
+Dialogue: 0,1:10:19.42,1:10:24.31,Default,,0,0,0,,and you put in the newborn baby boy's mount before you do the the circumcision
+Dialogue: 0,1:10:24.31,1:10:27.91,Default,,0,0,0,,because it releases opioids and deadens the pain
+Dialogue: 0,1:10:27.91,1:10:30.57,Default,,0,0,0,,and this has been known forever
+Dialogue: 0,1:10:30.57,1:10:35.46,Default,,0,0,0,,Ok? Then you mix it with a little wine and then you got a really good cocktail, eh?
+Dialogue: 0,1:10:35.46,1:10:41.51,Default,,0,0,0,,So is there really such a thing as sugar addiction, we have to look for similarities to other drugs of dependence like nicotine, morphine, amphetamine, cocaine,
+Dialogue: 0,1:10:41.51,1:10:43.60,Default,,0,0,0,,the one I think is most appropriate is alcohol
+Dialogue: 0,1:10:43.60,1:10:49.15,Default,,0,0,0,,because after all alcohol and sugar are basically metabolized the same way, because after all where do you get alcohol from?
+Dialogue: 0,1:10:49.15,1:10:51.37,Default,,0,0,0,,Fermentation of sugar, it's called wine
+Dialogue: 0,1:10:51.37,1:10:53.86,Default,,0,0,0,,right? We do it every day, ?
+Dialogue: 0,1:10:53.86,1:10:56.26,Default,,0,0,0,,the big difference between alcohol and sugar is that
+Dialogue: 0,1:10:56.26,1:11:00.66,Default,,0,0,0,,for alcohol the yeast does the first step of metabolism called glycolysis
+Dialogue: 0,1:11:00.66,1:11:03.11,Default,,0,0,0,,for sugar we do our own first step, but after that
+Dialogue: 0,1:11:03.11,1:11:06.08,Default,,0,0,0,,when the mitochondria see it it doesn't matter where it came from
+Dialogue: 0,1:11:06.08,1:11:09.95,Default,,0,0,0,,and that's the point, and that's why they both cause the same diseases
+Dialogue: 0,1:11:09.95,1:11:12.40,Default,,0,0,0,,and they do the same thing to the brain
+Dialogue: 0,1:11:12.40,1:11:16.44,Default,,0,0,0,,so for the criteria for addiction in animals are bingeing,
+Dialogue: 0,1:11:16.44,1:11:19.55,Default,,0,0,0,,withdrawal, craving, 
+Dialogue: 0,1:11:19.55,1:11:24.26,Default,,0,0,0,,and then there is one down here called cross-sensitization with other drugs of abuse, that means
+Dialogue: 0,1:11:24.26,1:11:28.66,Default,,0,0,0,,that if you expose an animal to one drug of abuse, like cocaine
+Dialogue: 0,1:11:28.66,1:11:30.57,Default,,0,0,0,,for 3 weeks and addict them
+Dialogue: 0,1:11:30.57,1:11:35.15,Default,,0,0,0,,and then you expose them to a second drug they've never seen before, like say amphetamine
+Dialogue: 0,1:11:35.15,1:11:38.13,Default,,0,0,0,,they're addicted to the amphetamine even though they'd never seen it before
+Dialogue: 0,1:11:38.13,1:11:43.51,Default,,0,0,0,,because the dopamine receptors are already downregulated 'cause they are the same dopamine receptors, everybody got it?
+Dialogue: 0,1:11:43.51,1:11:46.75,Default,,0,0,0,,Ok? And so, does sugar do this? Absolutely
+Dialogue: 0,1:11:46.75,1:11:50.08,Default,,0,0,0,,Q.E.D. slammed on, sugar is addictive in animals
+Dialogue: 0,1:11:50.08,1:11:54.13,Default,,0,0,0,,What about humans? Who saw this movie?
+Dialogue: 0,1:11:54.13,1:11:57.33,Default,,0,0,0,,Right? Did you like it?
+Dialogue: 0,1:11:57.33,1:11:58.93,Default,,0,0,0,,More or less?
+Dialogue: 0,1:11:58.93,1:12:03.37,Default,,0,0,0,,I've a big problem with this movie, because if you watch the movie
+Dialogue: 0,1:12:03.37,1:12:06.35,Default,,0,0,0,,his doctor, Morgan's doctor keeps saying:
+Dialogue: 0,1:12:06.35,1:12:11.64,Default,,0,0,0,,"You gotta get off this high fat diet, high fat diet, high fat diet, high fat diet, high fat diet"
+Dialogue: 0,1:12:11.64,1:12:14.75,Default,,0,0,0,,Not the high fat diet, it's the high sugar diet,
+Dialogue: 0,1:12:14.75,1:12:17.73,Default,,0,0,0,,high sugar diet, that's what caused all the problems
+Dialogue: 0,1:12:17.73,1:12:21.51,Default,,0,0,0,,So, can sugar be addictive?
+Dialogue: 0,1:12:21.51,1:12:24.62,Default,,0,0,0,,Watch. "I was feeling bad"
+Dialogue: 0,1:12:24.62,1:12:28.08,Default,,0,0,0,,"In the car, feeling like…", sorry, "…really"
+Dialogue: 0,1:12:28.08,1:12:31.91,Default,,0,0,0,,"I was feeling really, really"
+Dialogue: 0,1:12:31.91,1:12:34.08,Default,,0,0,0,,"sick and unhappy"
+Dialogue: 0,1:12:34.08,1:12:38.04,Default,,0,0,0,,"started eating, feel great"
+Dialogue: 0,1:12:38.04,1:12:39.55,Default,,0,0,0,,"feel really good now"
+Dialogue: 0,1:12:39.55,1:12:41.73,Default,,0,0,0,,"I feel so good as crazy"
+Dialogue: 0,1:12:41.73,1:12:45.64,Default,,0,0,0,,"Ain't that right baby. Yeah you're right darling"
+Dialogue: 0,1:12:45.64,1:12:48.26,Default,,0,0,0,,This was on day 18, ok?
 Dialogue: 0,1:12:48.26,1:12:51.02,Default,,0,0,0,,
 Dialogue: 0,1:12:51.02,1:12:54.48,Default,,0,0,0,,
 Dialogue: 0,1:12:54.48,1:12:58.26,Default,,0,0,0,,
