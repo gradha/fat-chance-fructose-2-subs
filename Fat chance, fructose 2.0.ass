@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 430
-Active Line: 445
+Scroll Position: 547
+Active Line: 563
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -466,124 +466,124 @@ Dialogue: 0,0:38:12.71,0:38:16.53,Default,,0,0,0,,You know the most destructive 
 Dialogue: 0,0:38:16.53,0:38:19.20,Default,,0,0,0,,Sugar?
 Dialogue: 0,0:38:24.80,0:38:28.80,Default,,0,0,0,,You know, if Hollywood knows this why don't you?
 Dialogue: 0,0:38:31.28,0:38:35.33,Default,,0,0,0,,Indeed, he's got it right, ok?
-Dialogue: 0,0:38:35.33,0:38:41.68,Default,,0,0,0,,
-Dialogue: 0,0:38:41.68,0:38:44.88,Default,,0,0,0,,
-Dialogue: 0,0:38:44.88,0:38:46.88,Default,,0,0,0,,
-Dialogue: 0,0:38:46.88,0:38:50.13,Default,,0,0,0,,
-Dialogue: 0,0:38:50.13,0:38:55.28,Default,,0,0,0,,
-Dialogue: 0,0:38:55.28,0:39:02.22,Default,,0,0,0,,
-Dialogue: 0,0:39:02.22,0:39:07.02,Default,,0,0,0,,
-Dialogue: 0,0:39:07.02,0:39:14.97,Default,,0,0,0,,
-Dialogue: 0,0:39:14.97,0:39:19.28,Default,,0,0,0,,
-Dialogue: 0,0:39:19.28,0:39:23.33,Default,,0,0,0,,
-Dialogue: 0,0:39:24.71,0:39:27.86,Default,,0,0,0,,
-Dialogue: 0,0:39:27.86,0:39:32.04,Default,,0,0,0,,
-Dialogue: 0,0:39:32.04,0:39:34.88,Default,,0,0,0,,
-Dialogue: 0,0:39:34.88,0:39:40.66,Default,,0,0,0,,
-Dialogue: 0,0:39:40.66,0:39:44.84,Default,,0,0,0,,
-Dialogue: 0,0:39:44.84,0:39:48.04,Default,,0,0,0,,
-Dialogue: 0,0:39:48.04,0:39:50.84,Default,,0,0,0,,
-Dialogue: 0,0:39:50.84,0:39:53.64,Default,,0,0,0,,
-Dialogue: 0,0:39:53.64,0:39:56.71,Default,,0,0,0,,
-Dialogue: 0,0:39:56.71,0:40:02.17,Default,,0,0,0,,
-Dialogue: 0,0:40:02.17,0:40:07.60,Default,,0,0,0,,
-Dialogue: 0,0:40:07.60,0:40:12.71,Default,,0,0,0,,
-Dialogue: 0,0:40:12.71,0:40:16.00,Default,,0,0,0,,
-Dialogue: 0,0:40:16.00,0:40:22.66,Default,,0,0,0,,
-Dialogue: 0,0:40:22.66,0:40:25.06,Default,,0,0,0,,
-Dialogue: 0,0:40:25.06,0:40:29.24,Default,,0,0,0,,
-Dialogue: 0,0:40:29.33,0:40:31.42,Default,,0,0,0,,
-Dialogue: 0,0:40:31.42,0:40:33.77,Default,,0,0,0,,
-Dialogue: 0,0:40:33.77,0:40:37.24,Default,,0,0,0,,
-Dialogue: 0,0:40:37.24,0:40:41.02,Default,,0,0,0,,
-Dialogue: 0,0:40:41.02,0:40:46.97,Default,,0,0,0,,
-Dialogue: 0,0:40:46.97,0:40:52.80,Default,,0,0,0,,
-Dialogue: 0,0:40:52.80,0:40:59.37,Default,,0,0,0,,
-Dialogue: 0,0:40:59.37,0:41:05.55,Default,,0,0,0,,
-Dialogue: 0,0:41:05.55,0:41:10.84,Default,,0,0,0,,
-Dialogue: 0,0:41:10.84,0:41:17.06,Default,,0,0,0,,
-Dialogue: 0,0:41:17.06,0:41:23.24,Default,,0,0,0,,
-Dialogue: 0,0:41:23.24,0:41:27.91,Default,,0,0,0,,
-Dialogue: 0,0:41:27.91,0:41:31.73,Default,,0,0,0,,
-Dialogue: 0,0:41:31.73,0:41:38.26,Default,,0,0,0,,
-Dialogue: 0,0:41:38.26,0:41:43.15,Default,,0,0,0,,
-Dialogue: 0,0:41:43.15,0:41:48.04,Default,,0,0,0,,
-Dialogue: 0,0:41:48.04,0:41:51.20,Default,,0,0,0,,
-Dialogue: 0,0:41:51.20,0:41:55.46,Default,,0,0,0,,
-Dialogue: 0,0:41:55.46,0:41:58.40,Default,,0,0,0,,
-Dialogue: 0,0:41:58.40,0:42:02.44,Default,,0,0,0,,
-Dialogue: 0,0:42:02.44,0:42:07.33,Default,,0,0,0,,
-Dialogue: 0,0:42:07.33,0:42:11.15,Default,,0,0,0,,
-Dialogue: 0,0:42:11.15,0:42:13.37,Default,,0,0,0,,
-Dialogue: 0,0:42:13.37,0:42:18.53,Default,,0,0,0,,
-Dialogue: 0,0:42:18.53,0:42:22.93,Default,,0,0,0,,
-Dialogue: 0,0:42:22.93,0:42:25.46,Default,,0,0,0,,
-Dialogue: 0,0:42:25.46,0:42:30.00,Default,,0,0,0,,
-Dialogue: 0,0:42:30.00,0:42:35.42,Default,,0,0,0,,
-Dialogue: 0,0:42:35.42,0:42:38.13,Default,,0,0,0,,
-Dialogue: 0,0:42:38.13,0:42:43.15,Default,,0,0,0,,
-Dialogue: 0,0:42:43.15,0:42:48.75,Default,,0,0,0,,
-Dialogue: 0,0:42:48.75,0:42:53.15,Default,,0,0,0,,
-Dialogue: 0,0:42:53.15,0:42:56.93,Default,,0,0,0,,
-Dialogue: 0,0:42:56.93,0:42:58.93,Default,,0,0,0,,
-Dialogue: 0,0:42:58.93,0:43:00.88,Default,,0,0,0,,
-Dialogue: 0,0:43:00.88,0:43:03.55,Default,,0,0,0,,
-Dialogue: 0,0:43:03.55,0:43:06.97,Default,,0,0,0,,
-Dialogue: 0,0:43:06.97,0:43:13.33,Default,,0,0,0,,
-Dialogue: 0,0:43:13.33,0:43:18.08,Default,,0,0,0,,
-Dialogue: 0,0:43:18.08,0:43:20.93,Default,,0,0,0,,
-Dialogue: 0,0:43:20.93,0:43:25.11,Default,,0,0,0,,
-Dialogue: 0,0:43:25.11,0:43:28.48,Default,,0,0,0,,
-Dialogue: 0,0:43:28.48,0:43:32.48,Default,,0,0,0,,
-Dialogue: 0,0:43:32.48,0:43:35.77,Default,,0,0,0,,
-Dialogue: 0,0:43:35.82,0:43:37.06,Default,,0,0,0,,
-Dialogue: 0,0:43:37.42,0:43:41.42,Default,,0,0,0,,
-Dialogue: 0,0:43:41.42,0:43:46.62,Default,,0,0,0,,
-Dialogue: 0,0:43:46.71,0:43:48.75,Default,,0,0,0,,
-Dialogue: 0,0:43:48.75,0:43:54.97,Default,,0,0,0,,
-Dialogue: 0,0:43:54.97,0:43:58.53,Default,,0,0,0,,
-Dialogue: 0,0:43:58.53,0:44:03.15,Default,,0,0,0,,
-Dialogue: 0,0:44:03.15,0:44:10.88,Default,,0,0,0,,
-Dialogue: 0,0:44:10.88,0:44:14.97,Default,,0,0,0,,
-Dialogue: 0,0:44:14.97,0:44:20.66,Default,,0,0,0,,
-Dialogue: 0,0:44:20.66,0:44:26.08,Default,,0,0,0,,
-Dialogue: 0,0:44:26.08,0:44:28.93,Default,,0,0,0,,
-Dialogue: 0,0:44:28.93,0:44:34.31,Default,,0,0,0,,
-Dialogue: 0,0:44:34.31,0:44:39.33,Default,,0,0,0,,
-Dialogue: 0,0:44:39.33,0:44:42.80,Default,,0,0,0,,
-Dialogue: 0,0:44:42.80,0:44:47.33,Default,,0,0,0,,
-Dialogue: 0,0:44:47.33,0:44:54.13,Default,,0,0,0,,
-Dialogue: 0,0:44:54.13,0:44:58.88,Default,,0,0,0,,
-Dialogue: 0,0:44:58.88,0:45:03.11,Default,,0,0,0,,
-Dialogue: 0,0:45:03.11,0:45:08.93,Default,,0,0,0,,
-Dialogue: 0,0:45:08.93,0:45:13.46,Default,,0,0,0,,
-Dialogue: 0,0:45:13.46,0:45:18.53,Default,,0,0,0,,
-Dialogue: 0,0:45:18.53,0:45:23.68,Default,,0,0,0,,
-Dialogue: 0,0:45:23.68,0:45:28.22,Default,,0,0,0,,
-Dialogue: 0,0:45:28.22,0:45:31.82,Default,,0,0,0,,
-Dialogue: 0,0:45:31.82,0:45:34.88,Default,,0,0,0,,
-Dialogue: 0,0:45:34.88,0:45:36.88,Default,,0,0,0,,
-Dialogue: 0,0:45:36.88,0:45:39.64,Default,,0,0,0,,
-Dialogue: 0,0:45:39.64,0:45:44.26,Default,,0,0,0,,
-Dialogue: 0,0:45:44.26,0:45:49.51,Default,,0,0,0,,
-Dialogue: 0,0:45:49.51,0:45:52.93,Default,,0,0,0,,
-Dialogue: 0,0:45:52.93,0:45:56.57,Default,,0,0,0,,
-Dialogue: 0,0:45:56.57,0:45:59.55,Default,,0,0,0,,
-Dialogue: 0,0:45:59.55,0:46:01.55,Default,,0,0,0,,
-Dialogue: 0,0:46:02.04,0:46:05.33,Default,,0,0,0,,
-Dialogue: 0,0:46:05.33,0:46:08.13,Default,,0,0,0,,
-Dialogue: 0,0:46:08.13,0:46:13.82,Default,,0,0,0,,
-Dialogue: 0,0:46:13.82,0:46:18.48,Default,,0,0,0,,
-Dialogue: 0,0:46:18.48,0:46:21.77,Default,,0,0,0,,
-Dialogue: 0,0:46:21.77,0:46:25.82,Default,,0,0,0,,
-Dialogue: 0,0:46:25.82,0:46:29.20,Default,,0,0,0,,
-Dialogue: 0,0:46:29.20,0:46:35.06,Default,,0,0,0,,
-Dialogue: 0,0:46:35.06,0:46:42.31,Default,,0,0,0,,
-Dialogue: 0,0:46:42.31,0:46:46.31,Default,,0,0,0,,
-Dialogue: 0,0:46:46.31,0:46:49.46,Default,,0,0,0,,
-Dialogue: 0,0:46:49.46,0:46:53.02,Default,,0,0,0,,
-Dialogue: 0,0:46:53.02,0:46:57.55,Default,,0,0,0,,
-Dialogue: 0,0:46:57.55,0:47:01.55,Default,,0,0,0,,
+Dialogue: 0,0:38:35.33,0:38:41.68,Default,,0,0,0,,So, we know that there are substances out there that are addictive and hazardous to our health
+Dialogue: 0,0:38:41.68,0:38:44.88,Default,,0,0,0,,here's a perfect example, and we regulate it
+Dialogue: 0,0:38:44.88,0:38:46.88,Default,,0,0,0,,well, guess what
+Dialogue: 0,0:38:46.88,0:38:50.13,Default,,0,0,0,,it's not the only one, this is too
+Dialogue: 0,0:38:50.13,0:38:55.28,Default,,0,0,0,,and I'll show you why, so there are the two papers… you know, popular press items
+Dialogue: 0,0:38:55.28,0:39:02.22,Default,,0,0,0,,this was from the New York Times magazine in 2011, is sugar toxic, from Gary Taubes based our work here at USCF
+Dialogue: 0,0:39:02.22,0:39:07.02,Default,,0,0,0,,and this is a, Comment, that we had Nature, last year, that got quite a bit of heat
+Dialogue: 0,0:39:07.02,0:39:14.97,Default,,0,0,0,,more than light unfortunately, called "The toxic truth about sugar" that I wrote with my colleagues here, Laura Schmidt and Claire Brindis at the Institute for Health Policy Studies
+Dialogue: 0,0:39:14.97,0:39:19.28,Default,,0,0,0,,So, hazardous to your health, and the reason is because
+Dialogue: 0,0:39:19.28,0:39:23.33,Default,,0,0,0,,that common sense notion, a calorie is a calorie
+Dialogue: 0,0:39:24.71,0:39:27.86,Default,,0,0,0,,it ain't true, 'cause a calorie is not a calorie
+Dialogue: 0,0:39:27.86,0:39:32.04,Default,,0,0,0,,So, what are we talking about? Here we're talking about this stuff called High Fructose Corn Syrup
+Dialogue: 0,0:39:32.04,0:39:34.88,Default,,0,0,0,,55 percent fructose, so they say
+Dialogue: 0,0:39:34.88,0:39:40.66,Default,,0,0,0,,there are actually some studies that suggest that dispenser sugar, like from McDonald's, or Burger King, or 7eleven
+Dialogue: 0,0:39:40.66,0:39:44.84,Default,,0,0,0,,might actually have 65 percent fructose sometimes, and that would be a problem
+Dialogue: 0,0:39:44.84,0:39:48.04,Default,,0,0,0,,but most of the time it's 55 percent
+Dialogue: 0,0:39:48.04,0:39:50.84,Default,,0,0,0,,one glucose, one fructose
+Dialogue: 0,0:39:50.84,0:39:53.64,Default,,0,0,0,,six membered ring, five membered ring
+Dialogue: 0,0:39:53.64,0:39:56.71,Default,,0,0,0,,Now this stuff? Is essential for life
+Dialogue: 0,0:39:56.71,0:40:02.17,Default,,0,0,0,,Every cell on the planet utilizes glucose for energy
+Dialogue: 0,0:40:02.17,0:40:07.60,Default,,0,0,0,,It's so important that if you don't eat it your body makes it, that's how important it is
+Dialogue: 0,0:40:07.60,0:40:12.71,Default,,0,0,0,,This guy over here is completely vestigial, there's not one biochemical reaction in the body that requires it
+Dialogue: 0,0:40:12.71,0:40:16.00,Default,,0,0,0,,but it's very sweet, and we like it a lot
+Dialogue: 0,0:40:16.00,0:40:22.66,Default,,0,0,0,,The question is, what do we do with it if we don't need it for any biochemical reaction?
+Dialogue: 0,0:40:22.66,0:40:25.06,Default,,0,0,0,,That's one of the key questions
+Dialogue: 0,0:40:25.06,0:40:29.24,Default,,0,0,0,,But over here is sucrose, this is table sugar, cane sugar… the stuff you put in your coffee
+Dialogue: 0,0:40:29.33,0:40:31.42,Default,,0,0,0,,one glucose, one fructose
+Dialogue: 0,0:40:31.42,0:40:33.77,Default,,0,0,0,,O-glycosidic linkage linking the two
+Dialogue: 0,0:40:33.77,0:40:37.24,Default,,0,0,0,,The enzyme in your intestine, sucrase, cleaves this in about a nanosecond
+Dialogue: 0,0:40:37.24,0:40:41.02,Default,,0,0,0,,so when you absorb the two ??? they are exactly the same and that's what all the data say
+Dialogue: 0,0:40:41.02,0:40:46.97,Default,,0,0,0,,is that they are exactly the same, high fructose corn syrup and sucrose are metabolically equal
+Dialogue: 0,0:40:46.97,0:40:52.80,Default,,0,0,0,,Metabolically bad, metabolically equally bad, ok?
+Dialogue: 0,0:40:52.80,0:40:59.37,Default,,0,0,0,,This is what our consumption of fructose, so double it for sugar, has done over the last 100 years
+Dialogue: 0,0:40:59.37,0:41:05.55,Default,,0,0,0,,so our ancestors, getting foods and vegetables out of the ground with the occasional honey, got about 15 grams of fructose a day
+Dialogue: 0,0:41:05.55,0:41:10.84,Default,,0,0,0,,prior to WW2 with the nascent candy and soft drink industries in the country we got to about 20 grams per day
+Dialogue: 0,0:41:10.84,0:41:17.06,Default,,0,0,0,,by 1977 we got up to 37 grams per day, this is just before high fructose corn syrup invaded our shores
+Dialogue: 0,0:41:17.06,0:41:23.24,Default,,0,0,0,,at 8 percent of total caloric intake, by 1994 we are up to 55 grams a day, that was 10 percent of total caloric intake
+Dialogue: 0,0:41:23.24,0:41:27.91,Default,,0,0,0,,and adolescents currently consume 75 grams per day, that's 12 percent of caloric intake
+Dialogue: 0,0:41:27.91,0:41:31.73,Default,,0,0,0,,and 25 percent of adolescents consume 100 grams of fructose per day
+Dialogue: 0,0:41:31.73,0:41:38.26,Default,,0,0,0,,double that for sugar, that's 200 grams of sugar, multiple by 4.1 calories per gram, that's 840 calories in sugar
+Dialogue: 0,0:41:38.26,0:41:43.15,Default,,0,0,0,,so for 2000 calorie allotment, that's 40 percent of calories are sugar, the question is
+Dialogue: 0,0:41:43.15,0:41:48.04,Default,,0,0,0,,Can you handle it? Can your liver handle it?
+Dialogue: 0,0:41:48.04,0:41:51.20,Default,,0,0,0,,Can you metabolize all that sugar before something bad happens?
+Dialogue: 0,0:41:51.20,0:41:55.46,Default,,0,0,0,,Remember what Paracelsus told us: "The dose determines the poison"
+Dialogue: 0,0:41:55.46,0:41:58.40,Default,,0,0,0,,Could this be an overdose?
+Dialogue: 0,0:41:58.40,0:42:02.44,Default,,0,0,0,,And could that be to your health? Indeed
+Dialogue: 0,0:42:02.44,0:42:07.33,Default,,0,0,0,,So as far as I'm concerned, our entire food supply has been adulterated, fructoselated
+Dialogue: 0,0:42:07.33,0:42:11.15,Default,,0,0,0,,because the addition of fructose for palatability, especially with decrease fat
+Dialogue: 0,0:42:11.15,0:42:13.37,Default,,0,0,0,,and also sensibly as a browning agent
+Dialogue: 0,0:42:13.37,0:42:18.53,Default,,0,0,0,,because, food browns better, right? You paint it on your barbecue ribs
+Dialogue: 0,0:42:18.53,0:42:22.93,Default,,0,0,0,,to brown it better, right? And the caramelization, actually you know, we like that
+Dialogue: 0,0:42:22.93,0:42:25.46,Default,,0,0,0,,and the removal of fiber for shelf life and freezing
+Dialogue: 0,0:42:25.46,0:42:30.00,Default,,0,0,0,,we also have substituted trans fats, but those are coming down 'cause we know those are poison
+Dialogue: 0,0:42:30.00,0:42:35.42,Default,,0,0,0,,although they are still legal and they are still on the generally recognized as safe list of the FDA
+Dialogue: 0,0:42:35.42,0:42:38.13,Default,,0,0,0,,figure that out, 'cause we know they are poison
+Dialogue: 0,0:42:38.13,0:42:43.15,Default,,0,0,0,,Now, does sugar cause obesity? Yes, no
+Dialogue: 0,0:42:43.15,0:42:48.75,Default,,0,0,0,,Food industry will tell you "Everything causes obesity", and you know what? They are right, it's true
+Dialogue: 0,0:42:48.75,0:42:53.15,Default,,0,0,0,,because if you look at this study from Mozzaffarian at New… Harvard School Public Health
+Dialogue: 0,0:42:53.15,0:42:56.93,Default,,0,0,0,,looking at what foods cause the most weight gain
+Dialogue: 0,0:42:56.93,0:42:58.93,Default,,0,0,0,,potato chips and french fries
+Dialogue: 0,0:42:58.93,0:43:00.88,Default,,0,0,0,,indeed, I agree with that
+Dialogue: 0,0:43:00.88,0:43:03.55,Default,,0,0,0,,those are the bad guys, in terms of weight gain
+Dialogue: 0,0:43:03.55,0:43:06.97,Default,,0,0,0,,Sugar? Distant third
+Dialogue: 0,0:43:06.97,0:43:13.33,Default,,0,0,0,,And when… a meta analysis was done earlier this year, from the University of Otago,
+Dialogue: 0,0:43:13.33,0:43:18.08,Default,,0,0,0,,you'll notice, the diamond doesn't cross the identity line
+Dialogue: 0,0:43:18.08,0:43:20.93,Default,,0,0,0,,that means that it's significant
+Dialogue: 0,0:43:20.93,0:43:25.11,Default,,0,0,0,,so there is a significant increase in weight, but when you actually look at the… do the math
+Dialogue: 0,0:43:25.11,0:43:28.48,Default,,0,0,0,,it's only 0.8 BMI points
+Dialogue: 0,0:43:28.48,0:43:32.48,Default,,0,0,0,,remember I told you, we got 7 or 8 BMI points to deal with
+Dialogue: 0,0:43:32.48,0:43:35.77,Default,,0,0,0,,so, does sugar cause weight gain?
+Dialogue: 0,0:43:35.82,0:43:37.06,Default,,0,0,0,,Yes
+Dialogue: 0,0:43:37.42,0:43:41.42,Default,,0,0,0,,Does sugar cause obesity?
+Dialogue: 0,0:43:41.42,0:43:46.62,Default,,0,0,0,,A factor. Is sugar THE cause of obesity?
+Dialogue: 0,0:43:46.71,0:43:48.75,Default,,0,0,0,,Not even remotely close
+Dialogue: 0,0:43:48.75,0:43:54.97,Default,,0,0,0,,Ok? And the problem is, it's not about obesity, remember? It's about metabolic syndrome
+Dialogue: 0,0:43:54.97,0:43:58.53,Default,,0,0,0,,and that's where the money goes. I don't even care about obesity
+Dialogue: 0,0:43:58.53,0:44:03.15,Default,,0,0,0,,what I care about is people getting sick, 'cause I'm a doctor, ok?
+Dialogue: 0,0:44:03.15,0:44:10.88,Default,,0,0,0,,here's the problem: common wisdom says that sugar is just empty calories and you can get your discretionary calories from anywhere
+Dialogue: 0,0:44:10.88,0:44:14.97,Default,,0,0,0,,the problem is that hepatic fructose metabolism is completely different that of glucose
+Dialogue: 0,0:44:14.97,0:44:20.66,Default,,0,0,0,,and this is what the first Youtube video went into, in exhausting detail and I will not repeat it
+Dialogue: 0,0:44:20.66,0:44:26.08,Default,,0,0,0,,but I'm gonna show you very quickly that chronic fructose exposure alone promotes the metabolic syndrome
+Dialogue: 0,0:44:26.08,0:44:28.93,Default,,0,0,0,,so, this again is from that first video
+Dialogue: 0,0:44:28.93,0:44:34.31,Default,,0,0,0,,when you consume glucose, say rice, white bread, you know starch
+Dialogue: 0,0:44:34.31,0:44:39.33,Default,,0,0,0,,80 percent of the glucose goes to all the organs of the body, only 20 percent hits the liver
+Dialogue: 0,0:44:39.33,0:44:42.80,Default,,0,0,0,,and where does it go? It goes to this guy over here, glycogen
+Dialogue: 0,0:44:42.80,0:44:47.33,Default,,0,0,0,,Glycogen is liver starch, and liver starch for lack of a better word is good
+Dialogue: 0,0:44:47.33,0:44:54.13,Default,,0,0,0,,because that's your energy store for a rainy day, that's the first energy that's used when you fast
+Dialogue: 0,0:44:54.13,0:44:58.88,Default,,0,0,0,,ok, that's what, why marathoners carb load before a marathon race
+Dialogue: 0,0:44:58.88,0:45:03.11,Default,,0,0,0,,is to try to build up their glycogen stores, because glycogen is non toxic
+Dialogue: 0,0:45:03.11,0:45:08.93,Default,,0,0,0,,so if you can up your glygogen stores, your liver has more energy in reserve, and that's a good thing
+Dialogue: 0,0:45:08.93,0:45:13.46,Default,,0,0,0,,now little of it will sneak down here and get metabolized by the mitochondria
+Dialogue: 0,0:45:13.46,0:45:18.53,Default,,0,0,0,,and throw off a little of this stuff called citrate, and that will then get turned into liver fat
+Dialogue: 0,0:45:18.53,0:45:23.68,Default,,0,0,0,,this process here in orange is called "de novo lipogenesis", new fat making
+Dialogue: 0,0:45:23.68,0:45:28.22,Default,,0,0,0,,this is how your liver turns carbohydrates into fat, is through this process here
+Dialogue: 0,0:45:28.22,0:45:31.82,Default,,0,0,0,,but you're not dealing with very much carbohydrate here because it all went to glycogen
+Dialogue: 0,0:45:31.82,0:45:34.88,Default,,0,0,0,,and most of it actually got metabolized elsewhere anyway
+Dialogue: 0,0:45:34.88,0:45:36.88,Default,,0,0,0,,so your liver is protected
+Dialogue: 0,0:45:36.88,0:45:39.64,Default,,0,0,0,,everybody see that? Your liver is protected
+Dialogue: 0,0:45:39.64,0:45:44.26,Default,,0,0,0,,so this for a lack of better word is normal, now let's talk about something that's not normal
+Dialogue: 0,0:45:44.26,0:45:49.51,Default,,0,0,0,,this guy, alcohol, that's not normal, CH3-CH2-OH
+Dialogue: 0,0:45:49.51,0:45:52.93,Default,,0,0,0,,but alcohol is at toxin, right? It's to toxins in one
+Dialogue: 0,0:45:52.93,0:45:56.57,Default,,0,0,0,,you ??? your Lamborghini around the tree, right, acute alcohol toxicity
+Dialogue: 0,0:45:56.57,0:45:59.55,Default,,0,0,0,,and you fry your liver, chronic alcohol toxicity
+Dialogue: 0,0:45:59.55,0:46:01.55,Default,,0,0,0,,we keep it out of the hands of children
+Dialogue: 0,0:46:02.04,0:46:05.33,Default,,0,0,0,,here's acute alcohol exposure
+Dialogue: 0,0:46:05.33,0:46:08.13,Default,,0,0,0,,here's acute sugar exposure
+Dialogue: 0,0:46:08.13,0:46:13.82,Default,,0,0,0,,none, why? Because the brain doesn't use fructose for energy, it does use alcohol
+Dialogue: 0,0:46:13.82,0:46:18.48,Default,,0,0,0,,but it doesn't use fructose for energy, so you doesn't get any of those CNS symptoms because it doesn't get there
+Dialogue: 0,0:46:18.48,0:46:21.77,Default,,0,0,0,,so let's consume the same number of calories as alcohol,
+Dialogue: 0,0:46:21.77,0:46:25.82,Default,,0,0,0,,now most of 'em go to the liver, instead of going to the periphery
+Dialogue: 0,0:46:25.82,0:46:29.20,Default,,0,0,0,,and what happens to it? You see glycogen anywhere?
+Dialogue: 0,0:46:29.20,0:46:35.06,Default,,0,0,0,,No glycogen, it bypasses glycogen and goes down to the mitochondria, and since there's so much of it
+Dialogue: 0,0:46:35.06,0:46:42.31,Default,,0,0,0,,you get big time fat making, and some of it won't make it out, now you got that lipid droplet, that's alcoholic steatohepatisis
+Dialogue: 0,0:46:42.31,0:46:46.31,Default,,0,0,0,,and you're gonna make lot's of triglycerides, and so you are gonna have hypertriglyceridemia
+Dialogue: 0,0:46:46.31,0:46:49.46,Default,,0,0,0,,and that's gonna end up in the muscle, now you've got muscle insulin resistance
+Dialogue: 0,0:46:49.46,0:46:53.02,Default,,0,0,0,,and it serves as a substrate for weight gain as well
+Dialogue: 0,0:46:53.02,0:46:57.55,Default,,0,0,0,,and we also know that alcohol has this dis inhibiting effect on your brain
+Dialogue: 0,0:46:57.55,0:47:01.55,Default,,0,0,0,,which causes you to drink more, "oh, I'm just gonna have one drink" and you end up with 5
 Dialogue: 0,0:47:01.55,0:47:06.17,Default,,0,0,0,,
 Dialogue: 0,0:47:06.17,0:47:08.88,Default,,0,0,0,,
 Dialogue: 0,0:47:08.88,0:47:12.48,Default,,0,0,0,,
