@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 547
-Active Line: 563
+Scroll Position: 571
+Active Line: 587
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -584,30 +584,30 @@ Dialogue: 0,0:46:46.31,0:46:49.46,Default,,0,0,0,,and that's gonna end up in the
 Dialogue: 0,0:46:49.46,0:46:53.02,Default,,0,0,0,,and it serves as a substrate for weight gain as well
 Dialogue: 0,0:46:53.02,0:46:57.55,Default,,0,0,0,,and we also know that alcohol has this dis inhibiting effect on your brain
 Dialogue: 0,0:46:57.55,0:47:01.55,Default,,0,0,0,,which causes you to drink more, "oh, I'm just gonna have one drink" and you end up with 5
-Dialogue: 0,0:47:01.55,0:47:06.17,Default,,0,0,0,,
-Dialogue: 0,0:47:06.17,0:47:08.88,Default,,0,0,0,,
-Dialogue: 0,0:47:08.88,0:47:12.48,Default,,0,0,0,,
-Dialogue: 0,0:47:12.48,0:47:16.40,Default,,0,0,0,,
-Dialogue: 0,0:47:16.40,0:47:21.46,Default,,0,0,0,,
-Dialogue: 0,0:47:21.46,0:47:28.04,Default,,0,0,0,,
-Dialogue: 0,0:47:28.04,0:47:35.11,Default,,0,0,0,,
-Dialogue: 0,0:47:35.11,0:47:39.51,Default,,0,0,0,,
-Dialogue: 0,0:47:39.51,0:47:42.71,Default,,0,0,0,,
-Dialogue: 0,0:47:42.71,0:47:48.31,Default,,0,0,0,,
-Dialogue: 0,0:47:48.31,0:47:53.11,Default,,0,0,0,,
-Dialogue: 0,0:47:53.11,0:47:56.13,Default,,0,0,0,,
-Dialogue: 0,0:47:56.13,0:47:59.06,Default,,0,0,0,,
-Dialogue: 0,0:47:59.06,0:48:02.62,Default,,0,0,0,,
-Dialogue: 0,0:48:02.62,0:48:06.71,Default,,0,0,0,,
-Dialogue: 0,0:48:06.71,0:48:12.00,Default,,0,0,0,,
-Dialogue: 0,0:48:12.00,0:48:17.86,Default,,0,0,0,,
-Dialogue: 0,0:48:17.86,0:48:21.91,Default,,0,0,0,,
-Dialogue: 0,0:48:21.91,0:48:29.11,Default,,0,0,0,,
-Dialogue: 0,0:48:29.11,0:48:35.24,Default,,0,0,0,,
-Dialogue: 0,0:48:35.24,0:48:37.86,Default,,0,0,0,,
-Dialogue: 0,0:48:37.86,0:48:45.60,Default,,0,0,0,,
-Dialogue: 0,0:48:45.60,0:48:49.37,Default,,0,0,0,,
-Dialogue: 0,0:48:49.37,0:48:54.80,Default,,0,0,0,,
+Dialogue: 0,0:47:01.55,0:47:06.17,Default,,0,0,0,,and of course if you do that to often, maybe you'll live and become and alcoholic
+Dialogue: 0,0:47:06.17,0:47:08.88,Default,,0,0,0,,and that's addiction right there, positive feedback effect
+Dialogue: 0,0:47:08.88,0:47:12.48,Default,,0,0,0,,so here's a problem, because this is toxic
+Dialogue: 0,0:47:12.48,0:47:16.40,Default,,0,0,0,,and abused, and so we regulate it
+Dialogue: 0,0:47:16.40,0:47:21.46,Default,,0,0,0,,now let's do fructose, so we are gonna consume sugar now, we are gonna consume orange juice
+Dialogue: 0,0:47:21.46,0:47:28.04,Default,,0,0,0,,same number of calories, but glucose does the same 20/80 split it did before, 12 and 48
+Dialogue: 0,0:47:28.04,0:47:35.11,Default,,0,0,0,,but all the calories from fructose are gonna go to the liver, because only the liver has the transporter for fructose, called glut-5
+Dialogue: 0,0:47:35.11,0:47:39.51,Default,,0,0,0,,and, you see glycogen anywhere? No glycogen
+Dialogue: 0,0:47:39.51,0:47:42.71,Default,,0,0,0,,Go straight down to the mitochondria, just like alcohol did
+Dialogue: 0,0:47:42.71,0:47:48.31,Default,,0,0,0,,and because there's so much of it, your mitochondria got no choice but to turn the excess into liver fat
+Dialogue: 0,0:47:48.31,0:47:53.11,Default,,0,0,0,,there's your lipid droplet, so now you have non alcoholic steatohepatisis
+Dialogue: 0,0:47:53.11,0:47:56.13,Default,,0,0,0,,you've got high triglycerides, just like you did with alcohol
+Dialogue: 0,0:47:56.13,0:47:59.06,Default,,0,0,0,,you get the muscle insulin resistance, substrate for obesity
+Dialogue: 0,0:47:59.06,0:48:02.62,Default,,0,0,0,,and it tells your insulin receptor not to work
+Dialogue: 0,0:48:02.62,0:48:06.71,Default,,0,0,0,,so now you've got liver insulin resistance, which makes your pancreas have to make more insulin
+Dialogue: 0,0:48:06.71,0:48:12.00,Default,,0,0,0,,in order to make the liver do it's job, now the high insulin goes to the brain, blocks leptin
+Dialogue: 0,0:48:12.00,0:48:17.86,Default,,0,0,0,,and now you can't see your leptin, so what does it do? It makes you think you are starving
+Dialogue: 0,0:48:17.86,0:48:21.91,Default,,0,0,0,,So what does it make you do? Consume more fructose
+Dialogue: 0,0:48:21.91,0:48:29.11,Default,,0,0,0,,so now you've got a positive feedback effect between a compount that is toxic and abused
+Dialogue: 0,0:48:29.11,0:48:35.24,Default,,0,0,0,,causing damage to the liver, damage to the pancreas eventually, and damage to the brain
+Dialogue: 0,0:48:35.24,0:48:37.86,Default,,0,0,0,,but we don't do anything about that
+Dialogue: 0,0:48:37.86,0:48:45.60,Default,,0,0,0,,you'd never think about giving your kid a beer, but you don't think twice about giving your kid a coke and they do the same thing
+Dialogue: 0,0:48:45.60,0:48:49.37,Default,,0,0,0,,that's one problem, now there's a second problem
+Dialogue: 0,0:48:49.37,0:48:54.80,Default,,0,0,0,,here are 5 photographs, what do they all have in common?
 Dialogue: 0,0:48:54.80,0:48:58.44,Default,,0,0,0,,
 Dialogue: 0,0:48:58.44,0:49:03.11,Default,,0,0,0,,
 Dialogue: 0,0:49:03.11,0:49:08.66,Default,,0,0,0,,
