@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 145
-Active Line: 149
+Scroll Position: 475
+Active Line: 491
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -130,7 +130,7 @@ Dialogue: 0,0:10:05.43,0:10:12.03,Default,,0,0,0,,Remember HIV? When did HIV bec
 Dialogue: 0,0:10:12.03,0:10:15.00,Default,,0,0,0,,No, not in the 80s
 Dialogue: 0,0:10:15.00,0:10:18.63,Default,,0,0,0,,In the, in 1991
 Dialogue: 0,0:10:18.63,0:10:24.16,Default,,0,0,0,,1991, 1979 patient zero, so we first learned about the, you know
-Dialogue: 0,0:10:24.16,0:10:29.93,Default,,0,0,0,,the diagnoses, throughout the entire 80s it was all about the gays and the addicts
+Dialogue: 0,0:10:24.16,0:10:29.93,Default,,0,0,0,,the diagnosis, throughout the entire 80s it was all about the gays and the addicts
 Dialogue: 0,0:10:29.93,0:10:35.70,Default,,0,0,0,,and it was always, it's their problem, their personal responsibility, their behavior, their fault
 Dialogue: 0,0:10:35.70,0:10:39.13,Default,,0,0,0,,and then something happened in 1991, anybody remember what it was?
 Dialogue: 0,0:10:39.13,0:10:42.70,Default,,0,0,0,,Magic Johnson, Magic Johnson got HIV
@@ -144,7 +144,7 @@ Dialogue: 0,0:11:11.56,0:11:14.30,Default,,0,0,0,,which one's healthy and which 
 Dialogue: 0,0:11:14.30,0:11:16.40,Default,,0,0,0,,anybody know?
 Dialogue: 0,0:11:16.86,0:11:21.23,Default,,0,0,0,,the one on the bottom is sick, right, he's sick
 Dialogue: 0,0:11:21.23,0:11:25.93,Default,,0,0,0,,why? All that visceral fat, all that fat surrounding the organs
-Dialogue: 0,0:11:25.93,0:11:29.73,Default,,0,0,0,,see this guy over here he's got big love handles, but you know, so what
+Dialogue: 0,0:11:25.93,0:11:29.73,Default,,0,0,0,,see this guy over here he's got big love handles, but you know, so what?
 Dialogue: 0,0:11:29.73,0:11:35.40,Default,,0,0,0,,in fact, this is perfectly healthy, it's no problem, because subcutaneous fat is actually kinda good for you
 Dialogue: 0,0:11:35.40,0:11:39.86,Default,,0,0,0,,there are actually studies that show more subcutaneous fat, more longevity
 Dialogue: 0,0:11:39.86,0:11:43.96,Default,,0,0,0,,whereas this stuff, this is the bad stuff, this is the poison stuff over here
@@ -159,7 +159,7 @@ Dialogue: 0,0:12:14.73,0:12:19.23,Default,,0,0,0,,because obesity is not the pro
 Dialogue: 0,0:12:19.23,0:12:22.93,Default,,0,0,0,,they want you to think it's the problem, but it ain't the problem
 Dialogue: 0,0:12:22.93,0:12:26.30,Default,,0,0,0,,what is the problem? Metabolic syndrome is the problem
 Dialogue: 0,0:12:26.30,0:12:30.40,Default,,0,0,0,,the cluster of diseases that I've just described you, 'cause that's where all the money goes
-Dialogue: 0,0:12:30.40,0:12:36.06,Default,,0,0,0,,obesity cost almost nothing, metabolic syndrome is 75 percent of all health-care costs today
+Dialogue: 0,0:12:30.40,0:12:36.06,Default,,0,0,0,,obesity cost almost nothing, metabolic syndrome is 75 percent of all health-care cost today
 Dialogue: 0,0:12:36.06,0:12:42.00,Default,,0,0,0,,and there's the list right there, everyone with me now? Ok, do I have your attention? Ok
 Dialogue: 0,0:12:42.00,0:12:48.36,Default,,0,0,0,,So how does this work? So this actually is a redundancy from the previous Youtube video so I apologize for that
 Dialogue: 0,0:12:48.36,0:12:54.23,Default,,0,0,0,,it has to do with how you view the question of obesity and what does it mean, so
@@ -191,7 +191,7 @@ Dialogue: 0,0:15:02.20,0:15:07.56,Default,,0,0,0,,gluttony and sloth that is you
 Dialogue: 0,0:15:07.56,0:15:11.40,Default,,0,0,0,,that's what everyone believes from a calorie is a calorie
 Dialogue: 0,0:15:11.40,0:15:14.50,Default,,0,0,0,,and who says that a calorie is a calorie, well?
 Dialogue: 0,0:15:14.50,0:15:20.10,Default,,0,0,0,,the food industry says a calorie is a calorie, and that's 'cause it serves them well, so this is the fiction
-Dialogue: 0,0:15:20.10,0:15:25.26,Default,,0,0,0,,this is Coca-Cola coming together video on Youtube
+Dialogue: 0,0:15:20.10,0:15:25.26,Default,,0,0,0,,this is Coca-Cola's coming together video on Youtube
 Dialogue: 0,0:15:25.26,0:15:33.43,Default,,0,0,0,,released just before the Superbowl, that says: "Beating obesity will take action by all of us based on one simple common sense fact"
 Dialogue: 0,0:15:33.43,0:15:40.03,Default,,0,0,0,,common sense fact, all calories count, no matter where they come from, including Coca-cola and everything else with calories, a calorie is a calorie
 Dialogue: 0,0:15:40.03,0:15:45.46,Default,,0,0,0,,why pick on Coca-cola, why pick on Burger King, why pick on any individual
@@ -202,9 +202,9 @@ Dialogue: 0,0:16:03.36,0:16:09.96,Default,,0,0,0,,335 calories per day more for 
 Dialogue: 0,0:16:09.96,0:16:15.16,Default,,0,0,0,,than 25 years ago, we are all eating more, I don't argue that, of course we are, question is why
 Dialogue: 0,0:16:15.70,0:16:25.03,Default,,0,0,0,,so you'd say, well this is why, this is the evolution of fast food over here, 1957 we had the original White Castle hamburger, 210 calories right there, 1 ounce
 Dialogue: 0,0:16:25.03,0:16:29.66,Default,,0,0,0,,over here we have today's Bob's Big Boy over here at 618 calories
-Dialogue: 0,0:16:29.66,0:16:36.30,Default,,0,0,0,,and of course in the midst of the obesity epidemic hardies (?) had the temerity to offer us the Thickburger at 1420 calories
+Dialogue: 0,0:16:29.66,0:16:36.30,Default,,0,0,0,,and of course in the midst of the obesity epidemic hardies had the temerity to offer us the Thickburger at 1420 calories
 Dialogue: 0,0:16:36.30,0:16:42.36,Default,,0,0,0,,and of course you can go to Carls' Junior and get the 6$ burger, which is 2000 calories, that's the entire caloric allotment for the day
-Dialogue: 0,0:16:42.36,0:16:45.76,Default,,0,0,0,,and people are proud to go doit, right?
+Dialogue: 0,0:16:42.36,0:16:45.76,Default,,0,0,0,,and people are proud to go do it, right?
 Dialogue: 0,0:16:45.76,0:16:48.66,Default,,0,0,0,,How? Anybody here had a Trenta?
 Dialogue: 0,0:16:48.66,0:16:52.20,Default,,0,0,0,,A Trenta, yes, no? Ok, so that's this guy over here
 Dialogue: 0,0:16:52.20,0:16:56.36,Default,,0,0,0,,so it's not hot coffee, it's a cold coffee drink
@@ -229,7 +229,7 @@ Dialogue: 0,0:18:08.26,0:18:13.63,Default,,0,0,0,,in fact, if everything that we
 Dialogue: 0,0:18:13.63,0:18:17.30,Default,,0,0,0,,I would never have to do any research 'cause everything we knew was already right
 Dialogue: 0,0:18:17.30,0:18:22.63,Default,,0,0,0,,In fact, everything we learned 10 years ago is already wrong, and everything we know today will be wrong 10 years from now
 Dialogue: 0,0:18:22.63,0:18:27.93,Default,,0,0,0,,and that's why you do research, and the fact is the research tells us something very different
-Dialogue: 0,0:18:28.66,0:18:32.93,Default,,0,0,0,,so, is this behavior, is this personal responsibility? what do you think
+Dialogue: 0,0:18:28.66,0:18:32.93,Default,,0,0,0,,so, is this behavior, is this personal responsibility? What do you think?
 Dialogue: 0,0:18:32.93,0:18:35.70,Default,,0,0,0,,there are 6 reasons to doubt this
 Dialogue: 0,0:18:35.70,0:18:39.16,Default,,0,0,0,,Number 1: no child chooses to be obese
 Dialogue: 0,0:18:39.16,0:18:44.26,Default,,0,0,0,,the quality of an obese… life of an obese child is the same as a patient on cancer chemotherapy
@@ -252,7 +252,7 @@ Dialogue: 0,0:20:03.33,0:20:06.30,Default,,0,0,0,,Bone, more is better
 Dialogue: 0,0:20:06.30,0:20:09.00,Default,,0,0,0,,Muscle, more is better
 Dialogue: 0,0:20:09.00,0:20:14.26,Default,,0,0,0,,Subcutaneous fat, more is better, I just showed you
 Dialogue: 0,0:20:14.26,0:20:18.43,Default,,0,0,0,,and finally visceral fat, more is worse
-Dialogue: 0,0:20:18.43,0:20:22.23,Default,,0,0,0,,Now the visceral fat usually ac compasses about 4 to 6 percent of your total body weight
+Dialogue: 0,0:20:18.43,0:20:22.23,Default,,0,0,0,,Now the visceral fat usually accompasses about 4 to 6 percent of your total body weight
 Dialogue: 0,0:20:22.23,0:20:26.66,Default,,0,0,0,,so when you stand on the scale, what are you measuring? You don't know, you can't possibly know
 Dialogue: 0,0:20:26.66,0:20:33.90,Default,,0,0,0,,So, we have all these doctors telling their patients, well if you'd only exercise you'd lose weight, and then of course they don't
 Dialogue: 0,0:20:33.90,0:20:38.50,Default,,0,0,0,,because they've built muscle, which is good, but it doesn't show up on the scale
@@ -410,9 +410,9 @@ Dialogue: 0,0:34:03.95,0:34:09.28,Default,,0,0,0,,on a Honolulu road, and she wa
 Dialogue: 0,0:34:09.28,0:34:15.46,Default,,0,0,0,,and she survived but she struck her hypothalamus, and so this is her a year later
 Dialogue: 0,0:34:15.46,0:34:20.04,Default,,0,0,0,,now, does anybody wanna tell me that this is gluttony and sloth?
 Dialogue: 0,0:34:20.04,0:34:23.64,Default,,0,0,0,,This kid now can't see her leptin because those neurons are dead
-Dialogue: 0,0:34:23.64,0:34:28.22,Default,,0,0,0,,now just so happens I happened to be giving ground rounds at ? Honolulu in 2008
+Dialogue: 0,0:34:23.64,0:34:28.22,Default,,0,0,0,,now just so happens I happened to be giving ground rounds at Kaiser Honolulu in 2008
 Dialogue: 0,0:34:28.22,0:34:32.04,Default,,0,0,0,,and so they invited the patient and her mother to come to the talk
-Dialogue: 0,0:34:32.04,0:34:36.71,Default,,0,0,0,,because they were thinking about putting this kid on a ??? even though she'd never' a brain tumor
+Dialogue: 0,0:34:32.04,0:34:36.71,Default,,0,0,0,,because they were thinking about putting this kid on octreotide even though she'd never' a brain tumor
 Dialogue: 0,0:34:36.71,0:34:39.82,Default,,0,0,0,,because she might have the same disorder, and so there I am with her
 Dialogue: 0,0:34:39.82,0:34:44.75,Default,,0,0,0,,and here she is a year and a half later, on the drug, at her high school graduation
 Dialogue: 0,0:34:44.75,0:34:50.84,Default,,0,0,0,,Now, who here wants to tell me that this is gluttony and sloth?
@@ -495,7 +495,7 @@ Dialogue: 0,0:40:25.06,0:40:29.24,Default,,0,0,0,,But over here is sucrose, this
 Dialogue: 0,0:40:29.33,0:40:31.42,Default,,0,0,0,,one glucose, one fructose
 Dialogue: 0,0:40:31.42,0:40:33.77,Default,,0,0,0,,O-glycosidic linkage linking the two
 Dialogue: 0,0:40:33.77,0:40:37.24,Default,,0,0,0,,The enzyme in your intestine, sucrase, cleaves this in about a nanosecond
-Dialogue: 0,0:40:37.24,0:40:41.02,Default,,0,0,0,,so when you absorb the two ??? they are exactly the same and that's what all the data say
+Dialogue: 0,0:40:37.24,0:40:41.02,Default,,0,0,0,,so when you absorb the two moieties they are exactly the same and that's what all the data say
 Dialogue: 0,0:40:41.02,0:40:46.97,Default,,0,0,0,,is that they are exactly the same, high fructose corn syrup and sucrose are metabolically equal
 Dialogue: 0,0:40:46.97,0:40:52.80,Default,,0,0,0,,Metabolically bad, metabolically equally bad, ok?
 Dialogue: 0,0:40:52.80,0:40:59.37,Default,,0,0,0,,This is what our consumption of fructose, so double it for sugar, has done over the last 100 years
@@ -511,7 +511,7 @@ Dialogue: 0,0:41:43.15,0:41:48.04,Default,,0,0,0,,Can you handle it? Can your li
 Dialogue: 0,0:41:48.04,0:41:51.20,Default,,0,0,0,,Can you metabolize all that sugar before something bad happens?
 Dialogue: 0,0:41:51.20,0:41:55.46,Default,,0,0,0,,Remember what Paracelsus told us: "The dose determines the poison"
 Dialogue: 0,0:41:55.46,0:41:58.40,Default,,0,0,0,,Could this be an overdose?
-Dialogue: 0,0:41:58.40,0:42:02.44,Default,,0,0,0,,And could that be to your health? Indeed
+Dialogue: 0,0:41:58.40,0:42:02.44,Default,,0,0,0,,And could that be hazardous to your health? Indeed
 Dialogue: 0,0:42:02.44,0:42:07.33,Default,,0,0,0,,So as far as I'm concerned, our entire food supply has been adulterated, fructoselated
 Dialogue: 0,0:42:07.33,0:42:11.15,Default,,0,0,0,,because the addition of fructose for palatability, especially with decrease fat
 Dialogue: 0,0:42:11.15,0:42:13.37,Default,,0,0,0,,and also sensibly as a browning agent
