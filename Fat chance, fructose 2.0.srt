@@ -237,7 +237,7 @@ here's the present
 
 60
 00:06:07,130 --> 00:06:12,660
-currently there are 30 percent more obese people on the planet than undernourished people
+currently there are 30% more obese people on the planet than undernourished people
 
 61
 00:06:12,660 --> 00:06:18,960
@@ -269,7 +269,7 @@ this looks like a microbial phenomenon rather than a behavioral phenomenon, we'r
 
 68
 00:06:43,660 --> 00:06:48,800
-366 million diabetics walking the earth, that's 5 percent of the worlds' population
+366 million diabetics walking the earth, that's 5% of the worlds' population
 
 69
 00:06:48,800 --> 00:06:52,100
@@ -289,7 +289,7 @@ in fact it's been suggested that we wouldn't even need financial reform
 
 73
 00:07:09,560 --> 00:07:15,330
-ok, 41 percent rise in 5 years, this is going up so fast it makes your head spin
+ok, 41% rise in 5 years, this is going up so fast it makes your head spin
 
 74
 00:07:15,330 --> 00:07:17,800
@@ -297,11 +297,11 @@ and here's the future if we do nothing
 
 75
 00:07:17,800 --> 00:07:24,360
-experts predict 165 million Americans, 42 percent would be obese by the year 2030
+experts predict 165 million Americans, 42% would be obese by the year 2030
 
 76
 00:07:24,360 --> 00:07:29,730
-100 million Americans, that'll be 33 percent, will have diabetes by 2050
+100 million Americans, that'll be 33%, will have diabetes by 2050
 
 77
 00:07:29,730 --> 00:07:35,300
@@ -353,7 +353,7 @@ this is a Venn diagram of all the adults in America
 
 89
 00:08:22,430 --> 00:08:27,400
-30 percent obese over here, and 70 percent normal weight over here
+30% obese over here, and 70% normal weight over here
 
 90
 00:08:27,400 --> 00:08:32,260
@@ -361,7 +361,7 @@ and everybody assumes that the problem is this group over here because
 
 91
 00:08:32,260 --> 00:08:37,130
-80 percent of the obese population is sick in some fashion
+80% of the obese population is sick in some fashion
 
 92
 00:08:37,130 --> 00:08:42,460
@@ -373,7 +373,7 @@ non-alcoholic fatty liver disease, polycystic ovarian disease, etc, etc
 
 94
 00:08:46,960 --> 00:08:53,560
-so, if you do the math on this, that's 80 percent of 30 percent of 240 million, that's 57 million sick
+so, if you do the math on this, that's 80% of 30% of 240 million, that's 57 million sick
 
 95
 00:08:53,560 --> 00:08:57,030
@@ -393,7 +393,7 @@ this is wrong, this is a mistake, this is a disaster actually, because it is not
 
 99
 00:09:09,060 --> 00:09:16,630
-here's the real story, in fact, 20 percent of the obese population is completely metabolically normal
+here's the real story, in fact, 20% of the obese population is completely metabolically normal
 
 100
 00:09:16,630 --> 00:09:21,060
@@ -409,7 +409,7 @@ cost the taxpayer nothing, they're just fat
 
 103
 00:09:28,960 --> 00:09:37,060
-conversely, up to 40 percent of the normal weight population have the exact same metabolic dysfunction
+conversely, up to 40% of the normal weight population have the exact same metabolic dysfunction
 
 104
 00:09:37,060 --> 00:09:42,630
@@ -561,7 +561,7 @@ the cluster of diseases that I've just described you, 'cause that's where all th
 
 141
 00:12:30,400 --> 00:12:36,060
-obesity cost almost nothing, metabolic syndrome is 75 percent of all health-care cost today
+obesity cost almost nothing, metabolic syndrome is 75% of all health-care cost today
 
 142
 00:12:36,060 --> 00:12:42,000
@@ -1842,7 +1842,7 @@ So, what are we talking about? Here we're talking about this stuff called High F
 
 461
 00:39:32,040 --> 00:39:34,880
-55 percent fructose, so they say
+55% fructose, so they say
 
 462
 00:39:34,880 --> 00:39:40,660
@@ -1850,11 +1850,11 @@ there are actually some studies that suggest that dispenser sugar, like from McD
 
 463
 00:39:40,660 --> 00:39:44,840
-might actually have 65 percent fructose sometimes, and that would be a problem
+might actually have 65% fructose sometimes, and that would be a problem
 
 464
 00:39:44,840 --> 00:39:48,040
-but most of the time it's 55 percent
+but most of the time it's 55%
 
 465
 00:39:48,040 --> 00:39:50,840
@@ -1938,15 +1938,15 @@ by 1977 we got up to 37 grams per day, this is just before high fructose corn sy
 
 485
 00:41:17,060 --> 00:41:23,240
-at 8 percent of total caloric intake, by 1994 we are up to 55 grams a day, that was 10 percent of total caloric intake
+at 8% of total caloric intake, by 1994 we are up to 55 grams a day, that was 10% of total caloric intake
 
 486
 00:41:23,240 --> 00:41:27,910
-and adolescents currently consume 75 grams per day, that's 12 percent of caloric intake
+and adolescents currently consume 75 grams per day, that's 12% of caloric intake
 
 487
 00:41:27,910 --> 00:41:31,730
-and 25 percent of adolescents consume 100 grams of fructose per day
+and 25% of adolescents consume 100 grams of fructose per day
 
 488
 00:41:31,730 --> 00:41:38,260
@@ -1954,7 +1954,7 @@ double that for sugar, that's 200 grams of sugar, multiple by 4.1 calories per g
 
 489
 00:41:38,260 --> 00:41:43,150
-so for 2000 calorie allotment, that's 40 percent of calories are sugar, the question is
+so for 2000 calorie allotment, that's 40% of calories are sugar, the question is
 
 490
 00:41:43,150 --> 00:41:48,040
@@ -2126,7 +2126,7 @@ when you consume glucose, say rice, white bread, you know starch
 
 532
 00:44:34,310 --> 00:44:39,330
-80 percent of the glucose goes to all the organs of the body, only 20 percent hits the liver
+80% of the glucose goes to all the organs of the body, only 20% hits the liver
 
 533
 00:44:39,330 --> 00:44:42,800
@@ -2858,7 +2858,7 @@ well, it doesn't, it's very significant
 
 715
 00:57:51,860 --> 00:58:00,440
-in fact, for every 100 calories you increase your diabetes prevalence worldwide by 0.8 percent
+in fact, for every 100 calories you increase your diabetes prevalence worldwide by 0.8%
 
 716
 00:58:00,440 --> 00:58:06,000
@@ -2882,7 +2882,7 @@ if you consumed a 150 calories extra per day,
 
 721
 00:58:22,930 --> 00:58:30,040
-in total calories, diabetes prevalence only went up by 0.1 percent, pffft, nothing
+in total calories, diabetes prevalence only went up by 0.1%, pffft, nothing
 
 722
 00:58:30,040 --> 00:58:33,240
@@ -2894,19 +2894,19 @@ diabetes prevalence went up eleven fold
 
 724
 00:58:36,440 --> 00:58:43,150
-1.1 percent, and we are not consuming one can of soda per day, we are consuming two and a half
+1.1%, and we are not consuming one can of soda per day, we are consuming two and a half
 
 725
 00:58:43,150 --> 00:58:44,970
-so that's 2.4 percent
+so that's 2.4%
 
 726
 00:58:44,970 --> 00:58:48,040
-given that American diabetes rates are 8.3 percent
+given that American diabetes rates are 8.3%
 
 727
 00:58:48,040 --> 00:58:54,750
-that means that 26 percent of all diabetes in America today is due to sugar and sugar alone
+that means that 26% of all diabetes in America today is due to sugar and sugar alone
 
 728
 00:58:54,750 --> 00:58:58,800
@@ -2926,7 +2926,7 @@ and of course our government is doing absolutely nothing, ok?
 
 732
 00:59:15,550 --> 00:59:21,680
-Our data show that 25 percent of diabetes worldwide is explained by sugar
+Our data show that 25% of diabetes worldwide is explained by sugar
 
 733
 00:59:21,680 --> 00:59:25,550
@@ -3022,11 +3022,11 @@ That's the standard. How much of what we know, what percent of what we know toda
 
 756
 01:01:02,660 --> 01:01:10,260
-Wanna give me a percentage? 10, 10? 10 percent of what we know is due to randomized controlled trials
+Wanna give me a percentage? 10, 10? 10% of what we know is due to randomized controlled trials
 
 757
 01:01:10,260 --> 01:01:14,350
-that means 90 percent of what we know is causal medical inference
+that means 90% of what we know is causal medical inference
 
 758
 01:01:14,350 --> 01:01:18,800
@@ -3499,7 +3499,7 @@ model drug of dependence, gateway drug in fact
 
 875
 01:09:17,110 --> 01:09:23,600
-dependence show in children, adolescence, adults, 30 percent who consume it meet the DSM criteria for dependence
+dependence show in children, adolescence, adults, 30% who consume it meet the DSM criteria for dependence
 
 876
 01:09:23,600 --> 01:09:28,930
@@ -3947,7 +3947,7 @@ Here's what you need to know, of the 600000 items in the American grocery store 
 
 987
 01:16:40,400 --> 01:16:43,680
-80 percent of them are spiked with added sugar
+80% of them are spiked with added sugar
 
 988
 01:16:43,680 --> 01:16:48,710
@@ -3999,7 +3999,7 @@ Meats, this is 1982, 30 years ago, here's 2012
 
 1000
 01:17:31,110 --> 01:17:35,240
-Meats down 10 percent, because of that little fat directive
+Meats down 10%, because of that little fat directive
 
 1001
 01:17:35,240 --> 01:17:37,770
@@ -4011,11 +4011,11 @@ so everybody says eat your fruits and vegetables, you know what? We are eating j
 
 1003
 01:17:41,950 --> 01:17:48,170
-Grains and baked goods, 13 to 14 percent, everybody says it's all the carbohydrate, it's all up a little bit
+Grains and baked goods, 13 to 14%, everybody says it's all the carbohydrate, it's all up a little bit
 
 1004
 01:17:48,170 --> 01:17:54,880
-Dairy products, 13 down to 10 percent, because now everyone is lactose intolerant
+Dairy products, 13 down to 10%, because now everyone is lactose intolerant
 
 1005
 01:17:54,880 --> 01:18:00,440
