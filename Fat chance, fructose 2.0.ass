@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 475
-Active Line: 491
+Scroll Position: 882
+Active Line: 894
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -555,7 +555,7 @@ Dialogue: 0,0:44:42.80,0:44:47.33,Default,,0,0,0,,Glycogen is liver starch, and 
 Dialogue: 0,0:44:47.33,0:44:54.13,Default,,0,0,0,,because that's your energy store for a rainy day, that's the first energy that's used when you fast
 Dialogue: 0,0:44:54.13,0:44:58.88,Default,,0,0,0,,ok, that's what, why marathoners carb load before a marathon race
 Dialogue: 0,0:44:58.88,0:45:03.11,Default,,0,0,0,,is to try to build up their glycogen stores, because glycogen is non toxic
-Dialogue: 0,0:45:03.11,0:45:08.93,Default,,0,0,0,,so if you can up your glygogen stores, your liver has more energy in reserve, and that's a good thing
+Dialogue: 0,0:45:03.11,0:45:08.93,Default,,0,0,0,,so if you can up your glycogen stores, your liver has more energy in reserve, and that's a good thing
 Dialogue: 0,0:45:08.93,0:45:13.46,Default,,0,0,0,,now little of it will sneak down here and get metabolized by the mitochondria
 Dialogue: 0,0:45:13.46,0:45:18.53,Default,,0,0,0,,and throw off a little of this stuff called citrate, and that will then get turned into liver fat
 Dialogue: 0,0:45:18.53,0:45:23.68,Default,,0,0,0,,this process here in orange is called "de novo lipogenesis", new fat making
@@ -567,7 +567,7 @@ Dialogue: 0,0:45:36.88,0:45:39.64,Default,,0,0,0,,everybody see that? Your liver
 Dialogue: 0,0:45:39.64,0:45:44.26,Default,,0,0,0,,so this for a lack of better word is normal, now let's talk about something that's not normal
 Dialogue: 0,0:45:44.26,0:45:49.51,Default,,0,0,0,,this guy, alcohol, that's not normal, CH3-CH2-OH
 Dialogue: 0,0:45:49.51,0:45:52.93,Default,,0,0,0,,but alcohol is at toxin, right? It's to toxins in one
-Dialogue: 0,0:45:52.93,0:45:56.57,Default,,0,0,0,,you ??? your Lamborghini around the tree, right, acute alcohol toxicity
+Dialogue: 0,0:45:52.93,0:45:56.57,Default,,0,0,0,,you wrap your Lamborghini around the tree, right, acute alcohol toxicity
 Dialogue: 0,0:45:56.57,0:45:59.55,Default,,0,0,0,,and you fry your liver, chronic alcohol toxicity
 Dialogue: 0,0:45:59.55,0:46:01.55,Default,,0,0,0,,we keep it out of the hands of children
 Dialogue: 0,0:46:02.04,0:46:05.33,Default,,0,0,0,,here's acute alcohol exposure
@@ -584,7 +584,7 @@ Dialogue: 0,0:46:46.31,0:46:49.46,Default,,0,0,0,,and that's gonna end up in the
 Dialogue: 0,0:46:49.46,0:46:53.02,Default,,0,0,0,,and it serves as a substrate for weight gain as well
 Dialogue: 0,0:46:53.02,0:46:57.55,Default,,0,0,0,,and we also know that alcohol has this dis inhibiting effect on your brain
 Dialogue: 0,0:46:57.55,0:47:01.55,Default,,0,0,0,,which causes you to drink more, "oh, I'm just gonna have one drink" and you end up with 5
-Dialogue: 0,0:47:01.55,0:47:06.17,Default,,0,0,0,,and of course if you do that to often, maybe you'll live and become and alcoholic
+Dialogue: 0,0:47:01.55,0:47:06.17,Default,,0,0,0,,and of course if you do that too often, maybe you'll live and become and alcoholic
 Dialogue: 0,0:47:06.17,0:47:08.88,Default,,0,0,0,,and that's addiction right there, positive feedback effect
 Dialogue: 0,0:47:08.88,0:47:12.48,Default,,0,0,0,,so here's a problem, because this is toxic
 Dialogue: 0,0:47:12.48,0:47:16.40,Default,,0,0,0,,and abused, and so we regulate it
@@ -602,7 +602,7 @@ Dialogue: 0,0:48:02.62,0:48:06.71,Default,,0,0,0,,so now you've got liver insuli
 Dialogue: 0,0:48:06.71,0:48:12.00,Default,,0,0,0,,in order to make the liver do it's job, now the high insulin goes to the brain, blocks leptin
 Dialogue: 0,0:48:12.00,0:48:17.86,Default,,0,0,0,,and now you can't see your leptin, so what does it do? It makes you think you are starving
 Dialogue: 0,0:48:17.86,0:48:21.91,Default,,0,0,0,,So what does it make you do? Consume more fructose
-Dialogue: 0,0:48:21.91,0:48:29.11,Default,,0,0,0,,so now you've got a positive feedback effect between a compount that is toxic and abused
+Dialogue: 0,0:48:21.91,0:48:29.11,Default,,0,0,0,,so now you've got a positive feedback effect between a compound that is toxic and abused
 Dialogue: 0,0:48:29.11,0:48:35.24,Default,,0,0,0,,causing damage to the liver, damage to the pancreas eventually, and damage to the brain
 Dialogue: 0,0:48:35.24,0:48:37.86,Default,,0,0,0,,but we don't do anything about that
 Dialogue: 0,0:48:37.86,0:48:45.60,Default,,0,0,0,,you'd never think about giving your kid a beer, but you don't think twice about giving your kid a coke and they do the same thing
@@ -610,7 +610,7 @@ Dialogue: 0,0:48:45.60,0:48:49.37,Default,,0,0,0,,that's one problem, now there'
 Dialogue: 0,0:48:49.37,0:48:54.80,Default,,0,0,0,,here are 5 photographs, what do they all have in common?
 Dialogue: 0,0:48:54.80,0:48:58.44,Default,,0,0,0,,There's one thing they have all…, they're all
 Dialogue: 0,0:48:58.44,0:49:03.11,Default,,0,0,0,,Brown! Good, thank you, they are all brown. This is the browning reaction
-Dialogue: 0,0:49:03.11,0:49:08.66,Default,,0,0,0,,The Maillard reaction, anybody you know what HbA1C is?
+Dialogue: 0,0:49:03.11,0:49:08.66,Default,,0,0,0,,The Maillard reaction, anybody you know what HbA1c is?
 Dialogue: 0,0:49:08.66,0:49:13.51,Default,,0,0,0,,That's the lab test they do for diabetics to see how they blood sugar control is
 Dialogue: 0,0:49:13.51,0:49:16.53,Default,,0,0,0,,that's glucose binding to proteins in the blood
 Dialogue: 0,0:49:16.53,0:49:19.68,Default,,0,0,0,,well, that's what this is, this is the Maillard reaction
@@ -704,7 +704,7 @@ Dialogue: 0,0:55:21.24,0:55:28.17,Default,,0,0,0,,foods excluding wine, oils, ro
 Dialogue: 0,0:55:28.17,0:55:30.08,Default,,0,0,0,,as separate items
 Dialogue: 0,0:55:30.08,0:55:34.75,Default,,0,0,0,,we then linked that to the International Diabetes Federation statistics database
 Dialogue: 0,0:55:34.75,0:55:37.91,Default,,0,0,0,,for diabetes prevalence worldwide, for the decade
-Dialogue: 0,0:55:37.91,0:55:41.68,Default,,0,0,0,,and then we linked that to the World Bank ?? Income database to control for
+Dialogue: 0,0:55:37.91,0:55:41.68,Default,,0,0,0,,and then we linked that to the World Bank Gross National Income database to control for
 Dialogue: 0,0:55:41.68,0:55:44.62,Default,,0,0,0,,GDP, urbanization and aging
 Dialogue: 0,0:55:44.62,0:55:48.26,Default,,0,0,0,,and then we linked that to a physical activity database, to control for physical inactivity
 Dialogue: 0,0:55:48.26,0:55:51.82,Default,,0,0,0,,and we asked the question: what about the world's diet
@@ -819,7 +819,7 @@ Dialogue: 0,1:04:17.06,1:04:21.51,Default,,0,0,0,,Ok? And then of course when yo
 Dialogue: 0,1:04:21.51,1:04:25.33,Default,,0,0,0,,Well here's a control brain, and here's an obese brain, what do you see?
 Dialogue: 0,1:04:25.33,1:04:29.55,Default,,0,0,0,,Same thing, not quite as bad, but same concept
 Dialogue: 0,1:04:29.55,1:04:35.51,Default,,0,0,0,,So here's the reward system, here's the ventral tegmental area here, where the dopamine neurons live
-Dialogue: 0,1:04:35.51,1:04:40.22,Default,,0,0,0,,and here's the nucleus accumben, where the dopamine information gets received
+Dialogue: 0,1:04:35.51,1:04:40.22,Default,,0,0,0,,and here's the nucleus Accumbens, where the dopamine information gets received
 Dialogue: 0,1:04:40.22,1:04:43.60,Default,,0,0,0,,and so how fast this gets transduced
 Dialogue: 0,1:04:43.60,1:04:46.93,Default,,0,0,0,,has everything to do with what level of reward you achieve
 Dialogue: 0,1:04:46.93,1:04:51.86,Default,,0,0,0,,with any given stimulus, whether be power or gambling, or shopping or
@@ -854,7 +854,7 @@ Dialogue: 0,1:06:44.53,1:06:49.51,Default,,0,0,0,,And this is going on in every 
 Dialogue: 0,1:06:49.51,1:06:53.86,Default,,0,0,0,,receptors here, when obese, dopamine receptors go down
 Dialogue: 0,1:06:53.86,1:06:57.73,Default,,0,0,0,,here are Bonnet macaques, same thing, and here are rats, same thing
 Dialogue: 0,1:06:57.73,1:07:01.37,Default,,0,0,0,,bottom line, obesity means downregulation of dopamine receptors, which means
-Dialogue: 0,1:07:01.37,1:07:06.17,Default,,0,0,0,,you need more food to get the same level of reword, or you might as well crawl in a hole and die
+Dialogue: 0,1:07:01.37,1:07:06.17,Default,,0,0,0,,you need more food to get the same level of reward, or you might as well crawl in a hole and die
 Dialogue: 0,1:07:06.17,1:07:07.60,Default,,0,0,0,,ok, that's what it's all about
 Dialogue: 0,1:07:07.60,1:07:12.31,Default,,0,0,0,,So these people are eating because their brain says they have to
 Dialogue: 0,1:07:12.31,1:07:17.51,Default,,0,0,0,,So, the question is, is fast food addictive? What do you think?
@@ -889,7 +889,7 @@ Dialogue: 0,1:08:55.20,1:08:59.95,Default,,0,0,0,,Energy density actually has a 
 Dialogue: 0,1:08:59.95,1:09:04.44,Default,,0,0,0,,so, fat? Not addictive
 Dialogue: 0,1:09:04.44,1:09:06.35,Default,,0,0,0,,So we are left with these two
 Dialogue: 0,1:09:06.35,1:09:09.28,Default,,0,0,0,,Caffeine? Oh man, caffeine is addictive
-Dialogue: 0,1:09:09.28,1:09:13.95,Default,,0,0,0,,and if you take my Starbucks from me I'll kill you
+Dialogue: 0,1:09:09.28,1:09:13.95,Default,,0,0,0,,and if you take my Starbucks away from me I'll kill you
 Dialogue: 0,1:09:13.95,1:09:17.11,Default,,0,0,0,,model drug of dependence, gateway drug in fact
 Dialogue: 0,1:09:17.11,1:09:23.60,Default,,0,0,0,,dependence show in children, adolescence, adults, 30% who consume it meet the DSM criteria for dependence
 Dialogue: 0,1:09:23.60,1:09:28.93,Default,,0,0,0,,and physiological addiction is well established with the headache, and the test performance, and everything else
@@ -914,7 +914,7 @@ Dialogue: 0,1:10:35.46,1:10:41.51,Default,,0,0,0,,So is there really such a thin
 Dialogue: 0,1:10:41.51,1:10:43.60,Default,,0,0,0,,the one I think is most appropriate is alcohol
 Dialogue: 0,1:10:43.60,1:10:49.15,Default,,0,0,0,,because after all alcohol and sugar are basically metabolized the same way, because after all where do you get alcohol from?
 Dialogue: 0,1:10:49.15,1:10:51.37,Default,,0,0,0,,Fermentation of sugar, it's called wine
-Dialogue: 0,1:10:51.37,1:10:53.86,Default,,0,0,0,,right? We do it every day, ?
+Dialogue: 0,1:10:51.37,1:10:53.86,Default,,0,0,0,,right? We do it every day, up in Sonoma
 Dialogue: 0,1:10:53.86,1:10:56.26,Default,,0,0,0,,the big difference between alcohol and sugar is that
 Dialogue: 0,1:10:56.26,1:11:00.66,Default,,0,0,0,,for alcohol the yeast does the first step of metabolism called glycolysis
 Dialogue: 0,1:11:00.66,1:11:03.11,Default,,0,0,0,,for sugar we do our own first step, but after that
