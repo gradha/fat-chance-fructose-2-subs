@@ -7,8 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 Collisions: Normal
 Audio URI: ../../../../Volumes/Pinky/Shared/jdownloader/Fat Chance, Fructose 2.0.mp4
-Scroll Position: 882
-Active Line: 894
+Scroll Position: 1058
+Active Line: 1064
 Video Zoom Percent: 1
 PlayResX: 1920
 PlayResY: 1080
@@ -882,7 +882,7 @@ Dialogue: 0,1:08:22.08,1:08:25.06,Default,,0,0,0,,so when we fix their physiolog
 Dialogue: 0,1:08:25.06,1:08:31.42,Default,,0,0,0,,preference gets a lot better. So salt? Not addictive.
 Dialogue: 0,1:08:31.42,1:08:34.97,Default,,0,0,0,,Now let's take fat. Is fat addictive? What do you think?
 Dialogue: 0,1:08:35.06,1:08:39.37,Default,,0,0,0,,Nope, rodents binge but show no signs of dependence, and humans
-Dialogue: 0,1:08:39.37,1:08:43.68,Default,,0,0,0,,they always bing on high fat high carb or high sugar
+Dialogue: 0,1:08:39.37,1:08:43.68,Default,,0,0,0,,they always binge on high fat high carb or high sugar
 Dialogue: 0,1:08:43.68,1:08:50.88,Default,,0,0,0,,items, like pizza and icecream, you don't binge on high fat per se, otherwise the Atkins diet would have everybody addicted and they'll tell you
 Dialogue: 0,1:08:50.88,1:08:55.20,Default,,0,0,0,,you know they are losing weight, how could they lose weight if they are all addicted?
 Dialogue: 0,1:08:55.20,1:08:59.95,Default,,0,0,0,,Energy density actually has a stronger association with obesity and metabolic syndrome than fat does
@@ -1044,7 +1044,7 @@ Dialogue: 0,1:19:13.46,1:19:19.33,Default,,0,0,0,,If you are gonna store it, tha
 Dialogue: 0,1:19:19.33,1:19:24.00,Default,,0,0,0,,the most obvious of which is high insulin, and you know where that came from,
 Dialogue: 0,1:19:24.00,1:19:28.44,Default,,0,0,0,,and you expect to burn it, that is normal energy expenditure for normal quality of life
 Dialogue: 0,1:19:28.44,1:19:31.46,Default,,0,0,0,,because energy expenditure and quality of life are synonymous
-Dialogue: 0,1:19:31.46,1:19:35.82,Default,,0,0,0,,things that make your energy expenditure go up make you feel good, like a ? off the market
+Dialogue: 0,1:19:31.46,1:19:35.82,Default,,0,0,0,,things that make your energy expenditure go up make you feel good, like ephedrin off the market
 Dialogue: 0,1:19:35.82,1:19:38.57,Default,,0,0,0,,caffeine, for two hours, exercise,
 Dialogue: 0,1:19:38.57,1:19:42.84,Default,,0,0,0,,things that make your energy expenditure go down make you feel lousy
 Dialogue: 0,1:19:42.84,1:19:46.44,Default,,0,0,0,,hypothyroidism, starvation
@@ -1084,7 +1084,7 @@ Dialogue: 0,1:22:16.93,1:22:19.42,Default,,0,0,0,,that's when we started getting
 Dialogue: 0,1:22:19.42,1:22:23.91,Default,,0,0,0,,and then the tobacco documents came out and we realized there was corporate malfeasance involved
 Dialogue: 0,1:22:23.91,1:22:26.22,Default,,0,0,0,,that's when things changed
 Dialogue: 0,1:22:26.22,1:22:29.82,Default,,0,0,0,,but not one lick of education made any difference
-Dialogue: 0,1:22:29.82,1:22:35.73,Default,,0,0,0,,in the amount of tobacco consumed, and Stan Glance ? right here at UCSF showed that very nicely
+Dialogue: 0,1:22:29.82,1:22:35.73,Default,,0,0,0,,in the amount of tobacco consumed, and Stan Glance right here at UCSF showed that very nicely
 Dialogue: 0,1:22:35.73,1:22:39.68,Default,,0,0,0,,Second question: can we afford to wait?
 Dialogue: 0,1:22:39.68,1:22:43.15,Default,,0,0,0,,The food industry will say "we need more research"
 Dialogue: 0,1:22:43.15,1:22:47.28,Default,,0,0,0,,"We need more research", of course they're gonna say we need more research, it's moving the goalposts
