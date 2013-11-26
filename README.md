@@ -16,9 +16,9 @@ video.
 
 For transcription and translation I'm using the program
 [Aegisub](http://www.aegisub.org) for the first time, which produces ``.ass``
-files. You can get the [ass file](Fat chance, fructose 2.0.ass) or download the
-[srt file](Fat chance, fructose 2.0.srt) which seems to be the format used by
-most players.
+files. You can get the [ass file](Fat chance, fructose 2.0.en.ass) or download
+the [srt file](Fat chance, fructose 2.0.en.srt) which seems to be the format
+used by most players.
 
 By the way, Under Macosx you have to use case sensitive bindings for the
 hotkeys in Aegisub, where case sensitive applies to the letter: Ctrl-r will
